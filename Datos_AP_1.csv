@@ -1,0 +1,1025 @@
+Item;Ciudad;Contratante;Area;Nestudios;Estudios;Espec;Maestria;Doctorado;Posgrado;Experiencia;Aexperiencia;Lenguajes;DatosAlma;HerraContables;HerraVisualizacion;HerraOfimaticas;OtrosConocimientos;Ing;IngF;Idiomas;Pingles;Sintervalos;SalarioN;Salario;Vacantes;Sector de la vacante
+1;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;1;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;1;Consultorías y Asesorías
+2;Bogotá;ASESORIAS SERVICIOS Y NEGOCIOS SAS;otros;1;Técnica;0;0;0;0;5;3;0;0;0;0;0;0;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;1;Consultorías y Asesorías
+3;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;Salario a convenir;870000;0;1;Servicios
+4;Bogotá;PAYU COLOMBIA SAS;Operaciones y Procesos;2;Universitaria;0;0;0;0;2;2;0;0;0;0;1;0;C2;6;C;Si;Salario a convenir;870000;0;1;Servicios
+5;Bogotá;INCAP S.C.A;Docencia e I+D;3;Especialización;1;0;0;1;1;1;0;0;0;0;0;0;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;2;Educativo
+6;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;3;Especialización;1;0;0;1;5;3;0;0;0;0;0;1;Otro;0;Otro;No;$6 millones o más;6500000;3;2;Servicios
+7;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;4;2;0;0;0;0;0;0;Otro;0;Otro;No;Salario a convenir;870000;0;1;Consultorías y Asesorías
+8;Bogotá;Empresa confidencial;Docencia e I+D;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;0;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;Educativo
+9;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;10;4;0;0;0;0;0;0;Otro;0;Otro;No;Salario a convenir;870000;0;1;Servicios
+10;Bogotá;Empresa confidencial;otros;2;Universitaria;0;0;0;0;2;2;0;0;1;0;0;0;Otro;0;Otro;No;$1,5 a $2 millones;1750000;1;1;Comercio al por menor - retail
+11;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;1;Otro;0;Otro;No;Salario a convenir;870000;0;1;Químicos
+12;Bogotá;Deloitte;Docencia e I+D;2;Universitaria;0;0;0;0;2;2;0;0;0;0;1;0;B2;4;B;Si;Salario a convenir;870000;0;2;Consultorías y Asesorías
+13;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;0;0;1;1;Otro;0;Otro;No;Salario a convenir;870000;0;1;Asegurador
+14;Bogotá;Politecnico Grancolombiano;Docencia e I+D;3;Maestría;0;1;1;1;2;2;0;0;0;0;0;1;B2;4;B;Si;$5,5 a $6 millones;5750000;3;1;Educativo
+15;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;Otro;Otro;0;0;0;0;0;0;Otro;0;Otro;No;Salario a convenir;870000;0;2;Educativo
+16;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;3;2;0;0;0;0;0;1;Otro;0;Otro;No;$3,5 a $4 millones;3750000;2;1;Servicios
+17;Bogotá;MONDELÉZ;Docencia e I+D;2;Universitaria;0;0;0;0;1;1;1;1;0;0;0;0;C2;6;C;Si;Salario a convenir;870000;0;1;Alimentos
+18;Bogotá;Fiduoccidente;Comercial, ventas y servicio al cliente;3;Especialización;1;0;0;1;5;3;0;0;0;0;0;1;Otro;0;Otro;No;$6 millones o más;6500000;3;1;Financiero
+19;Bogotá;OUTSOURCING S.A;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;0;Otro;0;Otro;No;$3 a $3,5 millones;3250000;2;1;Consultorías y Asesorías
+20;Bogotá;Tecnoquimicas;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;Otro;Otro;0;1;0;0;1;0;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;Consumo masivo
+21;Bogotá;UNIVERSIDAD LA GRAN COLOMBIA;Docencia e I+D;3;Maestría;0;1;1;1;2;2;0;0;0;0;0;0;Otro;0;Otro;No;Salario a convenir;870000;0;1;Educativo
+22;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;1;0;Otro;0;Otro;No;$1,5 a $2 millones;1750000;1;1;Químicos
+23;Bogotá;Empresa confidencial;Docencia e I+D;3;Maestría;0;1;0;1;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$4 a $4,5 millones;4250000;2;1;Educativo
+24;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;1;0;1;0;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;Telecomunicaciones
+25;Bogotá;PricewaterhouseCoopers;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;Otro;Otro;0;1;0;0;1;0;Otro;0;Otro;No;Salario a convenir;870000;0;2;Consultorías y Asesorías
+26;Bogotá;BANCO POPULAR;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;0;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;1;Financiero
+27;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;1;0;0;0;0;0;Otro;0;Otro;No;$3 a $3,5 millones;3250000;2;10;Servicios
+28;Bogotá;INCAP S.C.A;Docencia e I+D;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;0;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;5;Educativo
+29;Bogotá;pricewaterhouseCoopers;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;4;2;0;0;1;0;0;0;Otro;0;Otro;No;Salario a convenir;870000;0;1;Consultorías y Asesorías
+30;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;5;3;0;0;0;0;0;0;C2;6;C;Si;$5,5 a $6 millones;5750000;3;1;Textiles, prendas de vestir y calzado
+31;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;1;0;0;1;0;0;Otro;0;Otro;No;Salario a convenir;870000;0;1;Financiero
+32;Bogotá;LG CONSULTORES SAS;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;5;3;0;0;0;0;0;1;Otro;0;Otro;No;$4,5 a $5 millones;4750000;2;1;Consultorías y Asesorías
+33;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;5;3;0;0;0;0;0;0;Otro;0;Otro;No;$5,5 a $6 millones;5750000;3;1;Consultorías y Asesorías
+34;Bogotá;GESTION SAS;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;5;3;0;0;0;0;0;1;Otro;0;Otro;No;$3 a $3,5 millones;3250000;2;1;Consultorías y Asesorías
+35;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;1;1;Otro;0;Otro;No;Salario a convenir;870000;0;1;Financiero
+36;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;3;Especialización;0;0;0;1;3;2;0;0;0;0;0;0;C2;6;C;Si;$6 millones o más;6500000;3;1;Otros servicios
+37;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;2;2;0;0;0;0;0;1;Otro;0;Otro;No;Salario a convenir;870000;0;1;Financiero
+38;Bogotá;OUTSOURCING S.A;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;0;1;0;0;0;0;0;0;Otro;0;Otro;No;$3 a $3,5 millones;3250000;2;1;Consultorías y Asesorías
+39;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Maestría;0;1;0;1;10;4;0;0;0;0;0;1;C2;6;C;Si;Salario a convenir;870000;0;1;Servicios
+40;Bogotá;ALQUERIA;Comercial, ventas y servicio al cliente;2;Universitaria;1;0;0;1;3;2;0;0;0;0;0;0;Otro;0;Otro;No;$5,5 a $6 millones;5750000;3;1;Alimentos
+41;Bogotá;Proalco S.A.;otros;3;Especialización;1;0;0;1;5;3;0;1;0;0;1;1;C2;6;C;Si;$4,5 a $5 millones;4750000;2;1;Manufactura
+42;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;1;1;Otro;0;Otro;No;$3 a $3,5 millones;3250000;2;1;Vehículos y partes
+43;Bogotá;ArteUmano;Docencia e I+D;2;Universitaria;0;0;0;0;4;2;0;0;0;0;0;1;C2;6;C;Si;$3,5 a $4 millones;3750000;2;1;Consultorías y Asesorías
+44;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;1;0;0;1;0;Otro;0;Otro;No;Salario a convenir;870000;0;1;Servicios
+45;Bogotá;FIPC ALBERTO MERANI;Docencia e I+D;1;Técnica;0;0;0;0;1;1;0;0;0;0;0;0;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;1;Educativo
+46;Bogotá;Empresa confidencial;Docencia e I+D;3;Especialización;0;1;0;1;10;4;0;0;0;0;0;0;C2;6;C;Si;Salario a convenir;870000;0;1;Servicios
+47;Bogotá;Empresa confidencial;otros;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;Salario a convenir;870000;0;1;Consultorías y Asesorías
+48;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;1;0;1;1;Otro;0;Otro;No;$3 a $3,5 millones;3250000;2;1;Construcción
+49;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;3;Especialización;1;0;0;1;4;2;0;0;0;0;0;0;Otro;0;Otro;No;$4 a $4,5 millones;4250000;2;1;Servicios
+50;Bogotá;THE ESTÉE LAUDER COMPANIES;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;5;3;0;0;0;0;1;1;B2;4;B;Si;Salario a convenir;870000;0;1;Comercio al por menor - retail
+51;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;0;0;0;1;10;4;0;0;0;0;0;0;Otro;0;Otro;No;Salario a convenir;870000;0;1;Consultorías y Asesorías
+52;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;1;0;0;1;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;1;Servicios
+53;Bogotá;Empresa confidencial;Docencia e I+D;3;Especialización;1;0;0;1;5;3;0;0;0;0;0;0;C2;6;C;Si;Salario a convenir;870000;0;1;Servicios
+54;Bogotá;Empresa confidencial;otros;2;Universitaria;0;0;0;0;4;2;0;0;0;0;0;0;Otro;0;Otro;No;Salario a convenir;870000;0;1;Tecnología
+55;Bogotá;Performia Colombia SAS;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;1;Servicios
+56;Bogotá;Performia Colombia SAS;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;1;Servicios
+57;Bogotá;ADECCO COLOMBIA S A;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;1;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;2;Consultorías y Asesorías
+58;Bogotá;Performia Colombia SAS;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;1;Servicios
+59;Bogotá;Empresa confidencial;Docencia e I+D;3;Especialización;1;1;0;1;15;5;0;0;0;0;0;1;Otro;0;Otro;No;Salario a convenir;870000;0;1;Consultorías y Asesorías
+60;Bogotá;Performia Colombia SAS;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;1;Servicios
+61;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;Salario a convenir;870000;0;1;Servicios
+62;Bogotá;Deloitte;Docencia e I+D;2;Universitaria;0;0;0;0;2;2;0;0;0;0;1;0;B2;4;B;Si;Salario a convenir;870000;0;2;Consultorías y Asesorías
+63;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;15;5;0;0;0;0;0;0;Otro;0;Otro;No;Salario a convenir;870000;0;1;Consultorías y Asesorías
+64;Bogotá;MANPOWER;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;0;0;1;1;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;1;Consultorías y Asesorías
+65;Bogotá;Cencosud Colombia;Administrativa, Auditoria,  Financiera, Gerencia;1;Técnica;0;0;0;0;3;2;0;0;0;0;0;0;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;6;Comercio al por menor - retail
+66;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;1;1;Otro;0;Otro;No;Salario a convenir;870000;0;1;Químicos
+67;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;1;0;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;1;Servicios
+68;Bogotá;Empresa confidencial;Docencia e I+D;3;Especialización;1;0;0;1;4;2;0;0;0;0;0;0;C2;6;C;Si;$6 millones o más;6500000;3;1;Salud
+69;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;4;2;0;0;0;0;0;1;Otro;0;Otro;No;Salario a convenir;870000;0;1;Salud
+70;Bogotá;Fundación Plan;Docencia e I+D;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;1;Otro;0;Otro;No;$4 a $4,5 millones;4250000;2;1;Organizaciones No Gubernamentales
+71;Bogotá;COMPETENCIA HUMANA S.A.S.;Comercial, ventas y servicio al cliente;3;Especialización;1;0;0;1;2;2;0;0;1;0;0;1;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;1;Consultorías y Asesorías
+72;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;1;0;0;1;Otro;Otro;0;0;0;0;1;0;B2;4;B;Si;$1,5 a $2 millones;1750000;1;1;Financiero
+73;Bogotá;MANPOWER;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;0;C2;6;C;Si;$1,5 a $2 millones;1750000;1;30;Consultorías y Asesorías
+74;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;6;3;0;0;0;0;0;0;Otro;0;Otro;No;$6 millones o más;6500000;3;1;Asegurador
+75;Bogotá;Empresa confidencial;Docencia e I+D;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$3 a $3,5 millones;3250000;2;2;Construcción
+76;Bogotá;SIO-SOLUTEMP;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;1;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;2;Servicios
+77;Bogotá;Empresa confidencial;Docencia e I+D;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;1;Otro;0;Otro;No;$5,5 a $6 millones;5750000;3;4;Consultorías y Asesorías
+78;Bogotá;Performia Colombia SAS;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;1;Servicios
+79;Bogotá;Los Cobos Medical Center;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;1;0;0;0;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;Salud
+80;Bogotá;Empresa confidencial;Docencia e I+D;3;Especialización;1;0;0;1;4;2;0;0;1;0;1;0;B2;4;B;Si;Salario a convenir;870000;0;1;Construcción
+81;Bogotá;ACTIVOS S.A.S.;Comercial, ventas y servicio al cliente;1;Técnica;0;0;0;0;Otro;Otro;0;0;0;0;0;1;Otro;0;Otro;No;$3,5 a $4 millones;3750000;2;46;Consultorías y Asesorías
+82;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;6;3;0;0;0;0;0;1;Otro;0;Otro;No;$6 millones o más;6500000;3;1;Servicios
+83;Bogotá;MANPOWER;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;B2;4;B;Si;$5,5 a $6 millones;5750000;3;2;Consultorías y Asesorías
+84;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;0;B2;4;B;Si;Salario a convenir;870000;0;1;Químicos
+85;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;Otro;Otro;0;0;0;0;1;1;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;1;Otros servicios
+86;Bogotá;Old Mutual;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;Salario a convenir;870000;0;1;Financiero
+87;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;3;2;0;0;0;0;1;1;Otro;0;Otro;No;$6 millones o más;6500000;3;1;Financiero
+88;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;Otro;Otro;0;0;0;0;0;0;Otro;0;Otro;No;Salario a convenir;870000;0;2;Educativo
+89;Bogotá;ACTIVOS S.A.S.;Comercial, ventas y servicio al cliente;1;Técnica;0;0;0;0;Otro;Otro;0;0;0;0;0;1;Otro;0;Otro;No;$3,5 a $4 millones;3750000;2;46;Consultorías y Asesorías
+90;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;1;Otro;0;Otro;No;Salario a convenir;870000;0;1;Comercio al por menor - retail
+91;Bogotá;Empresa confidencial;Compras, Inventarios y comercio Internacional;2;Universitaria;0;0;0;0;2;2;0;0;1;0;1;0;Otro;0;Otro;No;Salario a convenir;870000;0;1;Asegurador
+92;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;1;1;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;1;Servicios
+93;Bogotá;Multibanca Colpatria;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;2;Financiero
+94;Bogotá;SERDAN SA;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;1;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;16;Consultorías y Asesorías
+95;Bogotá;SERDAN SA;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;1;Otro;0;Otro;No;$0,5 a $1 millón;750000;1;10;Consultorías y Asesorías
+96;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;9;4;0;0;0;0;0;0;Otro;0;Otro;No;Salario a convenir;870000;0;5;Consultorías y Asesorías
+97;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;0;C2;6;C;Si;Salario a convenir;870000;0;1;Entretenimiento
+98;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Maestría;0;1;0;1;5;3;0;0;0;0;0;0;B2;4;B;Si;$5,5 a $6 millones;5750000;3;1;Educativo
+99;Bogotá;ASONAC;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;1;Otro;0;Otro;No;$3 a $3,5 millones;3250000;2;3;Estatal
+100;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;3;Especialización;0;0;0;1;5;3;0;0;0;0;0;0;C2;6;C;Si;Salario a convenir;870000;0;1;Alimentos
+101;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;Salario a convenir;870000;0;1;Energético
+102;Bogotá;Performia Colombia SAS;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;1;Servicios
+103;Bogotá;Empresa confidencial;otros;2;Universitaria;0;0;0;0;3;2;0;1;0;0;0;0;Otro;0;Otro;No;$3 a $3,5 millones;3250000;2;1;Financiero
+104;Bogotá;SISTEMA INTEGRADO DE OPERACIÓN DE TRANSPORTE SI18 S.A.S.;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;5;3;0;0;0;0;0;1;Otro;0;Otro;No;Salario a convenir;870000;0;1;Estatal
+105;Bogotá;CASA LUKER;Docencia e I+D;3;Especialización;1;0;0;1;2;2;0;0;0;0;0;1;Otro;0;Otro;No;$4 a $4,5 millones;4250000;2;1;Alimentos
+106;Bogotá;Empresa confidencial;Docencia e I+D;2;Universitaria;0;0;0;0;5;3;1;1;0;1;1;0;Otro;0;Otro;No;Salario a convenir;870000;0;1;Asegurador
+107;Bogotá;Performia Colombia SAS;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;1;Servicios
+108;Bogotá;Tecnoquimicas;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;5;3;0;0;0;0;0;0;Otro;0;Otro;No;$5,5 a $6 millones;5750000;3;1;Consumo masivo
+109;Bogotá;CAFAM;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;1;1;0;0;Otro;0;Otro;No;Salario a convenir;870000;0;2;Servicios
+110;Bogotá;Quala S.A.;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;Salario a convenir;870000;0;3;Consumo masivo
+111;Bogotá;Performia Colombia SAS;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;1;Servicios
+112;Bogotá;Performia Colombia SAS;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;1;0;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;Servicios
+113;Bogotá;Performia Colombia SAS;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;10;4;0;0;1;0;0;1;Otro;0;Otro;No;$6 millones o más;6500000;3;1;Servicios
+114;Bogotá;VEOLIA;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;3;Servicios
+115;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;Otro;Otro;0;0;0;0;0;0;Otro;0;Otro;No;Salario a convenir;870000;0;2;Educativo
+116;Bogotá;COLSUBSIDIO;Comercial, ventas y servicio al cliente;2;Universitaria;1;0;0;1;5;3;0;0;0;0;0;0;Otro;0;Otro;No;$6 millones o más;6500000;3;1;Servicios
+117;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;3;Especialización;1;0;0;1;4;2;0;0;0;0;0;1;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;1;Servicios
+118;Bogotá;Empresa confidencial;Operaciones y Procesos;2;Universitaria;0;0;0;0;3;2;0;0;0;0;1;0;Otro;0;Otro;No;Salario a convenir;870000;0;1;Asegurador
+119;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;5;3;0;0;0;0;1;1;B2;4;B;Si;Salario a convenir;870000;0;1;Asegurador
+120;Bogotá;Empresa confidencial;Docencia e I+D;3;Especialización;1;0;0;1;6;3;0;0;0;0;0;1;B2;4;B;Si;$5,5 a $6 millones;5750000;3;1;Educativo
+121;Bogotá;Empresa confidencial;Docencia e I+D;2;Universitaria;0;0;0;0;2;2;0;0;1;0;0;1;Otro;0;Otro;No;$3 a $3,5 millones;3250000;2;1;Químicos
+122;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;7;3;0;0;0;0;0;1;Otro;0;Otro;No;$5,5 a $6 millones;5750000;3;1;Energético
+123;Bogotá;Linexperts Consultoria Empresarial SAS;otros;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;Salario a convenir;870000;0;1;Consultorías y Asesorías
+124;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;Otro;Otro;0;0;0;0;0;0;Otro;0;Otro;No;Salario a convenir;870000;0;2;Educativo
+125;Bogotá;"
+PROQUINAL";Docencia e I+D;3;Especialización;1;0;0;1;5;3;0;1;0;0;1;1;B2;4;B;Si;$5,5 a $6 millones;5750000;3;1;Textiles, prendas de vestir y calzado
+126;Bogotá;"
+FIPC ALBERTO MERANI";Docencia e I+D;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;1;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;2;Educativo
+127;Bogotá;Universidad del Rosario;Docencia e I+D;3;Especialización;0;0;0;1;3;2;0;1;0;0;0;1;B2;4;B;Si;$4 a $4,5 millones;4250000;2;1;Educativo
+128;Bogotá;Universidad del Rosario;Docencia e I+D;3;Especialización;1;0;0;1;3;2;0;1;0;1;0;0;B2;4;B;Si;$4 a $4,5 millones;4250000;2;1;Educativo
+129;Bogotá;CREDICORP CAPITAL COLOMBIA;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;4;2;1;0;0;0;1;0;Otro;0;Otro;No;Salario a convenir;870000;0;1;Financiero
+130;Bogotá;PROFAMILIA;Docencia e I+D;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;1;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;2;Salud
+131;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;3;Especialización;1;0;0;1;4;2;0;0;0;0;0;1;C2;6;C;Si;$4,5 a $5 millones;4750000;2;1;Transporte
+132;Bogotá;Empresa confidencial;Compras, Inventarios y comercio Internacional;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;1;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;Consultorías y Asesorías
+133;Bogotá;CASA LUKER;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;1;C2;6;C;Si;$2,5 a $3 millones;2750000;2;1;Alimentos
+134;Bogotá;CREDICORP CAPITAL COLOMBIA;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;4;2;1;0;0;0;1;0;Otro;0;Otro;No;Salario a convenir;870000;0;1;Financiero
+135;Bogotá;CODERE COLOMBIA S.A;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;5;3;0;0;0;0;0;0;Otro;0;Otro;No;Salario a convenir;870000;0;1;Entretenimiento
+136;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;3;Especialización;1;0;0;1;5;3;0;0;0;0;0;0;Otro;0;Otro;No;$4,5 a $5 millones;4750000;2;1;Servicios
+137;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;23;Consultorías y Asesorías
+138;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;5;3;0;0;0;0;0;1;Otro;0;Otro;No;$4,5 a $5 millones;4750000;2;3;Consultorías y Asesorías
+139;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;1;0;0;0;0;1;Otro;0;Otro;No;$3,5 a $4 millones;3750000;2;1;Otros servicios
+140;Bogotá;Empresa confidencial;Docencia e I+D;3;Especialización;1;0;0;1;4;2;0;1;0;0;0;1;Otro;0;Otro;No;$4,5 a $5 millones;4750000;2;1;Financiero
+141;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;4;2;0;0;0;0;0;1;Otro;0;Otro;No;$4,5 a $5 millones;4750000;2;1;Salud
+142;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;1;Técnica;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$0,5 a $1 millón;750000;1;2;Financiero
+143;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;1;Otro;0;Otro;No;$4,5 a $5 millones;4750000;2;1;Telecomunicaciones
+144;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;3;Especialización;1;0;0;1;4;2;0;0;0;0;0;0;Otro;0;Otro;No;$6 millones o más;6500000;3;1;Telecomunicaciones
+145;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;5;3;0;0;0;0;1;1;Otro;0;Otro;No;Salario a convenir;870000;0;1;Tecnología
+146;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;1;Otro;0;Otro;No;$4 a $4,5 millones;4250000;2;1;Telecomunicaciones
+147;Bogotá;INTERACTIVO CONTACT CENTER S.A;Comercial, ventas y servicio al cliente;1;Técnica;0;0;0;0;1;1;0;1;0;0;1;0;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;2;Mercadeo y publicidad
+148;Bogotá;INTERACTIVO CONTACT CENTER S.A;otros;1;Técnica;0;0;0;0;3;2;0;1;0;0;1;0;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;2;Mercadeo y publicidad
+149;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;1;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;Servicios
+150;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;3;Especialización;1;0;0;1;10;4;0;0;0;0;0;0;Otro;0;Otro;No;$5,5 a $6 millones;5750000;3;1;Tecnología
+151;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;0;0;0;1;7;3;0;0;0;0;0;0;Otro;0;Otro;No;Salario a convenir;870000;0;1;Servicios
+152;Bogotá;PROQUINAL;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;1;0;0;1;5;3;0;0;0;0;1;1;Otro;0;Otro;No;$4,5 a $5 millones;4750000;2;1;Textiles, prendas de vestir y calzado
+153;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;0;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;Otros servicios
+154;Bogotá;UNIANDINOS;Docencia e I+D;3;Especialización;1;0;0;1;5;3;0;0;0;0;0;0;Otro;0;Otro;No;$6 millones o más;6500000;3;1;Educativo
+155;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;4;2;0;0;0;0;0;1;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;2;Tecnología
+156;Bogotá;Rawson BPO;otros;2;Universitaria;0;0;0;0;5;3;0;0;1;1;1;0;Otro;0;Otro;No;Salario a convenir;870000;0;1;Consultorías y Asesorías
+157;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;1;1;0;0;0;0;1;1;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;Construcción
+158;Bogotá;Confianza S.A.;Operaciones y Procesos;3;Especialización;0;0;0;1;5;3;0;0;1;0;0;0;B2;4;B;Si;$3,5 a $4 millones;3750000;2;1;Asegurador
+159;Bogotá;Performia Colombia SAS;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;4;2;0;0;1;0;0;1;Otro;0;Otro;No;$6 millones o más;6500000;3;1;Servicios
+160;Bogotá;ORGANIZACION T&S;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;Otro;Otro;0;0;0;0;1;0;Otro;0;Otro;No;$1,5 a $2 Millones;1750000;1;2;Consultorías y Asesorías
+161;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;0.5;1;0;0;0;0;0;0;Otro;0;Otro;No;Salario a convenir;870000;0;5;Financiero
+162;Bogotá;Nexarte;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;0;B2;4;B;Si;$3,5 a $4 millones;3750000;2;1;Consultorías y Asesorías
+163;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;0;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;1;Asegurador
+164;Bogotá;PricewaterhouseCoopers;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;1;0;0;0;Otro;0;Otro;No;Salario a convenir;870000;0;1;Consultorías y Asesorías
+165;Bogotá;Empresa confidencial;Docencia e I+D;2;Universitaria;0;0;0;0;3;2;0;0;0;0;1;1;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;1;Vehículos y partes
+166;Bogotá;PricewaterhouseCoopers;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;8;4;0;0;1;0;0;0;B2;4;B;Si;Salario a convenir;870000;0;1;Consultorías y Asesorías
+167;Bogotá;Empresa confidencial;Docencia e I+D;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;0;C2;6;C;Si;$4 a $4,5 millones;4250000;2;1;Servicios
+168;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;1;Consultorías y Asesorías
+169;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;0;C2;6;C;Si;Salario a convenir;870000;0;1;Financiero
+170;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;Otro;Otro;0;0;0;0;0;0;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;2;Financiero
+171;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;Salario a convenir;870000;0;1;Financiero
+172;Bogotá;Empresa confidencial;Docencia e I+D;3;Especialización;1;0;0;1;4;2;0;0;0;0;0;0;Otro;0;Otro;No;$4,5 a $5 millones;4750000;2;2;Financiero
+173;Bogotá;"
+Empresa confidencial";otros;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;$4 a $4,5 millones;4250000;2;2;Transporte
+174;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;5;3;0;0;0;0;0;0;Otro;0;Otro;No;Salario a convenir;870000;0;1;Servicios
+175;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;1;0;1;10;4;0;0;0;0;0;0;Otro;0;Otro;No;$6 millones o más;6500000;3;1;Consumo masivo
+176;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;0.5;1;0;0;0;0;0;0;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;Consultorías y Asesorías
+177;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;0.5;1;0;0;0;0;0;0;B2;4;B;Si;Salario a convenir;870000;0;1;Consultorías y Asesorías
+178;Bogotá;Casa Limpia;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;6;3;0;0;0;0;0;1;Otro;0;Otro;No;$4 a $4,5 millones;4250000;2;1;Servicios
+179;Bogotá;Performia Colombia SAS;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;1;Servicios
+180;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;0;C2;6;C;Si;$5,5 a $6 millones;5750000;3;1;Consumo masivo
+181;Bogotá;Millenium BPO S.A;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;3;Telecomunicaciones
+182;Bogotá;Dredging International NV Colombia;Administrativa, Auditoria,  Financiera, Gerencia;3;Maestría;0;1;0;1;2;2;0;0;0;0;0;0;C2;6;C;Si;$6 millones o más;6500000;3;1;Construcción
+183;Bogotá;Ernst & Young Audit SAS;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;0;B2;4;B;Si;Salario a convenir;870000;0;1;Consultorías y Asesorías
+184;Bogotá;Millenium BPO S.A;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;0;Otro;0;Otro;No;$1,5 a $2 Millones;1750000;1;3;Telecomunicaciones
+185;Bogotá;Performia Colombia SAS;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;Servicios
+186;Bogotá;GLORIA COLOMBIA;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;0;Otro;0;Otro;No;$3 a $3,5 Millones;3250000;2;1;Consumo masivo
+187;Bogotá;CENIT TRANSPORTE Y LOGISTICA DE HIDROCARBUROS SAS;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;8;4;0;0;0;0;0;1;Otro;0;Otro;No;Salario a convenir;870000;0;1;Energético
+188;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;3;Especialización;1;0;0;1;3;2;0;0;0;0;0;1;Otro;0;Otro;No;$6 millones o más;6500000;3;1;Salud
+189;Bogotá;SERDAN SA;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;0;0;1;1;Otro;0;Otro;No;$6 millones o más;6500000;3;1;Consultorías y Asesorías
+190;Bogotá;Diane & Geordi;Comercial, ventas y servicio al cliente;1;Técnica;0;0;0;0;4;2;0;0;0;0;0;0;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;2;Textiles, prendas de vestir y calzado
+191;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Maestría;0;1;0;1;15;5;0;0;0;0;0;0;C2;6;C;Si;$6 millones o más;6500000;3;1;Servicios
+192;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;3;2;0;0;0;0;0;0;Otro;0;Otro;No;Salario a convenir;870000;0;1;Financiero
+193;Bogotá;Empresa confidencial;Compras, Inventarios y comercio Internacional;3;Maestría;0;1;0;1;5;3;0;0;1;0;0;0;Otro;0;Otro;No;$6 millones o más;6500000;3;1;Consultorías y Asesorías
+194;Bogotá;Multibanca Colpatria;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$3,5 a $4 millones;3750000;2;2;Financiero
+195;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;1;0;1;12;5;0;0;0;0;0;0;Otro;0;Otro;No;Salario a convenir;870000;0;1;Consultorías y Asesorías
+196;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;$1,5 a $2 millones;1750000;1;1;Salud
+197;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;1;1;Otro;0;Otro;No;$3 a $3,5 millones;3250000;2;1;Otro
+198;Bogotá;Performia Colombia SAS;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;1;Servicios
+199;Bogotá;Empresa confidencial;Docencia e I+D;2;Universitaria;0;0;0;0;3;2;0;0;1;0;0;1;Otro;0;Otro;No;Salario a convenir;870000;0;2;Químicos
+200;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;5;3;0;0;0;0;0;0;Otro;0;Otro;No;$5,5 a $6 millones;5750000;3;1;Construcción
+201;Bogotá;Performia Colombia SAS;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;1;1;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;Servicios
+202;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;5;3;0;0;0;0;1;1;Otro;0;Otro;No;$4 a $4,5 millones;4250000;2;1;Textiles, prendas de vestir y calzado
+203;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;1;Asegurador
+204;Bogotá;Cruz Verde;Operaciones y Procesos;2;Universitaria;0;0;0;0;2;2;0;0;0;0;1;0;Otro;0;Otro;No;$3 a $3,5 millones;3250000;2;2;Otro
+205;Bogotá;"
+SURA";Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$3 a $3,5 millones;3250000;2;1;Servicios
+206;Bogotá;Empresa confidencial;Docencia e I+D;3;Especialización;0;0;0;1;1;1;0;0;0;0;0;0;Otro;0;Otro;No;Salario a convenir;870000;0;1;Educativo
+207;Bogotá;Deloitte;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;1;1;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;4;Consultorías y Asesorías
+208;Bogotá;Empresa confidencial;Docencia e I+D;1;Técnica;0;0;0;0;2;2;1;1;0;1;1;0;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;2;Financiero
+209;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;3;2;0;0;0;0;1;1;C2;6;C;Si;$5,5 a $6 millones;5750000;3;1;Servicios
+210;Bogotá;Empresa confidencial;Operaciones y Procesos;3;Especialización;1;0;0;1;2;2;1;1;0;0;0;1;Otro;0;Otro;No;$4 a $4,5 millones;4250000;2;1;Salud
+211;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;4;2;0;0;0;0;0;0;Otro;0;Otro;No;$3 a $3,5 millones;3250000;2;1;Servicios
+212;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;1;Técnica;0;0;0;0;1;1;0;0;0;0;0;0;Otro;0;Otro;No;$0,5 a $1 millón;750000;1;1;Servicios
+213;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;Otro;Otro;0;0;0;0;0;0;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;1;Consumo masivo
+214;Bogotá;Opes Transformacion SAS;Administrativa, Auditoria,  Financiera, Gerencia;1;Técnica;0;0;0;0;Otro;Otro;0;0;0;0;0;0;Otro;0;Otro;No;Salario a convenir;870000;0;1;Consultorías y Asesorías
+215;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;2;Universitaria;1;0;0;1;3;2;0;0;0;0;1;1;B2;4;B;Si;$3,5 a $4 millones;3750000;2;1;Manufactura
+217;Bogotá;Universidad del Rosario;Docencia e I+D;3;Especialización;1;0;0;1;3;2;0;0;0;0;1;0;B2;4;B;Si;$4 a $4,5 millones;4250000;2;1;Educativo
+218;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;0;Otro;0;Otro;No;Salario a convenir;870000;0;1;Servicios
+219;Bogotá;Elite Ltda;Comercial, ventas y servicio al cliente;1;Técnica;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;10;Servicios
+220;Bogotá;Multibanca Colpatria;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;4;2;0;0;0;0;0;1;C2;6;C;Si;$4,5 a $5 millones;4750000;2;5;Financiero
+221;Bogotá;L&L TALENTO HUMANO CONSULTORES S.A.S;Comercial, ventas y servicio al cliente;3;Especialización;1;0;0;1;15;5;0;0;0;0;0;1;Otro;0;Otro;No;$5,5 a $6 millones;5750000;3;1;Consultorías y Asesorías
+222;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;Otro;Otro;0;0;0;0;0;0;Otro;0;Otro;No;Salario a convenir;870000;0;1;Educativo
+223;Bogotá;Multibanca Colpatria;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;0;Otro;0;Otro;No;$1,5 a $2 millones;1750000;1;3;Financiero
+224;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;0;0;1;1;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;Químicos
+225;Bogotá;SURA;Comercial, ventas y servicio al cliente;3;Especialización ;1;0;0;1;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$3 a $3,5 millones;3250000;2;1;Servicios
+226;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;1;Técnica;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$1,5 a $2 millones;1750000;1;2;Financiero
+227;Bogotá;COOMEVA;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;10;Servicios
+228;Bogotá;Empresa confidencial;Docencia e I+D;2;Universitaria;0;0;0;0;1;1;1;0;0;0;0;1;Otro;0;Otro;No;$3 a $3,5 millones;3250000;2;1;Financiero
+229;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Maestría;0;1;0;1;15;5;0;0;0;0;0;1;C2;6;C;Si;$6 millones o más;6500000;3;1;Servicios
+230;Bogotá;CIFIN S.A.;Docencia e I+D;3;Maestría;0;1;1;1;7;3;1;0;0;1;0;1;C2;6;C;Si;$6 millones o más;6500000;3;1;Financiero
+231;Bogotá;Performia Colombia SAS;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;10;4;0;0;0;0;0;0;Otro;0;Otro;No;$6 millones o más;6500000;3;1;Servicios
+232;Bogotá;Performia Colombia SAS;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;1;Servicios
+233;Bogotá;Performia Colombia SAS;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;1;1;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;Servicios
+234;Bogotá;ADECCO COLOMBIA S A;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;5;3;0;0;0;0;0;1;Otro;0;Otro;No;Salario a convenir;870000;0;1;Consultorías y Asesorías
+235;Bogotá;Empresa confidencial;otros;3;Especialización;1;1;0;1;5;3;0;0;1;0;0;0;Otro;0;Otro;No;Salario a convenir;870000;0;1;Financiero
+236;Bogotá;ADECCO COLOMBIA S A;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;1;1;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;4;Consultorías y Asesorías
+237;Bogotá;ADECCO COLOMBIA S A;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;1;1;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;4;Consultorías y Asesorías
+238;Bogotá;Performia Colombia SAS;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;1;Servicios
+239;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;5;3;0;0;0;0;0;1;C2;6;C;Si;$4,5 a $5 millones;4750000;2;1;Energético
+240;Bogotá;Performia Colombia SAS;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;1;1;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;Servicios
+241;Bogotá;ADECCO COLOMBIA S A;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;1;1;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;4;Consultorías y Asesorías
+242;Bogotá;Bairesdev S.A.;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;0;C2;6;C;Si;Salario a convenir;870000;0;4;Tecnología
+243;Bogotá;Bairesdev S.A.;Administrativa, Auditoria,  Financiera, Gerencia;1;Técnica;0;0;0;0;2;2;0;0;0;0;0;0;C2;6;C;Si;Salario a convenir;870000;0;4;Tecnología
+244;Bogotá;ITBF CONSULTING S.A.S.;otros;2;Universitaria;0;0;0;0;2;2;1;1;1;1;0;1;Otro;0;Otro;No;Salario a convenir;870000;0;1;Tecnología
+245;Bogotá;ADECCO COLOMBIA S A;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;1;1;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;4;Consultorías y Asesorías
+246;Bogotá;Performia Colombia SAS;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;1;Servicios
+247;Bogotá;Performia Colombia SAS;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;1;1;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;Servicios
+248;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;5;3;0;0;0;0;0;1;Otro;0;Otro;No;$6 millones o más;6500000;3;1;Consumo masivo
+249;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;1;Otro;0;Otro;No;$4,5 a $5 millones;4750000;2;1;Consultorías y Asesorías
+250;Bogotá;Empresa confidencial;Docencia e I+D;2;Universitaria;0;0;0;0;2;2;1;1;0;1;1;1;Otro;0;Otro;No;$3 a $3,5 millones;3250000;2;1;Salud
+251;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;1;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;Financiero
+252;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$3 a $3,5 millones;3250000;2;1;Servicios
+253;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;1;1;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;Servicios
+254;Bogotá;ALIANZA VALORES;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;$1,5 a $2 millones;1750000;1;5;Financiero
+255;Bogotá;TALENTUM TEMPORAL SAS;Administrativa, Auditoria,  Financiera, Gerencia;1;Técnica;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;12;Consultorías y Asesorías
+256;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;5;3;0;0;1;0;0;0;Otro;0;Otro;No;$6 millones o más;6500000;3;1;Tecnología
+257;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;Otro;Otro;0;0;1;0;0;1;Otro;0;Otro;No;Salario a convenir;870000;0;1;Tecnología
+258;Bogotá;Empresa confidencial;Compras, Inventarios y comercio Internacional;2;Universitaria;0;0;0;0;2;2;0;0;0;0;1;0;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;Tecnología
+259;Bogotá;FUNDACION UNIVERSITARIA DEL AREA ANDINA;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;0;0;0;1;3;2;0;0;0;0;0;0;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;Educativo
+260;Bogotá;Empresa confidencial;otros;2;Universitaria;0;0;0;0;1;1;0;1;0;0;1;0;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;3;Consultorías y Asesorías
+261;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;1;1;B2;4;B;Si;$2 a $2,5 millones;2250000;2;1;Servicios
+262;Bogotá;Empresa confidencial;Operaciones y Procesos;3;Especialización;1;0;0;1;2;2;0;0;0;0;0;1;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;2;Salud
+263;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;1;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;1;Financiero
+264;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;Otro;Otro;0;0;0;0;0;0;Otro;0;Otro;No;Salario a convenir;870000;0;2;Educativo
+265;Bogotá;BANCO W S.A.;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;1;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;2;Financiero
+266;Bogotá;ADECCO COLOMBIA S A;Comercial, ventas y servicio al cliente;3;Especialización;1;0;0;1;2;2;1;1;1;1;1;1;Otro;0;Otro;No;$4,5 a $5 millones;4750000;2;2;Consultorías y Asesorías
+267;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;Entretenimiento
+268;Bogotá;ALKOSTO;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;0;0;1;1;Otro;0;Otro;No;$3 a $3,5 millones;3250000;2;1;Comercio al por menor - retail
+269;Bogotá;Universidad Cooperativa de Colombia;Docencia e I+D;3;Maestría;0;1;1;1;2;2;0;0;0;0;0;1;Otro;0;Otro;No;Salario a convenir;870000;0;2;Educativo
+270;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;1;Técnica;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;$1,5 a $2 millones;1750000;1;1;Comercio al por menor - retail
+271;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;5;3;0;0;0;0;0;1;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;1;Alimentos
+272;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;5;3;1;1;0;0;0;1;Otro;0;Otro;No;Salario a convenir;870000;0;1;Servicios
+273;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;5;3;1;1;0;0;0;1;Otro;0;Otro;No;Salario a convenir;870000;0;1;Servicios
+274;Bogotá;Grupo Meiko S.A.S.;Docencia e I+D;2;Universitaria;0;0;0;0;Otro;Otro;0;0;0;0;0;1;Otro;0;Otro;No;$1,5 a $2 millones;1750000;1;1;Servicios
+275;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;$3,5 a $4 millones;3750000;2;1;Energético
+276;Bogotá;BDO COLOMBIA;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;1;0;1;6;3;0;0;0;0;0;0;Otro;0;Otro;No;Salario a convenir;870000;0;1;Consultorías y Asesorías
+277;Bogotá;Multibanca Colpatria;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;0;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;3;Financiero
+278;Bogotá;Multibanca Colpatria;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;1;0;0;0;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;4;Financiero
+279;Bogotá;Multibanca Colpatria;Operaciones y Procesos;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;1;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;5;Financiero
+280;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Maestría;0;1;0;1;4;2;1;0;0;1;1;1;C2;6;C;Si;$4 a $4,5 millones;4250000;2;1;Servicios
+281;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;1;Otro;0;Otro;No;$4,5 a $5 millones;4750000;2;1;Consultorías y Asesorías
+282;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;1;1;1;0;Otro;0;Otro;No;Salario a convenir;870000;0;1;Entretenimiento
+283;Bogotá;SIO-SOLUTEMP;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;1;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;2;Servicios
+284;Bogotá;Empresa confidencial;Operaciones y Procesos;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;A2;2;A;Si;$1 a $1,5 millones;1250000;1;4;Textiles, prendas de vestir y calzado
+285;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;1;0;Otro;0;Otro;No;$3 a $3,5 millones;3250000;2;1;Energético
+286;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;Consultorías y Asesorías
+287;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;4;2;0;0;0;0;0;1;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;1;Consultorías y Asesorías
+288;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;1;Técnica;0;0;0;0;3;2;0;0;0;0;1;1;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;Consultorías y Asesorías
+289;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Maestría;0;1;0;1;15;5;0;0;0;0;0;1;C2;6;C;Si;$6 millones o más;6500000;3;1;Servicios
+290;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;Otro;Otro;0;0;0;0;0;0;Otro;0;Otro;No;Salario a convenir;870000;0;3;Educativo
+291;Bogotá;Empresa confidencial;Docencia e I+D;3;Especialización;0;0;0;1;2;2;0;0;0;0;0;1;Otro;0;Otro;No;$4 a $4,5 millones;4250000;2;1;Organizaciones No Gubernamentales
+292;Bogotá;Empresa confidencial;Docencia e I+D;2;Universitaria;0;0;0;0;2;2;1;1;0;1;0;0;Otro;0;Otro;No;$1,5 a $2 millones;1750000;1;1;Publicidad y mercadeo
+293;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;1;0;1;10;4;0;1;0;0;0;0;C2;6;C;Si;Salario a convenir;870000;0;1;Consultorías y Asesorías
+294;Bogotá;HITSS;Compras, Inventarios y comercio Internacional;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;1;Otro;0;Otro;No;$3 a $3,5 millones;3250000;2;1;Tecnología
+295;Bogotá;TV AZTECA SUCURSAL COLOMBIA;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;1;0;0;1;0;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;1;Medios
+296;Bogotá;Empresa confidencial;otros;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$3 a $3,5 millones;3250000;2;1;Medios
+297;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;0;B2;4;B;Si;$4 a $4,5 millones;4250000;2;2;Energético
+298;Bogotá;Enel-Codensa y Enel-Emgesa;otros;3;Especialización;1;0;0;1;3;2;0;0;0;0;0;0;C2;6;C;Si;$3 a $3,5 millones;3250000;2;1;Energético
+299;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;6;3;0;0;0;0;1;1;Otro;0;Otro;No;$4 a $4,5 millones;4250000;2;1;Consultorías y Asesorías
+300;Bogotá;Decameron;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;3;2;0;0;0;1;0;1;C2;6;C;Si;$3 a $3,5 millones;3250000;2;1;Servicios
+301;Bogotá;Empresa confidencial;Docencia e I+D;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;$1,5 a $2 millones;1750000;1;1;Educativo
+302;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;1;Técnica;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;3;Consultorías y Asesorías
+303;Bogotá;KCI Colombia SAS;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;1;C2;6;C;Si;Salario a convenir;870000;0;1;Estatal
+304;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;1;Otro;0;Otro;No;$4 a $4,5 millones;4250000;2;1;Consultorías y Asesorías
+305;Bogotá;PricewaterhouseCoopers;otros;2;Universitaria;0;0;0;0;3;2;1;1;0;0;0;1;Otro;0;Otro;No;Salario a convenir;870000;0;1;Consultorías y Asesorías
+306;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;1;0;0;1;1;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;Construcción
+307;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;5;3;0;0;0;0;0;0;Otro;0;Otro;No;$4 a $4,5 millones;4250000;2;1;Consultorías y Asesorías
+308;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;5;3;0;0;0;0;0;0;Otro;0;Otro;No;Salario a convenir;870000;0;1;Servicios
+309;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;4;2;0;0;0;0;0;1;C2;6;C;Si;$6 millones o más;6500000;3;1;Educativo
+310;Bogotá;Coomeva;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;1;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;1;Servicios
+311;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;1;B2;4;B;Si;$3,5 a $4 millones;3750000;2;1;Servicios
+312;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;5;3;0;0;0;0;1;1;B2;4;B;Si;Salario a convenir;870000;0;1;Otro
+313;Bogotá;Veolia;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;1;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;1;Servicios
+314;Bogotá;Empresa confidencial;Docencia e I+D;2;Universitaria;0;0;0;0;2;2;0;0;0;0;1;0;C2;6;C;Si;$3 a $3,5 millones;3250000;2;1;Alimentos
+315;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;3;2;0;1;1;0;1;1;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;Comercio al por menor - retail
+316;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;Otro;Otro;0;0;0;0;0;0;Otro;0;Otro;No;Salario a convenir;870000;0;2;Educativo
+317;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;1;Otro;0;Otro;No;$6 millones o más;6500000;3;1;Químicos
+318;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;3;Especialización;1;0;0;1;3;2;0;0;0;0;0;0;Otro;0;Otro;No;$5,5 a $6 millones;5750000;3;1;Energético
+319;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;Salario a convenir;870000;0;1;Consultorías y Asesorías
+320;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;Otro;Otro;0;0;0;0;0;0;Otro;0;Otro;No;Salario a convenir;870000;0;2;Educativo
+321;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;1;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;3;Tecnología
+322;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;Salario a convenir;870000;0;1;Consultorías y Asesorías
+323;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;5;3;0;0;0;0;0;1;B2;4;B;Si;$3,5 a $4 millones;3750000;2;1;Servicios
+324;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;$1,5 a $2 millones;1750000;1;1;Servicios
+325;Bogotá;Cruz Verde;Compras, Inventarios y comercio Internacional;2;Universitaria;0;0;0;0;1;1;0;0;1;0;0;1;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;Salud
+326;Bogotá;Cámara de Comercio de Bta.;Docencia e I+D;3;Especialización;1;0;0;1;3;2;0;0;0;0;0;0;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;1;Servicios
+327;Bogotá;Cámara de Comercio de Bta.;Docencia e I+D;3;Maestría;0;1;1;1;3;2;0;0;0;0;0;1;Otro;0;Otro;No;Salario a convenir;870000;0;1;Servicios
+328;Bogotá;Multibanca Colpatria;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;1;1;Otro;0;Otro;No;Salario a convenir;870000;0;1;Financiero
+329;Bogotá;Enel-Codensa y Enel-Emgesa;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;$3 a $3,5 millones;3250000;2;1;Financiero
+330;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;4;2;0;1;1;1;1;1;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;1;Servicios
+331;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;3;2;0;0;0;0;0;0;Otro;0;Otro;No;Salario a convenir;870000;0;1;Servicios
+332;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;0;Otro;0;Otro;No;Salario a convenir;870000;0;5;Consultorías y Asesorías
+333;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;2;Consultorías y Asesorías
+334;Bogotá;HOLCREST S.A.S;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;1;0;1;1;B2;4;B;Si;Salario a convenir;870000;0;1;Construcción
+335;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;0;0;0;1;14;5;0;0;0;0;0;0;Otro;0;Otro;No;Salario a convenir;870000;0;1;Consultorías y Asesorías
+336;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;0;0;0;1;14;5;0;0;0;0;0;0;Otro;0;Otro;No;Salario a convenir;870000;0;1;Consultorías y Asesorías
+337;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;1;1;1;1;0;1;1;1;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;1;Energético
+338;Bogotá;TELEPERFORMANCE COLOMBIA S.A.S;Administrativa, Auditoria,  Financiera, Gerencia;1;Técnica;0;0;0;0;Otro;Otro;1;1;0;0;1;1;B2;4;B;Si;$1,5 a $2 millones;1750000;1;12;Servicios
+339;Bogotá;PricewaterhouseCoopers;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;1;1;0;0;Otro;0;Otro;No;Salario a convenir;870000;0;1;Consultorías y Asesorías
+340;Bogotá;Cámara de Comercio de Bta.;Docencia e I+D;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;$1,5 a $2 millones;1750000;1;3;Servicios
+341;Bogotá;MANDOMEDIO.COM;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;B2;4;B;Si;$2,5 a $3 millones;2750000;2;1;Consultorías y Asesorías
+342;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;3;2;0;0;0;0;0;1;Otro;0;Otro;No;$6 millones o más;6500000;3;1;Consultorías y Asesorías
+343;Bogotá;Empresa confidencial;Operaciones y Procesos;3;Especialización;1;1;0;1;10;4;0;0;0;0;0;0;B2;4;B;Si;$6 millones o más;6500000;3;1;Entretenimiento
+344;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;5;3;0;0;0;0;0;1;Otro;0;Otro;No;$3,5 a $4 millones;3750000;2;1;Alimentos
+345;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;5;3;0;0;0;0;0;0;B2;4;B;Si;$5,5 a $6 millones;5750000;3;2;Textiles, prendas de vestir y calzado
+346;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;0;Otro;0;Otro;No;$1,5 a $2 millones;1750000;1;1;Comercio al por menor - retail
+347;Bogotá;ELECCION CONFIABLE SAS;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;5;3;0;0;0;0;0;0;Otro;0;Otro;No;$4 a $4,5 millones;4250000;2;1;Consultorías y Asesorías
+348;Bogotá;El Tiempo Casa Editorial;otros;2;Universitaria;0;0;0;0;2;2;0;0;0;0;1;1;B2;4;B;Si;$2 a $2,5 millones;2250000;2;1;Medios
+349;Bogotá;MANPOWER;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;1;B2;4;B;Si;$4,5 a $5 millones;4750000;2;2;Consultorías y Asesorías
+350;Bogotá;Linexperts Consultoria Empresarial SAS;otros;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;Salario a convenir;870000;0;1;Consultorías y Asesorías
+351;Cali;Empresa confidencial;Comercial, ventas y servicio al cliente;3;Especialización;1;0;0;1;5;3;0;1;1;0;0;1;Otro;0;Otro;No;$6 millones o más;6500000;3;1;Estatal
+352;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;$3,5 a $4 millones;3750000;2;2;Vehículos y partes
+353;Bogotá;Empresa confidencial;Operaciones y Procesos;2;Universitaria;0;0;0;0;3;2;0;0;0;1;1;1;C2;6;C;Si;$3,5 a $4 millones;3750000;2;2;Financiero
+354;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;1;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;2;Financiero
+355;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;4;2;0;0;0;0;0;1;Otro;0;Otro;No;$4 a $4,5 millones;4250000;2;1;Energético
+356;Cali;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Maestría;0;1;0;1;15;5;0;0;0;0;0;1;C2;6;C;Si;$6 millones o más;6500000;3;1;Servicios
+357;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;1;0;0;1;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;2;Tecnología
+358;Cali;MANPOWER;Comercial, ventas y servicio al cliente;3;Especialización;1;0;0;1;10;4;0;0;0;0;1;0;Otro;0;Otro;No;$3,5 a $4 millones;3750000;2;1;Consultorías y Asesorías
+359;Bogotá;Universidad de la Sabana;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;0;0;1;1;Otro;0;Otro;No;$3 a $3,5 millones;3250000;2;1;Educativo
+360;Bogotá;Deloitte;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;4;2;0;0;0;0;0;0;Otro;0;Otro;No;Salario a convenir;870000;0;1;Consultorías y Asesorías
+361;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;1;0;1;0;1;1;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;Financiero
+362;Cali;Empresa confidencial;Docencia e I+D;3;Especialización;1;0;0;1;3;2;1;0;0;1;1;1;Otro;0;Otro;No;Salario a convenir;870000;0;1;Consultorías y Asesorías
+363;Cali;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;3;2;0;0;0;0;0;1;B2;4;B;Si;$3,5 a $4 millones;3750000;2;1;Consultorías y Asesorías
+364;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;4;2;0;0;0;0;0;0;C2;6;C;Si;$5,5 a $6 millones;5750000;3;1;Textiles, prendas de vestir y calzado
+365;Bogotá;COLSANITAS S.A;otros;2;Universitaria;0;0;0;0;2;2;1;0;1;1;1;0;Otro;0;Otro;No;$4 a $4,5 millones;4250000;2;1;Salud
+366;Bogotá;Multibanca Colpatria;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$3 a $3,5 millones;3250000;2;1;Financiero
+367;Cali;Universidad Cooperativa de Colombia;Docencia e I+D;3;Doctorado;0;0;1;1;2;2;0;0;0;0;0;1;Otro;0;Otro;No;Salario a convenir;870000;0;1;Educativo
+368;Cali;LA EQUIDAD SEGUROS;Comercial, ventas y servicio al cliente;1;Técnica;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;1;Asegurador
+369;Cali;AUDIFARMA;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;3;2;0;0;0;0;0;1;Otro;0;Otro;No;$5,5 a $6 millones;5750000;3;1;Consultorías y Asesorías
+370;Cali;ASONAC;Comercial, ventas y servicio al cliente;1;Técnica;0;0;0;0;1;1;0;0;0;0;1;1;Otro;0;Otro;No;$1,5 a $2 millones;1750000;1;1;Estatal
+371;Bogotá;ASONAC;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;4;2;0;0;0;0;1;1;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;Estatal
+372;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;1;2;2;0;0;0;0;0;1;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;1;Servicios
+373;Bogotá;Empresa confidencial;otros;2;Universitaria;0;0;0;0;5;3;0;0;0;0;0;1;B2;4;B;Si;$5,5 a $6 millones;5750000;3;2;Textiles, prendas de vestir y calzado
+374;Cali;UNIMINUTO;Docencia e I+D;3;Maestría;0;1;0;1;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;Educativo
+375;Bogotá;LINDE COLOMBIA S.A;otros;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;1;Otro;0;Otro;No;$4 a $4,5 millones;4250000;2;1;Químicos
+376;Bogotá;Performia Colombia SAS;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;1;1;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;Servicios
+377;Cali;ACTIVOS S.A.S.;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;0;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;5;Consultorías y Asesorías
+378;Bogotá;Performia Colombia SAS;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;1;Servicios
+379;Cali;UNILEVER ANDINA;Administrativa, Auditoria,  Financiera, Gerencia;3;Maestría;0;1;0;1;7;3;0;0;0;1;1;1;C2;6;C;Si;$6 millones o más;6500000;3;1;Consumo masivo
+380;Bogotá;PricewaterhouseCoopers;otros;2;Universitaria;0;0;0;0;3;2;1;0;0;0;0;0;Otro;0;Otro;No;Salario a convenir;870000;0;1;Consultorías y Asesorías
+381;Cali;PricewaterhouseCoopers;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;0;0;0;1;4;2;0;0;0;0;0;0;C2;6;C;Si;Salario a convenir;870000;0;1;Consultorías y Asesorías
+382;Cali;El Tiempo Casa Editorial;otros;3;Especialización;0;0;0;1;3;2;0;1;0;1;0;1;Otro;0;Otro;No;$5,5 a $6 millones;5750000;3;2;Medios
+383;Bogotá;Empresa confidencial;Compras, Inventarios y comercio Internacional;2;Universitaria;0;0;0;0;5;3;0;0;0;0;0;1;C2;6;C;Si;$5,5 a $6 millones;5750000;3;1;Textiles, prendas de vestir y calzado
+384;Bogotá;Empresa confidencial;Compras, Inventarios y comercio Internacional;2;Universitaria;0;0;0;0;5;3;0;0;0;0;0;1;C2;6;C;Si;$5,5 a $6 millones;5750000;3;1;Textiles, prendas de vestir y calzado
+385;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;Otro;Otro;0;0;1;0;0;1;Otro;0;Otro;No;Salario a convenir;870000;0;1;Consultorías y Asesorías
+386;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;1;Otro;0;Otro;No;Salario a convenir;870000;0;1;Asegurador
+387;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;4;2;0;0;0;0;0;1;Otro;0;Otro;No;$6 millones o más;6500000;3;1;Tecnología
+388;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;1;0;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;Educativo
+389;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;8;4;0;0;0;0;0;0;Otro;0;Otro;No;Salario a convenir;870000;0;1;Servicios
+390;Bogotá;Nexarte;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;1;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;1;Consultorías y Asesorías
+391;Bogotá;Fiduoccidente;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;$4 a $4,5 millones;4250000;2;3;Financiero
+392;Bogotá;Fiduoccidente;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;1;Otro;0;Otro;No;Salario a convenir;870000;0;1;Financiero
+393;Cali;UNIMINUTO;Docencia e I+D;3;Maestría;0;1;0;1;3;2;0;0;0;0;0;1;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;Educativo
+394;Bogotá;PORVENIR S.A.;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;1;1;Otro;0;Otro;No;$3 a $3,5 millones;3250000;2;1;Financiero
+395;Cali;ACTIVOS S.A.S.;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;0;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;15;Consultorías y Asesorías
+396;Bogotá;CFA Cooperativa Financiera;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;$4 a $4,5 millones;4250000;2;1;Financiero
+397;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;1;Otro;0;Otro;No;$1,5 a $2 millones;1750000;1;1;Construcción
+398;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;1;0;0;1;1;1;Otro;0;Otro;No;$3 a $3,5 millones;3250000;2;1;Financiero
+399;Bogotá;Empresa confidencial;otros;2;Universitaria;0;0;0;0;5;3;0;0;1;0;0;1;Otro;0;Otro;No;$1,5 a $2 millones;1750000;1;3;Publicidad y mercadeo
+400;Cali;Empresa confidencial;Docencia e I+D;3;Especialización;1;1;0;1;10;4;0;0;0;0;0;1;Otro;0;Otro;No;Salario a convenir;870000;0;1;Comercio al por menor - retail
+401;Cali;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;6;3;0;0;0;0;0;0;Otro;0;Otro;No;$6 millones o más;6500000;3;1;Asegurador
+402;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;1;0;1;0;C2;6;C;Si;$3,5 a $4 millones;3750000;2;1;Alimentos
+403;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;Financiero
+404;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;4;2;0;0;0;0;0;0;Otro;0;Otro;No;$3 a $3,5 millones;3250000;2;1;Financiero
+405;Bogotá;Empresa confidencial;Compras, Inventarios y comercio Internacional;2;Universitaria;0;0;0;0;Otro;Otro;0;0;0;0;0;0;Otro;0;Otro;No;Salario a convenir;870000;0;3;Educativo
+406;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;0;0;1;1;Otro;0;Otro;No;$6 millones o más;6500000;3;1;Otros servicios
+407;Bogotá;Empresa confidencial;Compras, Inventarios y comercio Internacional;2;Universitaria;0;0;0;0;5;3;0;0;0;0;0;0;B2;4;B;Si;$5,5 a $6 millones;5750000;3;1;Textiles, prendas de vestir y calzado
+408;Bogotá;H&M HENNES & MAURITZ COLOMBIA S.A.S;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;5;3;0;0;0;0;0;0;B2;4;B;Si;$5,5 a $6 millones;5750000;3;1;Textiles, prendas de vestir y calzado
+409;Bogotá;ADECCO COLOMBIA S A;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;1;1;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;4;Consultorías y Asesorías
+410;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;Salario a convenir;870000;0;1;Tecnología
+411;Bogotá;ALIANZA VALORES;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1.5;1;0;0;0;0;1;0;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;2;Financiero
+412;Bogotá;Deloitte;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;1;1;Otro;0;Otro;No;$1,5 a $2 millones;1750000;1;2;Consultorías y Asesorías
+413;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;0;Otro;0;Otro;No;Salario a convenir;870000;0;1;Químicos
+414;Bogotá;PORVENIR S.A.;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;1;Financiero
+415;Cali;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;2;Financiero
+416;Cali;Nexarte;otros;3;Especialización;0;0;0;1;4;2;0;0;0;0;1;0;B2;4;B;Si;$5,5 a $6 millones;5750000;3;1;Consultorías y Asesorías
+417;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$1,5 a $2 millones;1750000;1;1;Consumo masivo
+418;Bogotá;Empresa confidencial;Docencia e I+D;2;Universitaria;0;0;0;0;5;3;0;0;0;0;1;0;C2;6;C;Si;Salario a convenir;870000;0;1;Servicios
+419;Bogotá;Empresa confidencial;Docencia e I+D;2;Universitaria;0;0;0;0;Otro;Otro;0;0;0;0;0;0;Otro;0;Otro;No;Salario a convenir;870000;0;2;Educativo
+420;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;Otro;Otro;0;0;0;0;0;0;Otro;0;Otro;No;Salario a convenir;870000;0;2;Educativo
+421;Medellin;Performia Colombia SAS;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;10;4;0;0;1;0;0;1;Otro;0;Otro;No;$6 millones o más;6500000;3;1;Servicios
+422;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;0;0;1;1;Otro;0;Otro;No;Salario a convenir;870000;0;1;Comercio al por menor - retail
+423;Medellin;Empresa confidencial;Operaciones y Procesos;2;Universitaria;0;0;0;0;1.5;1;0;0;0;0;0;0;Otro;0;Otro;No;$1,5 a $2 millones;1750000;1;2;Financiero
+424;Medellin;Itaú Colombia;Comercial, ventas y servicio al cliente;3;Especialización;0;0;0;1;2;2;0;0;0;0;1;1;C2;6;C;Si;Salario a convenir;870000;0;1;Financiero
+425;Medellin;Empresa confidencial;Comercial, ventas y servicio al cliente;1;Técnica;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;Entretenimiento
+426;Medellin;Empresa confidencial;Comercial, ventas y servicio al cliente;1;Técnica;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;2;Entretenimiento
+427;Bogotá;MINISO;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;1;1;B2;0;B;Si;$3,5 a $4 millones;3750000;2;1;Comercio al por menor - retail
+428;Medellin;Empresa confidencial;otros;3;Especialización;1;0;0;1;2;2;0;0;0;0;1;1;Otro;0;Otro;No;$6 millones o más;6500000;3;1;Salud
+429;Medellin;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;3;2;0;1;0;1;1;1;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;1;Servicios
+430;Medellin;Empresa confidencial;Comercial, ventas y servicio al cliente;1;Técnica;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;2;Financiero
+431;Medellin;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;4;2;0;1;0;1;0;1;Otro;0;Otro;No;$4 a $4,5 millones;4250000;2;1;Salud
+432;Bogotá;El Tiempo Casa Editorial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;1;0;1;0;Otro;0;Otro;No;$3 a $3,5 millones;3250000;2;2;Medios
+433;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;1;1;1;1;1;0;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;2;Tecnología
+434;Medellin;Empresa confidencial;Docencia e I+D;2;Universitaria;0;0;0;0;1;1;0;0;0;0;1;0;Otro;0;Otro;No;$0,5 a $1 millón;750000;1;2;Publicidad y mercadeo
+435;Bogotá;Performia Colombia SAS;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;1;Servicios
+436;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;1;Otro;0;Otro;No;$6 millones o más;6500000;3;2;Tecnología
+437;Bogotá;GILMA DE LEAL;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;4;2;0;0;1;0;1;0;B2;0;B;Si;$5,5 a $6 millones;5750000;3;1;Consultorías y Asesorías
+438;Medellin;BANCAMIA;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;0;Otro;0;Otro;No;$1,5 a $2 millones;1750000;1;1;Financiero
+439;Medellin;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;0;0;0;1;1;1;0;0;0;0;0;1;Otro;0;Otro;No;Salario a convenir;870000;0;1;Consultorías y Asesorías
+440;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;1;Servicios
+441;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;1;0;1;1;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;1;Manufactura
+442;Medellin;ATIEMPO S.A.S;Comercial, ventas y servicio al cliente;1;Técnica;0;0;0;0;1;1;0;0;0;0;0;0;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;50;Consultorías y Asesorías
+443;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;1;B2;0;B;Si;$4 a $4,5 millones;4250000;2;2;Energético
+444;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;1;0;0;1;1;Otro;0;Otro;No;$4 a $4,5 millones;4250000;2;1;Consultorías y Asesorías
+445;Bogotá;SONDA;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;1;0;1;1;Otro;0;Otro;No;$3,5 a $4 millones;3750000;2;1;Servicios
+446;Medellin;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;0;0;0;1;5;3;0;0;1;0;1;0;Otro;0;Otro;No;$5,5 a $6 millones;5750000;3;2;Consultorías y Asesorías
+447;Bogotá;ADECCO COLOMBIA S A;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;1;1;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;4;Consultorías y Asesorías
+448;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$1,5 a $2 millones;1750000;1;1;Educativo
+449;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;1;0;Otro;0;Otro;No;$3 a $3,5 millones;3250000;2;4;Comercio al por menor - retail
+450;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;1;0;Otro;0;Otro;No;$3 a $3,5 millones;3250000;2;3;Comercio al por menor - retail
+451;Medellin;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;0;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;Otro
+452;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1.5;1;0;1;0;0;0;1;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;2;Salud
+453;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$1,5 a $2 millones;1750000;1;1;Pulpa, papel y cartón
+454;Medellin;TELEPERFORMANCE COLOMBIA S.A.S;Comercial, ventas y servicio al cliente;1;Técnica;0;0;0;0;1;1;0;0;0;0;0;0;C2;0;C;Si;$1,5 a $2 millones;1750000;1;10;Servicios
+455;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;0;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;1;Vehículos y partes
+456;Medellin;ADECCO COLOMBIA S A;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;5;3;0;0;0;0;0;0;C2;0;C;Si;$4,5 a $5 millones;4750000;2;1;Consultorías y Asesorías
+457;Medellin;Millenium BPO S.A;Comercial, ventas y servicio al cliente;1;Técnica;0;0;0;0;1;1;0;0;0;0;1;0;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;10;Vehículos y partes
+458;Medellin;Empresa confidencial;Comercial, ventas y servicio al cliente;1;Técnica;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;Entretenimiento
+459;Medellin;Empresa confidencial;Comercial, ventas y servicio al cliente;1;Técnica;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;2;Entretenimiento
+460;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;0;0;1;1;Otro;0;Otro;No;Salario a convenir;870000;0;1;Comercio al por menor - retail
+461;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;1;0;C2;0;C;Si;$4 a $4,5 millones;4250000;2;1;Consultorías y Asesorías
+462;Bogotá;Seguros Bolivar;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;0;B2;0;B;Si;$4 a $4,5 millones;4250000;2;1;Financiero
+463;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;1;0;0;1;1;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;Construcción
+464;Bogotá;Performia Colombia SAS;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;1;1;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;Servicios
+465;Bogotá;Seguros Bolivar;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;1;Otro;0;Otro;No;$4 a $4,5 millones;4250000;2;1;Financiero
+466;Medellin;COOMEVA;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;10;Servicios
+467;Medellin;Empresa confidencial;Comercial, ventas y servicio al cliente;3;Especialización;0;0;0;1;2;2;0;0;0;0;0;0;B2;0;B;Si;$3 a $3,5 millones;3250000;2;1;Energético
+468;Medellin;TALENTUM TEMPORAL SAS;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;3;2;0;0;0;0;0;0;Otro;0;Otro;No;$3 a $3,5 millones;3250000;2;1;Consultorías y Asesorías
+469;Bogotá;ADECCO COLOMBIA S A;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;1;1;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;4;Consultorías y Asesorías
+470;Bogotá;METLIFE SEGUROS DE VIDA S.A.;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;0;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;30;Asegurador
+471;Medellin;PricewaterhouseCoopers;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;1;1;1;10;4;0;0;0;0;0;1;Otro;0;Otro;No;Salario a convenir;870000;0;1;Consultorías y Asesorías
+472;Bogotá;PERSOM EMPRESA DE SERVICIOS TEMPORALES SA;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;1;0;Otro;0;Otro;No;$1,5 a $2 millones;1750000;1;1;Consultorías y Asesorías
+473;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;Otro;Otro;0;0;0;0;0;0;Otro;0;Otro;No;Salario a convenir;870000;0;2;Educativo
+474;Medellin;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;8;4;0;0;0;0;0;1;C2;0;C;Si;$5,5 a $6 millones;5750000;3;1;Energético
+475;Bogotá;Quala S.A.;otros;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;0;Otro;0;Otro;No;Salario a convenir;870000;0;5;Consumo masivo
+476;Medellin;ALFA;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;3;2;0;1;0;0;1;1;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;Construcción
+477;Medellin;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;0;0;0;1;6;3;0;0;0;0;0;0;Otro;0;Otro;No;Salario a convenir;870000;0;1;Consultorías y Asesorías
+478;Medellin;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;0;0;0;1;7;3;0;0;0;0;0;0;Otro;0;Otro;No;Salario a convenir;870000;0;1;Consultorías y Asesorías
+479;Bogotá;Mars Colombia;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;1;0;1;0;B2;0;B;Si;$2,5 a $3 millones;2750000;2;1;Consumo masivo
+480;Medellin;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;1;0;1;10;4;0;0;0;0;0;0;Otro;0;Otro;No;Salario a convenir;870000;0;1;Servicios
+481;Medellin;Empresa confidencial;Comercial, ventas y servicio al cliente;3;Especialización;1;0;0;1;5;3;0;0;0;0;0;0;Otro;0;Otro;No;Salario a convenir;870000;0;1;Consultorías y Asesorías
+482;Medellin;SGS;Docencia e I+D;3;Especialización;0;0;0;1;3;2;0;0;0;0;0;0;Otro;0;Otro;No;$1,5 a $2 millones;1750000;1;25;Consultorías y Asesorías
+483;Medellin;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;1;0;1;10;4;0;1;0;0;1;1;B2;0;B;Si;$6 millones o más;6500000;3;1;Financiero
+484;Medellin;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;0;0;0;1;10;4;0;0;0;0;0;1;Otro;0;Otro;No;Salario a convenir;870000;0;1;Telecomunicaciones
+485;Medellin;Empresa confidencial;Comercial, ventas y servicio al cliente;3;Especialización;1;0;0;1;10;4;0;0;0;0;0;1;Otro;0;Otro;No;$6 millones o más;6500000;3;1;Vehículos y partes
+486;Bogotá;IQ Outsourcing;Docencia e I+D;2;Universitaria;0;0;0;0;Otro;Otro;1;1;0;0;1;1;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;Servicios
+487;Medellin;TELEPERFORMANCE COLOMBIA S.A.S;Docencia e I+D;1;Media;0;0;0;0;1;1;0;0;0;0;0;1;Otro;0;Otro;No;$1,5 a $2 millones;1750000;1;1;Servicios
+488;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;1;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;1;Financiero
+489;Medellin;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;2;2;1;1;0;0;1;1;Otro;0;Otro;No;$4 a $4,5 millones;4250000;2;1;Salud
+490;Bogotá;ADECCO COLOMBIA S A;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;1;1;0;0;1;0;1;0;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;Consultorías y Asesorías
+491;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;1;Otro;0;Otro;No;Salario a convenir;870000;0;2;Consultorías y Asesorías
+492;Bogotá;Multibanca Colpatria;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;0;C2;0;C;Si;$2,5 a $3 millones;2750000;2;2;Financiero
+493;Medellin;Multibanca Colpatria;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;5;3;0;0;0;0;0;1;C2;0;C;Si;$6 millones o más;6500000;3;1;Financiero
+494;Bogotá;Multibanca Colpatria;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;5;3;0;0;0;0;1;1;C2;0;C;Si;$6 millones o más;6500000;3;2;Financiero
+495;Bogotá;Multibanca Colpatria;Operaciones y Procesos;2;Universitaria;0;0;0;0;2;2;0;1;0;1;1;1;B2;0;B;Si;$3 a $3,5 millones;3250000;2;2;Financiero
+496;Medellin;Empresa confidencial;Compras, Inventarios y comercio Internacional;3;Especialización;1;0;0;1;8;4;0;0;0;0;0;0;Otro;0;Otro;No;$4,5 a $5 millones;4750000;2;1;Químicos
+497;Bogotá;Empresa confidencial;Compras, Inventarios y comercio Internacional;2;Universitaria;0;0;0;0;3;2;0;0;0;0;1;1;Otro;0;Otro;No;$1,5 a $2 millones;1750000;1;1;Otro
+498;Medellin;HUMANNET COLOMBIA S.A.S.;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;5;3;0;0;0;0;0;0;C2;0;C;Si;$6 millones o más;6500000;3;1;Consultorías y Asesorías
+499;Medellin;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;0;0;0;1;7;3;0;0;0;0;0;1;Otro;0;Otro;No;Salario a convenir;870000;0;2;Telecomunicaciones
+500;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;1;0;Otro;0;Otro;No;Salario a convenir;870000;0;2;Financiero
+501;Medellin;Empresa confidencial;otros;3;Especialización;1;0;0;1;4;2;0;0;0;0;0;0;B2;0;B;Si;$4 a $4,5 millones;4250000;2;1;Textiles, prendas de vestir y calzado
+502;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$0,5 a $1 millón;750000;1;5;Financiero
+503;Medellin;Profesional financiero senior;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;0;0;0;1;10;4;0;0;0;0;0;1;Otro;0;Otro;No;Salario a convenir;870000;0;1;Telecomunicaciones
+504;Medellin;GRUPO TX;Docencia e I+D;3;Especialización;1;1;0;1;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$3,5 a $4 millones;3750000;2;1;Tecnología
+505;Medellin;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;0;0;0;1;3;2;0;0;0;0;0;1;Otro;0;Otro;No;Salario a convenir;870000;0;4;Telecomunicaciones
+506;Bogotá;Empresa confidencial;otros;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;0;Otro;0;Otro;No;$4,5 a $5 millones;4750000;2;1;Consultorías y Asesorías
+507;Medellin;ASISTALENTO SAS;Comercial, ventas y servicio al cliente;1;Técnica;0;0;0;0;2;2;0;0;0;0;1;0;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;5;Consultorías y Asesorías
+508;Bogotá;Performia Colombia SAS;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;1;1;0;0;0;0;1;0;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;1;Servicios
+509;Bogotá;ALKOSTO;Docencia e I+D;2;Universitaria;0;0;0;0;3;2;0;0;0;0;1;0;Otro;0;Otro;No;$3 a $3,5 millones;3250000;2;1;Comercio al por menor - retail
+510;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;Otro;Otro;0;0;0;0;0;0;Otro;0;Otro;No;Salario a convenir;870000;0;3;Educativo
+511;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;5;3;0;0;0;0;0;0;Otro;0;Otro;No;$6 millones o más;6500000;3;1;Alimentos
+512;Bogotá;Empresa confidencial;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;1;1;0;0;0;0;1;0;Otro;0;Otro;No;$3 a $3,5 millones;3250000;2;4;Financiero
+513;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$1,5 a $2 millones;1750000;1;1;Servicios
+514;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$4,5 a $5 millones;4750000;2;1;Financiero
+515;Bogotá;Banco Agrario;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;1;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;4;Financiero
+516;Bogotá;Banco Agrario;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;1;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;2;Financiero
+517;Medellin;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;1;0;1;7;3;0;0;0;0;1;1;C2;0;C;Si;$6 millones o más;6500000;3;1;Servicios
+518;Bogotá;Banco Agrario;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;1;Otro;0;Otro;No;$4,5 a $5 millones;4750000;2;1;Financiero
+519;Bogotá;PricewaterhouseCoopers;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;4;2;0;0;0;0;0;0;C2;0;C;Si;Salario a convenir;870000;0;1;Consultorías y Asesorías
+520;Bogotá;ALKOSTO;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$4 a $4,5 millones;4250000;2;1;Comercio al por menor - retail
+521;Bogotá;Banco Agrario;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;1;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;;Financiero
+522;Bogotá;AUTOMOTORES TOYOTA COLOMBIA S.A.S;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;1;0;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;Vehículos y partes
+523;Medellin;ADECCO COLOMBIA S A;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;5;3;0;0;0;0;0;1;Otro;0;Otro;No;$6 millones o más;6500000;3;1;Consultorías y Asesorías
+524;Medellin;Empresa confidencial;Comercial, ventas y servicio al cliente;1;Técnica;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;2;Entretenimiento
+525;Medellin;Empresa confidencial;Comercial, ventas y servicio al cliente;1;Técnica;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;Otros servicios
+526;Bogotá;GR Consulting SAS;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;Otro;Otro;0;0;0;0;0;1;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;1;Consultorías y Asesorías
+527;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;3;Consultorías y Asesorías
+528;Medellin;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;3;2;0;0;0;0;0;0;Otro;0;Otro;No;$4 a $4,5 millones;4250000;2;1;Financiero
+529;Medellin;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;0;0;0;1;5;3;0;0;1;0;0;1;Otro;0;Otro;No;$6 millones o más;6500000;3;1;Educativo
+530;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;1;1;Otro;0;Otro;No;Salario a convenir;870000;0;1;Asegurador
+531;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;1;1;Otro;0;Otro;No;Salario a convenir;870000;0;1;Asegurador
+532;Medellin;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;1;0;1;10;4;0;0;0;0;0;1;Otro;0;Otro;No;Salario a convenir;870000;0;1;Servicios
+533;Bucaramanga;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;1;0;1;10;4;0;0;0;0;0;1;Otro;0;Otro;No;Salario a convenir;870000;0;1;Servicios
+534;Bucaramanga;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1.5;1;0;0;0;0;0;1;Otro;0;Otro;No;$1,5 a $2 millones;1750000;1;2;Financiero
+535;Bogotá;ADECCO COLOMBIA S A;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$3 a $3,5 millones;3250000;2;1;Consultorías y Asesorías
+536;Bogotá;DINISSAN;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;1;1;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;1;Vehículos y partes
+537;Bucaramanga;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;4;2;0;0;0;0;0;1;Otro;0;Otro;No;$4,5 a $5 millones;4750000;2;1;Financiero
+538;Bucaramanga;Empresa confidencial;Comercial, ventas y servicio al cliente;1;Técnica;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;2;Entretenimiento
+539;Bucaramanga;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;1;0;1;5;3;1;0;0;0;1;1;Otro;0;Otro;No;$6 millones o más;6500000;3;1;Servicios
+540;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;0;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;1;Asegurador
+541;Bucaramanga;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;3;Servicios
+542;Bogotá;Empresa confidencial;Compras, Inventarios y comercio Internacional;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;Salario a convenir;870000;0;1;Educativo
+543;Bogotá;STAFFING DE COLOMBIA;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;7;Consultorías y Asesorías
+544;Bogotá;Multibanca Colpatria;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;0;C2;0;C;Si;$2,5 a $3 millones;2750000;2;3;Financiero
+545;Bucaramanga;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;4;2;0;0;0;0;0;0;Otro;0;Otro;No;$4,5 a $5 millones;4750000;2;1;Financiero
+546;Bucaramanga;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;3;2;0;0;0;0;0;0;Otro;0;Otro;No;$5,5 a $6 millones;5750000;3;1;Servicios
+547;Bucaramanga;RESUELVE TU DEUDA COLOMBIA;Comercial, ventas y servicio al cliente;1;Técnica;0;0;0;0;0.5;1;0;0;0;0;0;0;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;25;Financiero
+548;Bucaramanga;Empresa confidencial;otros;3;Especialización;1;1;0;1;4;2;0;0;0;0;0;0;Otro;0;Otro;No;$6 millones o más;6500000;3;1;Financiero
+549;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;0;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;2;Consultorías y Asesorías
+550;Bucaramanga;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;1;Técnica;0;0;0;0;1;1;0;0;0;0;0;1;Otro;0;Otro;No;Salario a convenir;870000;0;1;Alimentos
+551;Bucaramanga;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;1;0;1;8;4;0;0;1;0;1;0;Otro;0;Otro;No;$6 millones o más;6500000;3;1;Químicos
+552;Bogotá;UNIMINUTO;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;0;0;1;1;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;Educativo
+553;Bogotá;ONE LINK BPO;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;Otro;Otro;0;0;0;0;1;0;B2;0;B;Si;$2 a $2,5 millones;2250000;2;3;Telecomunicaciones
+554;Bucaramanga;UNIMINUTO;Docencia e I+D;3;Maestría;1;1;0;1;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$1,5 a $2 millones;1750000;1;1;Educativo
+555;Bucaramanga;Empresa confidencial;Operaciones y Procesos;3;Especialización;1;0;0;1;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;2;Salud
+556;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;0;0;1;1;Otro;0;Otro;No;Salario a convenir;870000;0;1;Servicios
+557;Bucaramanga;HUMAN TALENT EMPRESA DE SERVICIOS TEMPORALES SAS;Operaciones y Procesos;2;Universitaria;1;0;0;1;2;2;0;0;0;0;0;1;Otro;0;Otro;No;$1,5 a $2 millones;1750000;1;1;Consultorías y Asesorías
+558;Bucaramanga;ASONAC;Operaciones y Procesos;1;Técnica;0;0;0;0;1;1;0;0;0;0;0;1;Otro;0;Otro;No;$1,5 a $2 millones;1750000;1;1;Estatal
+559;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;1;1;0;0;0;0;Otro;0;Otro;No;Salario a convenir;870000;0;2;Financiero
+560;Bucaramanga;MANPOWER;Comercial, ventas y servicio al cliente;1;Técnica;0;0;0;0;3;2;0;0;0;0;0;0;Otro;0;Otro;No;Salario a convenir;870000;0;5;Consultorías y Asesorías
+561;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;0;0;1;1;Otro;0;Otro;No;$4,5 a $5 millones;4750000;2;1;Financiero
+562;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;$4,5 a $5 millones;4750000;2;1;Servicios
+563;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;$3 a $3,5 millones;3250000;2;1;Financiero
+565;Bucaramanga;MANPOWER;Administrativa, Auditoria,  Financiera, Gerencia;1;Técnica;0;0;0;0;3;2;0;0;0;0;0;0;Otro;0;Otro;No;$3 a $3,5 millones;3250000;2;5;Consultorías y Asesorías
+566;Bogotá;Empresa confidencial;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;6;3;0;0;0;0;0;1;B2;0;B;Si;$6 millones o más;6500000;3;1;Financiero
+567;Cali;Na;Operaciones y Procesos;2;Universitaria;0;0;0;0;2;2;0;0;1;0;1;1;C1;0;C;Si;$4 a $4,5 millones;4250000;2;1;
+568;Cali;Na;Administrativa, Auditoria,  Financiera, Gerencia;1;Técnica;0;0;0;0;0;1;0;0;0;0;1;0;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;1;
+569;Cali;Na;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;1;
+570;Cali;Na;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;0;1;0;0;0;0;0;0;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;1;
+571;Cali;Na;Compras, Inventarios y comercio Internacional;1;Técnica;0;0;0;0;1;1;0;0;0;0;0;0;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;1;
+572;Cali;Na;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;0;Otro;0;Otro;No;$1,5 a $2 millones;1750000;1;1;
+573;Cali;Na;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;1;0;1;0;0;1;Otro;0;Otro;No;Otro;870000;0;1;
+574;Cali;Na;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;1;
+575;Cali;Na;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;1;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;1;
+576;Cali;Na;Comercial, ventas y servicio al cliente;1;Técnica;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;10;
+577;Cali;Na;Comercial, ventas y servicio al cliente;1;Técnica;0;0;0;0;1;1;0;0;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;1;
+578;Cali;Na;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;1;1;Otro;0;Otro;No;$1,5 a $2 millones;1750000;1;1;
+579;Cali;Na;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;1;1;Otro;0;Otro;No; $3 a $3,5 millones;3250000;2;1;
+580;Cali;Na;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;1;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;1;
+581;Cali;Na;Administrativa, Auditoria,  Financiera, Gerencia;1;Técnica;0;0;0;0;1;1;0;0;0;0;0;0;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;1;
+582;Cali;Na;Docencia e I+D;3;Especialización;1;0;0;1;8;4;0;0;0;0;0;1;C1;0;C;Si;$6 a $8 millones;7000000;3;1;
+583;Cali;Na;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;B2;0;B;Si;$2 a $2,5 millones;2250000;2;1;
+584;Cali;Na;Docencia e I+D;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;1;
+585;Cali;Na;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;5;3;0;0;0;0;0;1;Otro;0;Otro;No; $3,5 a $4 millones;3750000;2;1;
+586;Cali;Na;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;0;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;1;
+587;Cali;Na;Docencia e I+D;3;Maestría;0;1;0;1;2;2;0;0;0;0;0;1;Otro;0;Otro;No; $3,5 a $4 millones;3750000;2;1;
+588;Cali;Na;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;0;1;0;0;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;1;
+589;Cali;Na;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;1;Otro;0;Otro;No; $3,5 a $4 millones;3750000;2;1;
+590;Cali;Na;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;1;
+591;Cali;Na;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;0;1;0;0;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;1;
+592;Cali;Na;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;8;4;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;1;
+593;Cali;Na;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;0;1;0;0;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;1;
+594;Cali;Na;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;1;
+595;Cali;Na;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;4;2;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;1;
+596;Cali;Na;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;1;Otro;0;Otro;No;$1,5 a $2 millones;1750000;1;1;
+597;Cali;Na;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;5;3;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;1;
+598;Cali;Na;Administrativa, Auditoria,  Financiera, Gerencia;3;Maestría;0;1;0;1;5;3;0;0;0;0;1;1;Otro;0;Otro;No;Otro;870000;0;1;
+599;Cali;Na;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;1;1;Otro;0;Otro;No;$1,5 a $2 millones;1750000;1;1;
+600;Cali;Na;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;1;1;C1;0;C;Si;$2 a $2,5 millones;2250000;2;1;
+601;Cali;Na;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;1;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;
+602;Cali;Na;otros;2;Universitaria;0;0;0;0;1;1;0;1;0;0;1;1;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;1;
+603;Cali;Na;Administrativa, Auditoria,  Financiera, Gerencia;1;Técnica;0;0;0;0;1;1;0;0;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;1;
+604;Cali;Na;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;1;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;1;
+605;Cali;Na;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No; $3 a $3,5 millones;3250000;2;1;
+606;Cali;Na;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No; $3,5 a $4 millones;3750000;2;1;
+607;Cali;Na;Compras, Inventarios y comercio Internacional;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;1;
+608;Cali;Na;Comercial, ventas y servicio al cliente;1;Técnica;0;0;0;0;1;1;0;0;0;0;0;0;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;1;
+609;Cali;Na;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;0;1;0;0;1;0;0;0;Otro;0;Otro;No;$1,5 a $2 millones;1750000;1;1;
+610;Cali;Na;otros;2;Universitaria;0;0;0;0;2;2;0;0;0;0;1;1;Otro;0;Otro;No;$1,5 a $2 millones;1750000;1;1;
+611;Cali;Na;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;1;
+612;Cali;Na;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;1;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;1;
+613;Cali;Na;Compras, Inventarios y comercio Internacional;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;1;C1;0;C;Si;$1,5 a $2 millones;1750000;1;1;
+614;Cali;Na;otros;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;
+615;Cali;Na;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;1;
+616;Cali;Na;Administrativa, Auditoria,  Financiera, Gerencia;1;Técnica;0;0;0;0;2;2;0;0;0;0;1;1;Otro;0;Otro;No;$1,5 a $2 millones;1750000;1;1;
+617;Cali;Na;Comercial, ventas y servicio al cliente;1;Técnica;0;0;0;0;1;1;0;0;0;0;0;0;Otro;0;Otro;No; $3,5 a $4 millones;3750000;2;1;
+618;Cali;Na;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;$4,5 a $5,5 millones;5000000;2;1;
+619;Cali;Na;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;1;1;Otro;0;Otro;No; $3,5 a $4 millones;3750000;2;1;
+620;Cali;Na;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;4;2;0;0;0;0;0;1;Otro;0;Otro;No;$6 a $8 millones;7000000;3;1;
+621;Cali;Na;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;1;0;Otro;0;Otro;No;Otro;870000;0;1;
+622;Cali;Na;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;8;4;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;1;
+623;Cali;Na;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;4;2;0;0;0;0;0;1;Otro;0;Otro;No;$4,5 a $5,5 millones;5000000;2;1;
+624;Cali;Na;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;$1,5 a $2 millones;1750000;1;1;
+625;Cali;Na;Administrativa, Auditoria,  Financiera, Gerencia;1;Técnica;0;0;0;0;1;1;0;0;0;0;1;1;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;1;
+626;Cali;Na;Comercial, ventas y servicio al cliente;1;Técnica;0;0;0;0;1;1;0;0;0;0;0;0;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;1;
+627;Cali;Na;Comercial, ventas y servicio al cliente;1;Técnica;0;0;0;0;1;1;0;0;0;0;1;1;Otro;0;Otro;No;$1,5 a $2 millones;1750000;1;1;
+628;Cali;Na;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;1;1;Otro;0;Otro;No;$1,5 a $2 millones;1750000;1;1;
+629;Cali;Na;Docencia e I+D;3;Maestría;0;0;0;0;6;3;1;0;0;0;0;1;Otro;0;Otro;No;$5,5 a $6 millones;5750000;3;1;
+630;Cali;Na;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;1;0;Otro;0;Otro;No;$1,5 a $2 millones;1750000;1;1;
+631;Cali;Na;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;1;Otro;0;Otro;No;$1,5 a $2 millones;1750000;1;1;
+632;Cali;Na;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$1,5 a $2 millones;1750000;1;1;
+633;Cali;Na;Administrativa, Auditoria,  Financiera, Gerencia;1;Técnica;0;0;0;0;1;1;0;0;0;0;1;0;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;1;
+634;Cali;Na;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;1;
+635;Cali;Na;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;1;Otro;0;Otro;No;$1,5 a $2 millones;1750000;1;1;
+636;Cali;Na;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;1;0;0;1;1;Otro;0;Otro;No;$1,5 a $2 millones;1750000;1;1;
+637;Cali;Na;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;0;Otro;0;Otro;No;$1,5 a $2 millones;1750000;1;1;
+638;Cali;Na;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;0;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;
+639;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;1;
+640;Medellin;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;1;
+641;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;0;1;0;0;0;0;0;0;Otro;0;Otro;No;Menos de $1 millón;800000;1;10;
+642;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;1;1;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;3;
+643;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;1;Otro;0;Otro;No;$3 a $3,5 millones;3250000;2;1;
+644;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;0;0;0;1;3;2;0;0;0;0;0;1;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;2;
+645;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;1;1;B2;0;B;Si;$3 a $3,5 millones;3250000;2;1;
+646;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;1;0;Otro;0;Otro;No;Otro;870000;0;1;
+647;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;1;1;B1;0;B;Si;$2,5 a $3 millones;2750000;2;3;
+648;Medellin;;Docencia e I+D;3;Especialización;1;0;0;1;5;3;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;12;
+649;Medellin;;Docencia e I+D;3;Maestría;0;1;0;1;10;4;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;1;
+650;Medellin;;Comercial, ventas y servicio al cliente;3;Especialización;1;0;0;1;10;4;0;0;0;0;0;1;C1;0;C;Si; Más de $21 millones;22000000;3;1;
+651;Medellin;;Comercial, ventas y servicio al cliente;2;Universitaria;1;0;0;1;3;2;0;0;0;0;0;1;Otro;0;Otro;No;$4,5 a $5,5 millones;5000000;2;1;
+652;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;1;1;Otro;0;Otro;No;$1,5 a $2 millones;1750000;1;5;
+653;Medellin;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;1;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;
+654;Medellin;;Operaciones y Procesos;2;Universitaria;0;0;0;0;2;2;1;0;0;0;0;1;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;1;
+655;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;2;
+656;Medellin;;Operaciones y Procesos;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;1;
+657;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;1;
+658;Medellin;;otros;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;1;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;
+659;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;0;Otro;0;Otro;No;$1,5 a $2 millones;1750000;1;1;
+660;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;0;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;
+661;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;1;
+662;Medellin;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;
+663;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;1;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;1;
+664;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;1;
+665;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;5;3;0;0;0;0;0;1;B2;0;B;Si;$10 a $12,5 millones;11250000;3;1;
+666;Medellin;;Docencia e I+D;3;Maestría;0;1;0;1;8;4;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;1;
+667;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;1;
+668;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;4;2;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;1;
+669;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;0;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;
+670;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;6;3;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;1;
+671;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;1;1;Otro;0;Otro;No;$3 a $3,5 millones;3250000;2;1;
+672;Medellin;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;4;2;0;0;0;0;0;0;Otro;0;Otro;No;$3 a $3,5 millones;3250000;2;1;
+673;Medellin;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;4;2;0;0;0;0;0;1;Otro;0;Otro;No;$3,5 a $4 millones;3750000;2;1;
+674;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;0;Otro;0;Otro;No;$3 a $3,5 millones;3250000;2;1;
+675;Medellin;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;4;2;0;0;0;0;0;1;Otro;0;Otro;No;$3 a $3,5 millones;3250000;2;1;
+676;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;1;
+677;Medellin;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;0;Otro;0;Otro;No;$3 a $3,5 millones;3250000;2;1;
+678;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;0;0;0;1;8;4;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;1;
+679;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;1;Otro;0;Otro;No;$3 a $3,5 millones;3250000;2;1;
+680;Medellin;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;$4,5 a $5,5 millones;5000000;2;1;
+681;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;0;1;0;0;0;0;0;0;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;1;
+682;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;1;0;0;1;3;2;0;0;0;0;1;1;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;
+683;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;0;Otro;0;Otro;No;$3 a $3,5 millones;3250000;2;1;
+684;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;1;1;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;
+685;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;C1;0;C;Si;$4,5 a $5,5 millones;5000000;2;2;
+686;Medellin;;otros;2;Universitaria;0;0;0;0;1;1;0;0;0;0;1;1;B2;0;B;Si;$3 a $3,5 millones;3250000;2;1;
+687;Medellin;;Docencia e I+D;3;Doctorado;0;0;1;1;15;5;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;1;
+688;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;$4,5 a $5,5 millones;5000000;2;1;
+689;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;0;1;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;1;
+690;Medellin;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;1;
+691;Medellin;;otros;2;Universitaria;0;0;0;0;8;4;0;1;0;0;1;1;Otro;0;Otro;No;Otro;870000;0;1;
+692;Medellin;;otros;2;Universitaria;0;0;0;0;1;1;1;0;0;0;1;1;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;
+693;Medellin;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;4;2;0;0;0;0;0;1;Otro;0;Otro;No;$6 a $8 millones;7000000;3;1;
+694;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;1;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;1;
+695;Medellin;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;0;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;1;
+696;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;0;1;0;0;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;1;
+697;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;1;
+698;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;8;4;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;1;
+699;Medellin;;Compras, Inventarios y comercio Internacional;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;
+700;Medellin;;Comercial, ventas y servicio al cliente;3;Especialización;1;1;0;1;10;4;0;0;0;0;0;1;B2;0;B;Si;Otro;870000;0;1;
+701;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;0;Otro;0;Otro;No;$3 a $3,5 millones;3250000;2;1;
+702;Medellin;;otros;2;Universitaria;0;0;0;0;2;2;1;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;1;
+703;Medellin;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;1;1;Otro;0;Otro;No;Otro;870000;0;1;
+704;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;1;A2;0;A;Si;$1,5 a $2 millones;1750000;1;1;
+705;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;1;1;0;0;1;Otro;0;Otro;No;Otro;870000;0;1;
+706;Medellin;;Comercial, ventas y servicio al cliente;1;Técnica;0;0;0;0;1;1;0;0;0;0;0;0;Otro;0;Otro;No;Menos de $1 millón;800000;1;1;
+707;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;1;Media;0;0;0;0;1;1;0;0;0;0;0;0;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;1;
+708;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;1;0;1;1;Otro;0;Otro;No;Otro;870000;0;1;
+709;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;1;
+710;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;1;
+711;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;1;0;1;1;Otro;0;Otro;No;$1,5 a $2 millones;1750000;1;1;
+712;Medellin;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;1;
+713;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;1;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;
+714;Medellin;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;1;
+715;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;0;Otro;0;Otro;No;$3 a $3,5 millones;3250000;2;1;
+716;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;1;0;Otro;0;Otro;No;Menos de $1 millón;800000;1;1;
+717;Medellin;;otros;2;Universitaria;0;0;0;1;9;4;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;1;
+718;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización ;1;0;0;1;5;3;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;1;
+719;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;1;Otro;0;Otro;No;$1,5 a $2 millones;1750000;1;1;
+720;Medellin;;otros;2;Universitaria;0;0;0;0;4;2;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;1;
+721;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización ;0;0;0;1;5;3;0;0;0;0;1;1;Otro;0;Otro;No;Otro;870000;0;1;
+722;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;0;0;0;1;5;3;0;0;0;0;0;1;Otro;0;Otro;No;$4,5 a $5,5 millones;5000000;2;1;
+723;Medellin;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;1;1;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;1;
+724;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;1;Técnica;0;0;0;0;1;1;0;0;0;0;0;1;Otro;0;Otro;No;$1,5 a $2 millones;1750000;1;1;
+725;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;1;
+726;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;1;0;0;1;0;1;B2;0;B;Si;$3 a $3,5 millones;3250000;2;1;
+727;Medellin;;Comercial, ventas y servicio al cliente;1;Técnica;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;1;
+728;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;1;
+729;Medellin;;otros;3;Especialización;1;0;0;1;5;3;0;0;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;1;
+730;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;0;1;0;1;3;2;0;0;0;0;1;1;C1;0;C;Si;Otro;870000;0;1;
+731;Medellin;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;1;1;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;1;
+732;Medellin;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;1;
+733;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;1;Técnica;0;0;0;0;0;1;0;0;0;0;0;1;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;1;
+734;Medellin;;Comercial, ventas y servicio al cliente;1;Técnica;0;0;0;0;1;1;0;0;0;0;1;1;Otro;0;Otro;No;$1 a $1,5 millones;1250000;1;1;
+735;Medellin;;Docencia e I+D;3;Doctorado;0;0;1;1;5;3;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;1;
+736;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;3;Maestría;0;1;0;1;1;1;0;0;0;0;0;1;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;1;
+737;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;0;0;1;1;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;1;
+738;Medellin;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;4;2;0;0;0;0;0;1;Otro;0;Otro;No;$3,5 a $4 millones;3750000;2;1;
+739;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización ;0;0;0;1;3;2;0;0;0;0;0;1;Otro;0;Otro;No;$10 a $12,5 millones;11250000;3;1;
+740;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización ;0;1;0;1;3;2;0;0;0;0;1;1;C1;0;C;Si;Otro;870000;0;1;
+741;Medellin;;Docencia e I+D;3;Especialización;1;0;0;1;5;3;0;0;0;0;0;1;Otro;0;Otro;No;$5,5 a $6 millones;5750000;3;1;
+742;Medellin;;Operaciones y Procesos;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;1;
+743;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;1;0;1;4;2;0;0;0;0;0;1;C1;0;C;Si;$4,5 a $5,5 millones;5000000;2;1;
+744;Medellin;;Comercial, ventas y servicio al cliente;2;Universitaria;1;0;0;1;2;2;0;0;0;0;0;1;Otro;0;Otro;No;$3 a $3,5 millones;3250000;2;1;
+745;Medellin;;Docencia e I+D;2;Universitaria;0;0;0;0;2;2;0;0;0;0;1;1;Otro;0;Otro;No;$5,5 a $6 millones;5750000;3;1;
+746;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;0;0;0;0;3;2;0;0;0;0;0;1;Otro;0;Otro;No;$6 a $8 millones;7000000;3;1;
+747;Medellin;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;0;Otro;0;Otro;No;$2 a $2,5 millones;2250000;2;1;
+748;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;1;Técnica;0;0;0;0;1;1;0;0;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;1;
+749;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;1;Técnica;0;0;0;0;1;1;0;0;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;1;
+750;Medellin;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;$2,5 a $3 millones;2750000;2;1;
+751;Medellin;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;0;Otro;0;Otro;No;$3 a $3,5 millones;3250000;2;1;
+752;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+753;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+754;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+755;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+756;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+757;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;1;1;Otro;0;Otro;No;Otro;870000;0;;
+758;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;1;0;Otro;0;Otro;No;Otro;870000;0;;
+759;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+760;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+761;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+762;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+763;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;1;1;Otro;0;Otro;No;Otro;870000;0;;
+764;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+765;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;1;1;Otro;0;Otro;No;Otro;870000;0;;
+766;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+767;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
+768;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+769;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+770;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+771;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+772;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+773;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+774;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+775;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+776;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
+777;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+778;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+779;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;1;1;Otro;0;Otro;No;Otro;870000;0;;
+780;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+781;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+782;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+783;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+784;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+785;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+786;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+787;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+788;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+789;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+790;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+791;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+792;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+793;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+794;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+795;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+796;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+797;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+798;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+799;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+800;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;1;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+801;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+802;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+803;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+804;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+805;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+806;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+807;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+808;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+809;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+810;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+811;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+812;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+813;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+814;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+815;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+816;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+817;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+818;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+819;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+820;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+821;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+822;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+823;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+824;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+825;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+826;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+827;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+828;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+829;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+830;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+831;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;2;2;0;0;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+832;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;2;2;0;1;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+833;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
+834;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+835;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+836;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+837;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;2;2;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+838;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+839;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+840;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+841;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
+842;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+843;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+844;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+845;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+846;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+847;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+848;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+849;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+850;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+851;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+852;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+853;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+854;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+855;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+856;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;Otro;Otro;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+857;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+858;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+859;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+860;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+861;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+862;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+863;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;0;A1;0;A;Si;Otro;870000;0;;
+864;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;3;2;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+865;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+866;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+867;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;3;2;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+868;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+869;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+870;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+871;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+872;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+873;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+874;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
+875;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
+876;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;2;2;0;1;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
+877;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
+878;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
+879;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;2;2;0;0;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
+880;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
+881;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
+882;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;2;2;0;0;0;0;0;0;A1;0;A;Si;Otro;870000;0;;
+883;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;2;2;0;1;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
+884;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
+885;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;2;2;0;1;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
+886;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;2;2;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+887;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
+888;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
+889;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
+890;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
+891;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
+892;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;2;2;0;0;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
+893;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;2;2;0;1;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
+894;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;2;2;0;1;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
+895;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+896;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
+897;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
+898;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
+899;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+900;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+901;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+902;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+903;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+904;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;0;A1;0;A;Si;Otro;870000;0;;
+905;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+906;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+907;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+908;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+909;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;0;A1;0;A;Si;Otro;870000;0;;
+910;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+911;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+912;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+913;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+914;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+915;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+916;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+917;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;0;A1;0;A;Si;Otro;870000;0;;
+918;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+919;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+920;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+921;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+922;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+923;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+924;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;0;A1;0;A;Si;Otro;870000;0;;
+925;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;0;A1;0;A;Si;Otro;870000;0;;
+926;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+927;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
+928;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+929;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;0;A1;0;A;Si;Otro;870000;0;;
+930;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+931;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+932;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
+933;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+934;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+935;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
+936;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+937;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
+938;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+939;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;0;A1;0;A;Si;Otro;870000;0;;
+940;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;0;A1;0;A;Si;Otro;870000;0;;
+941;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+942;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;0;A1;0;A;Si;Otro;870000;0;;
+943;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
+944;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;3;2;0;1;0;0;0;0;A1;0;A;Si;Otro;870000;0;;
+945;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;1;1;0;0;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
+946;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;3;2;0;1;0;0;0;0;A1;0;A;Si;Otro;870000;0;;
+947;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
+948;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
+949;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
+950;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;0;A1;0;A;Si;Otro;870000;0;;
+951;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;0;A1;0;A;Si;Otro;870000;0;;
+952;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
+953;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
+954;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
+955;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
+956;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;0;A1;0;A;Si;Otro;870000;0;;
+957;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+958;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+959;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;3;2;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+960;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;3;2;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+961;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+962;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+963;Bucaramanga;;Comercial, ventas y servicio al cliente;3;Especialización;1;0;0;1;2;2;0;0;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
+964;Bucaramanga;;Comercial, ventas y servicio al cliente;3;Especialización;1;0;0;1;2;2;0;0;0;0;0;0;A1;0;A;Si;Otro;870000;0;;
+965;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
+966;Bucaramanga;;Comercial, ventas y servicio al cliente;3;Especialización;1;0;0;1;2;2;0;0;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
+967;Bucaramanga;;Comercial, ventas y servicio al cliente;3;Especialización;1;0;0;1;2;2;0;0;0;0;0;0;A1;0;A;Si;Otro;870000;0;;
+968;Bucaramanga;;Comercial, ventas y servicio al cliente;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
+969;Bucaramanga;;Comercial, ventas y servicio al cliente;3;Especialización;1;0;0;1;2;2;0;0;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
+970;Bucaramanga;;otros;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+971;Bucaramanga;;otros;2;Universitaria;0;0;0;0;3;2;0;1;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+972;Bucaramanga;;otros;2;Universitaria;0;0;0;0;3;2;0;1;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+973;Bucaramanga;;otros;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+974;Bucaramanga;;otros;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+975;Bucaramanga;;otros;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;0;A1;0;A;Si;Otro;870000;0;;
+976;Bucaramanga;;otros;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+977;Bucaramanga;;otros;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+978;Bucaramanga;;otros;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
+979;Bucaramanga;;otros;2;Universitaria;0;0;0;0;3;2;0;1;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
+980;Bucaramanga;;otros;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+981;Bucaramanga;;otros;2;Universitaria;0;0;0;0;5;3;0;1;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
+982;Bucaramanga;;otros;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;0;A1;0;A;Si;Otro;870000;0;;
+983;Bucaramanga;;otros;2;Universitaria;0;0;0;0;3;2;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+984;Bucaramanga;;otros;2;Universitaria;0;0;0;0;3;2;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+985;Bucaramanga;;otros;2;Universitaria;0;0;0;0;4;2;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+986;Bucaramanga;;otros;2;Universitaria;0;0;0;0;3;2;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+987;Bucaramanga;;otros;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+988;Bucaramanga;;otros;2;Universitaria;0;0;0;0;3;2;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+989;Bucaramanga;;Docencia e I+D;3;Especialización;1;0;0;1;1;1;0;1;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
+990;Bucaramanga;;Docencia e I+D;3;Especialización;1;0;0;1;Otro;Otro;0;1;0;0;0;0;A1;0;A;Si;Otro;870000;0;;
+991;Bucaramanga;;Docencia e I+D;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
+992;Bucaramanga;;Docencia e I+D;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
+993;Bucaramanga;;Docencia e I+D;3;Especialización;1;0;0;1;2;2;0;1;0;0;0;0;A1;0;A;Si;Otro;870000;0;;
+994;Bucaramanga;;Docencia e I+D;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
+995;Bucaramanga;;Docencia e I+D;3;Especialización;1;0;0;1;2;2;0;1;0;0;0;0;A1;0;A;Si;Otro;870000;0;;
+996;Bucaramanga;;Docencia e I+D;3;Especialización;1;0;0;1;2;2;0;1;0;0;0;0;A1;0;A;Si;Otro;870000;0;;
+997;Bucaramanga;;Docencia e I+D;3;Especialización;1;0;0;1;2;2;0;1;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
+998;Bucaramanga;;Docencia e I+D;3;Especialización;1;0;0;1;4;2;0;1;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
+999;Bucaramanga;;Docencia e I+D;3;Especialización;1;0;0;1;3;2;0;1;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
+1000;Bucaramanga;;Docencia e I+D;3;Especialización;1;0;0;1;3;2;0;1;0;0;0;0;A1;0;A;Si;Otro;870000;0;;
+1001;Bucaramanga;;Docencia e I+D;3;Especialización;1;0;0;1;Otro;Otro;0;1;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
+1003;Bucaramanga;;Docencia e I+D;3;Maestría;0;1;0;1;2;2;0;0;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
+1004;Bucaramanga;;Docencia e I+D;3;Especialización;1;0;0;1;2;2;0;0;0;0;0;0;A1;0;A;Si;Otro;870000;0;;
+1005;Bucaramanga;;Docencia e I+D;3;Maestría;0;1;0;1;2;2;0;0;0;0;0;0;A1;0;A;Si;Otro;870000;0;;
+1006;Bucaramanga;;Docencia e I+D;3;Maestría;0;1;0;1;2;2;0;1;0;0;0;0;A1;0;A;Si;Otro;870000;0;;
+1007;Bucaramanga;;Docencia e I+D;3;Maestría;0;1;0;1;3;2;0;0;0;0;0;0;A1;0;A;Si;Otro;870000;0;;
+1008;Bucaramanga;;Docencia e I+D;3;Especialización;1;0;0;1;2;2;0;1;0;0;0;0;A1;0;A;Si;Otro;870000;0;;
+1009;Bucaramanga;;Docencia e I+D;3;Maestría;0;1;0;1;2;2;0;0;0;0;0;0;A1;0;A;Si;Otro;870000;0;;
+1010;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+1011;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;2;2;0;1;0;0;0;0;A1;0;A;Si;Otro;870000;0;;
+1012;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;10;4;0;0;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+1013;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;2;Universitaria;0;0;0;0;10;4;0;0;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+1014;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;2;2;0;0;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+1015;Bucaramanga;;Administrativa, Auditoria,  Financiera, Gerencia;3;Especialización;1;0;0;1;2;2;0;0;0;0;0;0;A1;0;A;Si;Otro;870000;0;;
+1016;Bucaramanga;;Compras, Inventarios y comercio Internacional;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+1017;Bucaramanga;;Compras, Inventarios y comercio Internacional;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;0;Otro;0;Otro;No;Otro;870000;0;;
+1018;Bucaramanga;;Compras, Inventarios y comercio Internacional;2;Universitaria;0;0;0;0;2;2;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+1019;Bucaramanga;;Compras, Inventarios y comercio Internacional;2;Universitaria;0;0;0;0;1;1;0;1;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+1020;Bucaramanga;;Compras, Inventarios y comercio Internacional;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+1021;Bucaramanga;;Compras, Inventarios y comercio Internacional;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
+1022;Bucaramanga;;Compras, Inventarios y comercio Internacional;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;Otro;0;Otro;No;Otro;870000;0;;
+1022;Bucaramanga;;Compras, Inventarios y comercio Internacional;2;Universitaria;0;0;0;0;2;2;0;0;0;0;0;1;A1;0;A;Si;Otro;870000;0;;
