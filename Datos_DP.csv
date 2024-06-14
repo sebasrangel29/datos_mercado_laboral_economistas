@@ -1,0 +1,461 @@
+Ano;Numeracion;Ciudad;Area;Nestudios;Formacion;Especialización;Maestría;Doctorado;Posgrado;Experiencia;Lenguajes;DatosAlma;HerraContables;HerraVisualizacion;HerraOfimaticas;OtrosConocimientos;Sintervalo;Idiomas;Salario;Vacantes;Sector_vacante
+2024;1;Bogota;Docencia;3;Posgrado;1;1;0;1;3;0;0;0;0;0;1;3.5 a 4 millones;Otro;2;1;Educativo
+2024;2;Bogota;Economía y desarrollo económico;2;Universitaria;1;0;0;1;4;0;0;0;0;0;1;3.5 a 4 millones;Otro;2;1;Servicios
+2024;3;Bogota;Consultoría;2;Universitaria;0;0;0;0;4;0;0;0;0;1;1;Salario a convenir;B;0;1;Servicios
+2024;4;Bogota;Investigación;2;Universitaria;0;0;0;0;2;0;0;0;1;0;1;3 a 3.5 millones;Otro;2;1;Construccion
+2024;5;Bogota;;3;Especialización;1;0;0;1;4;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Servicios
+2024;6;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;1;0;3 a 3.5 millones;Otro;2;1;Agropecuario
+2024;7;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;1;0;4 a 4.5 millones;Otro;2;2;Servicios
+2024;8;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;0;0;1;0;0;1;0;4.5 a 5.5 millones;Otro;2;1;Asegurador
+2024;9;Bogota;Docencia;3;Especialización;1;0;0;1;1;0;0;0;0;0;1;1 a 1.5millones;Otro;1;1;Educativo
+2024;10;Bogota;Operaciones y procesos;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;2.5 a 3 millones;Otro;1;1;Editorial e impresión
+2024;11;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;0;0;0;0;0;0;0;1 a 1.5millones;Otro;1;1;Servicios
+2024;12;Bogota;Salud;2;Universitaria;0;0;0;0;2;0;0;0;1;0;0;2.5 a 3 millones;Otro;1;1;Otros
+2024;13;Bogota;Salud;2;Universitaria;0;0;0;0;4;0;0;0;1;0;0;3 a 3.5 millones;Otro;2;1;Otros
+2024;14;Bogota;Proyectos;2;Universitaria;0;0;0;0;4;0;0;0;0;1;0;Salario a convenir;Otro;0;1;Consultorías
+2024;15;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;1;0;2.5 a 3 millones;Otro;1;1;Servicios
+2024;16;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;1;0;0;1;3.5 a 4 millones;Otro;2;1;Educativo
+2024;17;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;1;1;4 a 4.5 millones;Otro;2;1;Servicios
+2024;18;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;0;0;0;0;0;0;0;Menos de 1 millon;Otro;1;2;Otros
+2024;19;Bogota;Administrativa y financiera;3;Especialización;1;0;0;1;7;0;0;0;0;1;0;Salario a convenir;B;0;1;Servicios
+2024;20;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;0;0;3 a 3.5 millones;Otro;2;1;Transporte
+2024;21;Bogota;Administrativa y financiera;1;Técnica;0;0;0;0;1;0;1;0;0;1;1;2 a 2.5millones;Otro;1;1;Salud
+2024;22;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;6;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Financiero
+2024;23;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;3;0;0;0;0;1;1;4 a 4.5 millones;Otro;2;1;Salud
+2024;24;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;3;0;0;0;0;1;1;4.5 a 5.5 millones;Otro;2;1;Salud
+2024;25;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;4;0;0;1;0;1;1;6 a 8 millones;Otro;2;1;Energético
+2024;26;Medellin;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;1;1;Salario a convenir;C;0;1;Servicios
+2024;28;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;1;0;Salario a convenir;C;0;1;Organizaciones No Gubernamentales
+2024;29;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;0;0;3 a 3.5 millones;Otro;2;1;Salud
+2024;30;Medellin;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;1;0;Salario a convenir;C;0;1;Servicios
+2024;31;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;1;1;2 a 2.5millones;Otro;1;1;Financiero
+2024;32;Bogota;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;3;0;0;0;0;1;1;4 a 4.5 millones;Otro;2;1;Salud
+2024;33;Bogota;Administrativa y financiera;1;Técnica;0;0;0;0;1;0;0;0;0;1;0;1 a 1.5millones;Otro;1;1;Salud
+2024;34;Bogota;Administrativa y financiera;3;Especialización;1;0;0;1;5;1;0;0;1;1;1;4.5 a 5.5 millones;Otro;2;1;Otros
+2024;35;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;3;0;0;0;0;1;0;4 a 4.5 millones;Otro;2;1;Servicios
+2024;36;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;0;0;0;0;0;0;0;1 a 1.5millones;Otro;1;1;Consultorías
+2024;37;Bogota;Administrativa y financiera;3;Especialización;1;0;0;1;4;1;0;0;0;1;1;6 a 8 millones;Otro;2;1;Salud
+2024;38;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;0;0;0;0;0;0;0;1 a 1.5millones;Otro;1;1;Consultorías
+2024;39;Bogota;Administrativa y financiera;1;Técnica;0;0;0;0;1;0;0;0;0;1;0;1 a 1.5millones;Otro;1;1;Salud
+2024;40;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;0;0;0;0;0;0;0;1.5 a 2millones;Otro;1;1;Servicios
+2024;41;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;0;0;2.5 a 3 millones;Otro;1;1;Energético
+2024;42;Bogota;Administrativa y financiera;1;Técnica;0;0;0;0;2;0;0;0;0;0;0;Salario a convenir;Otro;0;1;Salud
+2024;43;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;3;0;0;0;0;1;1;4 a 4.5 millones;Otro;2;1;Salud
+2024;44;Bogota;Administrativa y financiera;1;Técnica;0;0;0;0;1;0;0;0;0;0;0;Salario a convenir;Otro;0;1;Salud
+2024;45;Medellin;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;1;0;2.5 a 3 millones;Otro;1;1;Estatal y relacionados
+2024;46;Bogota;Administrativa y financiera;3;Especialización;1;0;0;1;10;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Financiero
+2024;48;Bogota;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;3;0;0;0;0;1;1;4 a 4.5 millones;Otro;2;1;Salud
+2024;49;Bogota;Sistemas y tecnología;2;Universitaria;0;0;0;0;2;1;0;0;1;1;1;3 a 3.5 millones;Otro;2;1;Salud
+2024;50;Bogota;Administrativa y financiera;3;Especialización;1;0;0;1;5;0;0;0;0;0;1;6 a 8 millones;Otro;2;1;Servicios
+2024;52;Bogota;Administrativa y financiera;1;Técnica;0;0;0;0;1;0;0;0;0;0;0;Salario a convenir;Otro;0;1;Salud
+2024;53;Bogota;Administrativa y financiera;3;Especialización;1;0;0;1;5;1;0;0;1;0;1;Salario a convenir;B;0;1;Tecnología
+2024;54;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;0;1;4 a 4.5 millones;Otro;2;1;Servicios
+2024;55;Medellin;Administrativa y financiera;2;Universitaria;0;0;0;0;3;0;0;0;0;1;0;3.5 a 4 millones;B;2;1;Telecomunicaciones
+2024;56;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;3;0;0;0;0;0;1;6 a 8 millones;Otro;2;1;Servicios
+2024;57;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;0;0;0;0;0;0;0;Menos de 1 millon;Otro;1;1;Otros
+2024;58;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;3;0;0;0;0;1;1;2 a 2.5millones;Otro;1;1;Educativo
+2024;59;Bogota;Auditoría, Controlaría e Intervención;3;Especialización;1;0;0;1;3;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Consultorías
+2024;60;Bogota;Salud;1;Técnica;0;0;0;0;1;0;0;0;0;1;1;2.5 a 3 millones;Otro;1;1;Salud
+2024;61;Bogota;Mercadeo y Publicidad;2;Universitaria;0;0;0;0;2;0;1;0;0;1;1;Salario a convenir;Otro;0;1;Publicidad y Mercadeo
+2024;62;Bogota;Sistemas y tecnología;2;Universitaria;0;0;0;0;2;0;0;0;0;1;1;2 a 2.5millones;Otro;1;1;Educativo
+2024;63;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;0;0;2.5 a 3 millones;Otro;1;1;Servicios
+2024;64;Bogota;Comercial, Ventas y Telemercadeo;3;Especialización;1;0;0;1;4;0;1;0;1;0;1;4.5 a 5.5 millones;B;2;1;Construccion
+2024;65;Bogota;Auditoría, Controlaría e Intervención;2;Universitaria;0;0;0;0;3;0;0;0;0;0;1;2.5 a 3 millones;Otro;1;1;Consultorías
+2024;66;Bogota;Auditoría, Controlaría e Intervención;2;Universitaria;0;0;0;0;3;0;1;1;0;0;0;Salario a convenir;Otro;0;1;Consultorías
+2024;67;Bogota;Administrativa y financiera;3;Especialización;1;0;0;1;4;0;0;0;0;0;1;3 a 3.5 millones;Otro;2;1;Transporte
+2024;68;Bogota;Salud;2;Universitaria;0;0;0;0;1;1;1;0;0;0;0;Salario a convenir;Otro;0;1;Salud
+2024;69;Bogota;Docencia;2;Universitaria;0;0;0;0;4;0;0;0;0;0;1;3.5 a 4 millones;Otro;2;1;Educativo
+2024;70;Bogota;Administrativa y financiera;1;Técnica;0;0;0;0;1;0;0;0;0;0;0;2.5 a 3 millones;Otro;1;1;Tecnología
+2024;71;Bogota;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;3;0;1;0;0;0;0;3 a 3.5 millones;Otro;2;1;Construccion
+2024;72;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;3 a 3.5 millones;Otro;2;1;Servicios
+2024;73;Bogota;Administrativa y financiera;3;Especialización;1;0;0;1;6;1;1;0;0;1;1;8 a 10 millones;B;3;1;Financiero
+2024;74;Bogota;Proyectos;2;Universitaria;0;0;0;0;2;0;0;0;0;0;0;Salario a convenir;Otro;0;1;Otros
+2024;75;Bogota;Proyectos;3;Especialización;0;1;0;1;11;1;1;1;1;0;1;18 a 21 millones;C;3;1;Energético
+2024;76;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;3;0;0;0;0;1;1;4.5 a 5.5 millones;Otro;2;1;Salud
+2024;77;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;2.5 a 3 millones;Otro;1;1;Financiero
+2024;78;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;1;0;0;1;4 a 4.5 millones;Otro;2;1;Financiero
+2024;79;Bogota;Calidad;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;3 a 3.5 millones;Otro;2;1;Tecnología
+2024;80;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;2;1;0;1;0;1;1;4.5 a 5.5 millones;Otro;2;1;Energético
+2024;81;Bogota;Servicio al cliente;2;Universitaria;0;0;0;0;1;0;0;0;0;0;0;Salario a convenir;Otro;0;1;Financiero
+2024;82;Bogota;Mercadeo y Publicidad;3;Especialización;1;0;0;1;5;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Construccion
+2024;83;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;3;0;0;0;1;1;0;5.5 a 6 millones;Otro;2;1;Financiero
+2024;84;Bogota;Administrativa y financiera;2;Universitaria;1;1;0;1;5;0;0;0;1;1;1;6 a 8 millones;Otro;2;1;Servicios
+2024;85;Bogota;Auditoría, Controlaría e Intervención;2;Universitaria;0;0;0;0;3;1;0;1;0;1;0;2.5 a 3 millones;B;1;1;Consultorías
+2024;86;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;1;1;0;2.5 a 3 millones;Otro;1;1;Financiero
+2024;87;Bogota;Administrativa y financiera;2;Universitaria;1;0;0;1;1;1;0;0;1;1;0;3 a 3.5 millones;Otro;2;1;Financiero
+2024;88;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;0;0;0;0;0;0;0;1 a 1.5millones;Otro;1;3;Financiero
+2024;89;Bogota;Operaciones y procesos;2;Universitaria;0;0;0;0;1;0;0;0;0;0;1;2 a 2.5millones;Otro;1;1;Financiero
+2024;90;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Vehículos y partes
+2024;91;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;0;0;0;0;0;0;0;1 a 1.5millones;Otro;1;1;Consultorías
+2024;92;Bogota;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;3;0;0;0;0;0;0;3.5 a 4 millones;Otro;2;1;Consumo masivo
+2024;93;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;0;0;0;0;0;0;0;Menos de 1 millon;Otro;1;1;Servicios
+2024;94;Bogota;Administrativa y financiera;3;Especialización;1;1;0;1;3;1;1;0;0;0;1;8 a 10 millones;Otro;3;1;Otros
+2024;97;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;3;0;0;0;0;0;1;4.5 a 5.5 millones;Otro;2;1;Telecomunicaciones
+2024;99;Bogota;Proyectos;2;Universitaria;0;0;0;0;1;0;0;0;0;0;1;1.5 a 2millones;Otro;1;1;Tecnología
+2024;100;Bogota;Auditoría, Controlaría e Intervención;3;Especialización;1;0;0;1;6;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Telecomunicaciones
+2024;101;Bogota;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;5;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Comercio al por menor - retail
+2024;103;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;0;0;0;0;0;1;0;1 a 1.5millones;Otro;1;2;Consultorías
+2024;104;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;1;0;0;1;0;Salario a convenir;Otro;0;1;Financiero
+2024;105;Bogota;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;3;0;0;0;0;0;1;3.5 a 4 millones;Otro;2;1;Consumo masivo
+2024;106;Bogota;Calidad;2;Universitaria;0;0;0;0;5;0;0;0;0;0;1;4 a 4.5 millones;B;2;1;Consultorías
+2024;107;Bogota;Investigación;3;Especialización;0;1;0;1;3;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Educativo
+2024;108;Bogota;Auditoría, Controlaría e Intervención;2;Universitaria;0;0;0;0;4;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Consultorías
+2024;109;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;1;0;1;1;Salario a convenir;Otro;0;1;Alimentos
+2024;111;Bogota;Sistemas y tecnología;2;Universitaria;0;0;0;0;2;0;1;0;1;1;0;Salario a convenir;Otro;0;1;Tecnología
+2024;112;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;1;0;1;1;0;3 a 3.5 millones;Otro;2;1;Asegurador
+2024;113;Medellin;Sistemas y tecnología;2;Universitaria;1;0;0;1;4;0;0;1;1;1;1;6 a 8 millones;Otro;2;1;Telecomunicaciones
+2024;114;Medellin;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;2;1;0;0;1;1;0;Salario a convenir;B;0;1;Consumo masivo
+2024;115;Bogota;Sistemas y tecnología;2;Universitaria;0;0;0;0;2;1;0;0;1;1;0;3.5 a 4 millones;C;2;1;Consultorías
+2024;116;Bogota;Auditoría, Controlaría e Intervención;2;Universitaria;0;0;0;0;5;0;0;0;0;1;1;4.5 a 5.5 millones;B;2;1;Otros
+2024;117;Bogota;Comercial, Ventas y Telemercadeo;2;Universitaria;1;0;0;1;3;0;0;0;0;0;1;4 a 4.5 millones;Otro;2;1;Consultorías
+2024;118;Bogota;Sistemas y tecnología;2;Universitaria;0;0;0;0;2;1;0;0;0;0;0;2.5 a 3 millones;C;1;1;Consultorías
+2024;119;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;3;0;0;0;0;1;1;4.5 a 5.5 millones;Otro;2;1;Transporte
+2024;120;Bogota;Comercial, Ventas y Telemercadeo;2;Universitaria;1;0;0;1;1;0;1;0;0;0;1;3 a 3.5 millones;Otro;2;1;Consultorías
+2024;121;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;1;1;4.5 a 5.5 millones;Otro;2;1;Transporte
+2024;122;Bogota;Servicio al cliente;2;Universitaria;0;0;0;0;3;0;0;0;0;0;0;2 a 2.5millones;Otro;1;1;Consultorías
+2024;123;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;3;0;0;0;0;0;0;2.5 a 3 millones;Otro;1;1;Consultorías
+2024;124;Bogota;Administrativa y financiera;3;Especialización;1;0;0;1;3;0;0;0;0;0;1;3 a 3.5 millones;Otro;2;1;Consultorías
+2024;125;Bogota;Sistemas y tecnología;2;Universitaria;0;0;0;0;1;1;0;0;1;1;0;Salario a convenir;Otro;0;1;Telecomunicaciones
+2024;126;Medellin;Administrativa y financiera;2;Universitaria;0;0;0;0;2;1;0;0;0;1;0;3.5 a 4 millones;Otro;2;1;Servicios
+2024;127;Medellin;Administrativa y financiera;2;Universitaria;0;0;0;0;3;0;0;0;0;1;0;Salario a convenir;Otro;0;1;Servicios
+2024;128;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;2 a 2.5millones;Otro;1;1;Consultorías
+2024;129;Bogota;Sistemas y tecnología;2;Universitaria;0;0;0;0;3;1;0;0;1;0;0;Salario a convenir;Otro;0;1;Tecnología
+2024;130;Bogota;Administrativa y financiera;3;Especialización;1;0;0;1;5;1;0;1;1;1;1;6 a 8 millones;Otro;2;1;Alimentos
+2024;131;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;1;1;1;0;1;1;0;Salario a convenir;Otro;0;1;Consultorías
+2024;132;Medellin;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;1;1;3.5 a 4 millones;Otro;2;1;Servicios
+2024;133;Medellin;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;2;0;0;0;0;1;0;Salario a convenir;Otro;0;1;Servicios
+2024;134;Bogota;Sistemas y tecnología;2;Universitaria;0;0;0;0;2;1;1;0;0;1;0;4 a 4.5 millones;Otro;2;1;Telecomunicaciones
+2024;135;Bogota;Recursos Humanos y Admin de Personal;2;Universitaria;0;0;0;0;3;0;0;0;0;0;1;3.5 a 4 millones;Otro;2;1;Servicios
+2024;136;Bogota;Mantenimiento;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;3.5 a 4 millones;Otro;2;1;Energético
+2024;137;Cali;Calidad;1;Media;0;0;0;0;0;0;0;0;0;0;0;1 a 1.5millones;Otro;1;1;Educativo
+2024;138;Cali;Compras e Inventarios;2;Universitaria;0;0;0;0;4;0;1;0;0;0;1;6 a 8 millones;Otro;2;1;Químicos
+2024;139;Cali;Administrativa y financiera;2;Universitaria;0;0;0;0;3;0;0;1;0;0;0;3 a 3.5 millones;Otro;2;1;Consultorías
+2024;140;Cali;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;1;1;0;3 a 3.5 millones;Otro;2;1;Agropecuario
+2024;141;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;1;1;2.5 a 3 millones;Otro;1;1;Servicios
+2024;142;Bogota;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;0;0;0;0;0;0;0;1.5 a 2millones;Otro;1;1;Educativo
+2024;143;Bogota;Salud;2;Universitaria;0;0;0;0;3;0;0;0;0;0;1;3.5 a 4 millones;Otro;2;1;Asegurador
+2024;144;Cali;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;0;0;2.5 a 3 millones;Otro;1;1;Salud
+2024;145;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;4;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Servicios
+2024;146;Cali;Administrativa y financiera;2;Universitaria;1;0;0;1;5;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Transporte
+2024;147;Bucaramanga;Administrativa y financiera;2;Universitaria;0;0;0;0;5;0;0;0;0;1;1;11 a 15 millones;B;3;1;Estatal y relacionados
+2024;148;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;3;1;0;0;1;0;0;Salario a convenir;Otro;0;1;Telecomunicaciones
+2024;149;Medellin;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Transporte
+2024;150;Bucaramanga;Consultoría;2;Universitaria;1;0;0;1;2;0;0;0;0;0;1;3 a 3.5 millones;Otro;2;1;Construccion
+2024;151;Bogota;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;2;0;0;0;0;1;0;1 a 1.5millones;Otro;1;1;Transporte
+2024;152;Cali;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;3;0;0;0;0;0;0;3 a 3.5 millones;Otro;2;1;Turismo
+2024;153;Cali;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;1;0;0;0;0;0;0;1 a 1.5millones;Otro;1;1;Salud
+2024;154;Bucaramanga;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;0;0;1.5 a 2millones;Otro;1;1;Consultorías
+2024;155;Bucaramanga;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;1;0;0;0;0;0;0;1 a 1.5millones;Otro;1;1;Financiero
+2024;156;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;1;0;0;0;2 a 2.5millones;Otro;1;1;Financiero
+2024;157;Medellin;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;5;0;1;0;1;1;1;8 a 10 millones;Otro;3;1;Comercio al por menor - retail
+2024;158;Cali;Operaciones y procesos;2;Universitaria;0;0;0;0;1;1;1;0;0;1;0;4 a 4.5 millones;Otro;2;1;Financiero
+2024;159;Medellin;Calidad;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;2 a 2.5millones;Otro;1;1;Salud
+2024;160;Cali;Administrativa y financiera;1;Técnica;0;0;0;0;2;0;0;0;0;1;1;2.5 a 3 millones;Otro;1;1;Vehículos y partes
+2024;161;Bucaramanga;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;4;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Comercio al por menor - retail
+2024;162;Cali;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;0;0;1 a 1.5millones;Otro;1;1;Financiero
+2024;163;Cali;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;0;0;2 a 2.5millones;Otro;1;1;Financiero
+2024;164;Medellin;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;1;0;2 a 2.5millones;Otro;1;1;Comercio al por menor - retail
+2024;165;Bucaramanga;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;1;0;0;1;1;Salario a convenir;Otro;0;1;Servicios
+2024;166;Cali;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;0;0;1.5 a 2millones;Otro;1;1;Financiero
+2024;167;Bucaramanga;Administrativa y financiera;2;Universitaria;0;0;0;0;5;1;0;1;0;0;1;4.5 a 5.5 millones;Otro;2;1;Financiero
+2023;168;Bucaramanga;Administrativa y financiera;2;Universitaria;0;0;0;0;2;1;0;0;0;0;0;2 a 2.5millones;Otro;1;1;Financiero
+2023;169;Bogota;Administrativa y financiera;2;Universitaria;1;0;0;1;5;0;0;0;0;1;1;Salario a convenir;Otro;0;1;Organizaciones No Gubernamentales
+2023;170;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;1;0;Salario a convenir;Otro;0;1;Organizaciones No Gubernamentales
+2023;171;Cali;Emprendimiento;2;Universitaria;0;0;0;0;3;0;0;0;1;0;1;Salario a convenir;Otro;0;1;Organizaciones No Gubernamentales
+2023;172;Cali;Emprendimiento;2;Universitaria;0;0;0;0;4;0;0;0;1;0;1;Salario a convenir;Otro;0;1;Organizaciones No Gubernamentales
+2023;173;Cali;Administrativa y financiera;1;Técnica;0;0;0;0;2;0;0;0;0;1;0;Salario a convenir;Otro;0;1;Organizaciones No Gubernamentales
+2023;174;Cali;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;1;0;Salario a convenir;Otro;0;1;Organizaciones No Gubernamentales
+2023;175;Bucaramanga;Compras e Inventarios;2;Universitaria;1;0;0;1;5;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Industrial
+2023;176;Bogota;Administrativa y financiera;2;Universitaria;1;0;0;1;2;0;0;0;0;0;0;2 a 2.5millones;Otro;1;1;Consultorías
+2023;177;Bucaramanga;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;1;1;Salario a convenir;Otro;0;1;Financiero
+2023;178;Bucaramanga;Inversiones, servicio al cliente;2;Universitaria;0;0;0;0;3;0;0;1;0;1;0;2 a 2.5millones;B;1;1;Financiero
+2023;179;Bucaramanga;Administrativa y financiera;2;Universitaria;0;0;0;0;5;1;0;1;1;1;0;4.5 a 5.5 millones;Otro;2;1;Financiero
+2023;180;Medellin;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;1;1;Salario a convenir;Otro;0;1;Financiero
+2023;181;Bucaramanga;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;1;0;2 a 2.5millones;Otro;1;1;Alimentos
+2023;182;Bucaramanga;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;0;1;1 a 1.5millones;Otro;1;1;Financiero
+2023;183;Bucaramanga;Administrativa y financiera;2;Universitaria;0;0;0;0;5;1;0;0;1;1;0;4.5 a 5.5 millones;Otro;2;1;Financiero
+2023;184;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;8;1;1;0;1;1;0;15 a 18 millones;B;3;1;Financiero
+2023;185;Bogota;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;5;0;1;0;0;1;0;8 a 10 millones;Otro;3;1;Construccion
+2023;186;Bogota;Consultoría;2;Universitaria;0;0;0;0;2;0;0;0;0;0;0;Salario a convenir;Otro;0;1;Construccion
+2023;187;Bogota;Analista;2;Universitaria;0;0;0;0;0;0;0;0;0;1;1;2 a 2.5millones;Otro;1;1;Financiero
+2023;188;Bogota;Administrativa y financiera;2;Universitaria;1;0;0;1;1;0;0;0;0;1;1;4 a 4.5 millones;Otro;2;1;Estatal y relacionados
+2023;189;Bogota;Proyectos;2;Universitaria;1;0;0;1;3;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Agropecuario
+2023;190;Medellin;Salud;2;Universitaria;0;0;0;0;1;0;0;0;0;1;0;3 a 3.5 millones;Otro;2;1;Salud
+2023;191;Bucaramanga;Administrativa y financiera;2;Universitaria;0;0;0;0;1;1;0;0;0;1;0;Salario a convenir;Otro;0;1;Tecnología
+2023;192;Medellin;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;2;1;0;0;1;1;1;8 a 10 millones;Otro;3;1;Consumo masivo
+2023;193;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;0;0;1 a 1.5millones;Otro;1;1;Servicios
+2023;194;Medellin;Administrativa y financiera;2;Universitaria;0;0;0;0;3;0;0;0;0;1;1;3.5 a 4 millones;B;2;1;Construccion
+2023;195;Medellin;Contabilidad;2;Universitaria;0;0;0;0;1;0;0;0;1;1;0;2 a 2.5millones;Otro;1;1;Financiero
+2023;196;Cali;Proyectos;2;Universitaria;0;0;0;0;11;0;1;1;0;1;1;18 a 21 millones;B;3;1;Tecnología
+2023;197;Cali;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;3 a 3.5 millones;Otro;2;1;Publicidad y Mercadeo
+2023;198;Bogota;Proyectos;2;Universitaria;1;1;0;1;10;0;0;0;1;1;1;Salario a convenir;Otro;0;1;Financiero
+2023;199;Medellin;Calidad;2;Universitaria;1;0;0;1;7;0;0;0;0;1;1;4 a 4.5 millones;Otro;2;1;Tecnología
+2023;200;Bogota;Analista;2;Universitaria;0;0;0;0;1;0;0;1;0;1;0;2.5 a 3 millones;Otro;2;1;Industrial
+2023;201;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;0;0;2.5 a 3 millones;Otro;2;1;Alimentos
+2023;202;Medellin;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;0;0;2 a 2.5millones;Otro;1;1;Consultorías
+2023;203;Medellin;Docencia;3;Especialización;0;1;0;1;3;0;0;0;0;0;0;2.5 a 3 millones;Otro;2;1;Educativo
+2023;204;Medellin;Proyectos;2;Universitaria;0;0;0;0;4;0;0;0;0;1;1;4.5 a 5.5 millones;B;2;1;Financiero
+2023;205;Bucaramanga;Administrativa y financiera;2;Universitaria;1;1;0;1;2;0;0;0;0;1;1;4.5 a 5.5 millones;Otro;2;1;Estatal y relacionados
+2023;206;Bucaramanga;Administrativa y financiera;2;Universitaria;1;0;0;1;1;0;0;0;0;1;1;4 a 4.5 millones;Otro;2;1;Estatal y relacionados
+2023;207;Bogota;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;3;1;0;0;0;0;1;8 a 10 millones;Otro;3;1;Asegurador
+2023;208;Bucaramanga;Administrativa y financiera;2;Universitaria;1;0;0;1;2;0;0;0;1;0;1;4.5 a 5.5 millones;Otro;2;1;Estatal y relacionados
+2023;209;Medellin;Administrativa y financiera;2;Universitaria;0;0;0;0;1;1;1;0;0;0;1;4.5 a 5.5 millones;Otro;2;1;Estatal y relacionados
+2023;210;Bogota;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;1;1;0;1;0;0;1;6 a 8 millones;Otro;2;1;Asegurador
+2023;211;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;1;1;1;0;0;0;1;5.5 a 6 millones;Otro;2;1;Estatal y relacionados
+2023;212;Cali;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;1;0;0;0;1;3.5 a 4 millones;Otro;2;1;Estatal y relacionados
+2023;213;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;1;1;Salario a convenir;B;0;1;Financiero
+2023;214;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;1;0;2 a 2.5millones;Otro;1;1;Alimentos
+2023;215;Bogota;Proyectos;1;Técnica;0;0;0;0;3;0;0;0;0;0;0;2 a 2.5millones;Otro;1;1;Tecnología
+2023;216;Bucaramanga;Administrativa y financiera;2;Universitaria;0;0;0;0;1;1;0;0;0;1;0;2 a 2.5millones;Otro;1;1;Financiero
+2023;217;Cali;Analista;2;Universitaria;0;0;0;0;1;0;0;0;0;1;0;1 a 1.5millones;Otro;1;1;Financiero
+2023;218;Bogota;Auditoría, Controlaría e Intervención;2;Universitaria;0;0;0;0;1;1;1;0;0;0;0;Salario a convenir;Otro;0;1;Telecomunicaciones
+2023;219;Bogota;Comercial, Ventas y Telemercadeo;2;Universitaria;1;0;0;1;8;0;0;0;0;0;1;15 a 18 millones;Otro;3;1;Servicios
+2023;220;Cali;Administrativa y financiera;2;Universitaria;0;0;0;0;5;0;0;0;0;0;1;3 a 3.5 millones;Otro;2;1;Construccion
+2023;221;Bucaramanga;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;0;1;1.5 a 2millones;Otro;1;1;Financiero
+2023;222;Medellin;Analista;2;Universitaria;0;0;0;0;2;1;1;0;0;0;0;4 a 4.5 millones;Otro;2;1;Tecnología
+2023;223;Medellin;Administrativa y financiera;2;Universitaria;0;0;0;0;10;1;0;0;0;0;1;8 a 10 millones;Otro;3;1;Tecnología
+2023;224;Bogota;Comercial, Ventas y Telemercadeo;2;Universitaria;0;1;0;1;10;1;0;0;0;1;1;18 a 21 millones;C;3;1;Asegurador
+2023;225;Medellin;Administrativa y financiera;2;Universitaria;0;0;0;0;3;0;0;0;0;1;0;Salario a convenir;B;0;1;Financiero
+2023;226;Cali;Administrativa y financiera;2;Universitaria;0;0;0;0;3;0;0;0;0;1;0;2.5 a 3 millones;Otro;2;1;Estatal y relacionados
+2023;227;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;7;1;0;1;0;0;1;15 a 18 millones;Otro;3;1;Servicios
+2023;228;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;5;0;0;0;0;1;1;4.5 a 5.5 millones;C;2;1;Organizaciones No Gubernamentales
+2023;229;Cali;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;1;0;0;0;0;0;0;Salario a convenir;Otro;0;1;Financiero
+2023;230;Cali;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;1;0;1;0;4.5 a 5.5 millones;Otro;2;1;Estatal y relacionados
+2023;231;Bucaramanga;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;3;0;0;0;0;0;0;2 a 2.5millones;Otro;1;1;Financiero
+2023;232;Medellin;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;5;0;0;1;0;1;0;4.5 a 5.5 millones;Otro;2;1;Estatal y relacionados
+2023;233;Bucaramanga;Administrativa y financiera;2;Universitaria;0;0;0;0;1;1;0;0;0;1;0;2 a 2.5millones;Otro;1;1;Servicios
+2023;234;Medellin;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;0;0;0;0;0;0;1;1 a 1.5millones;Otro;1;1;Financiero
+2023;235;Medellin;Operaciones y procesos;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;1.5 a 2millones;Otro;1;1;Financiero
+2023;236;Bucaramanga;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;0;1;2 a 2.5millones;Otro;1;1;Financiero
+2023;237;Medellin;Compras e Inventarios;2;Universitaria;0;0;0;0;3;0;0;0;0;0;1;2 a 2.5millones;Otro;1;1;Alimentos
+2023;238;Bogota;Administrativa y financiera;2;Universitaria;1;0;0;1;6;1;0;0;1;1;1;11 a 15 millones;Otro;3;1;Financiero
+2023;239;Bogota;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;2;1;0;0;0;1;1;6 a 8 millones;Otro;2;1;Asegurador
+2023;240;Cali;Sistemas y tecnología;2;Universitaria;0;0;0;0;2;0;0;0;0;1;1;3.5 a 4 millones;Otro;2;1;Servicios
+2023;241;Bogota;Contratos y Pagos;2;Universitaria;0;0;0;0;4;0;0;0;0;1;0;Salario a convenir;C;0;1;Servicios
+2023;242;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;1;0;0;3 a 3.5 millones;Otro;2;1;Comercio al por menor - retail
+2023;243;Medellin;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;0;1;3 a 3.5 millones;Otro;2;1;Financiero
+2023;244;Cali;Administrativa y financiera;2;Universitaria;0;0;0;0;1;1;0;0;0;1;1;4.5 a 5.5 millones;Otro;2;1;Servicios
+2023;245;Medellin;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;0;0;2 a 2.5millones;Otro;1;1;Financiero
+2023;246;Medellin;Administrativa y financiera;2;Universitaria;0;0;0;0;4;1;0;0;1;0;1;6 a 8 millones;Otro;2;1;Asegurador
+2023;247;Medellin;Administrativa y financiera;2;Universitaria;0;0;0;0;2;1;0;0;0;1;0;3.5 a 4 millones;Otro;2;1;Consultorías
+2023;248;Bogota;Estadistica;2;Universitaria;0;0;0;0;1;1;1;0;0;0;0;3 a 3.5 millones;Otro;2;1;Financiero
+2023;249;Bogota;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;1;0;0;0;0;0;1;4 a 4.5 millones;C;2;1;Financiero
+2023;250;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;0;0;1.5 a 2millones;Otro;1;1;Servicios
+2023;251;Cali;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;1;0;1.5 a 2millones;C;1;1;Financiero
+2023;252;Cali;Compras e Inventarios;2;Universitaria;0;0;0;0;5;0;0;0;0;1;1;3.5 a 4 millones;Otro;2;1;Industrial
+2023;253;Bogota;Administrativa y financiera;2;Universitaria;1;0;0;1;10;1;0;0;1;1;1;15 a 18 millones;Otro;3;1;Otros
+2023;254;Bucaramanga;Mercadeo y Publicidad;2;Universitaria;0;1;0;1;1;1;0;0;1;1;1;6 a 8 millones;Otro;2;1;Consultorías
+2023;255;Bucaramanga;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;1;0;0;0;0;0;0;1.5 a 2millones;Otro;1;1;Servicios
+2023;256;Bogota;Mercadeo y Publicidad;2;Universitaria;0;0;0;0;1;0;0;0;0;0;1;3 a 3.5 millones;Otro;2;1;Agropecuario
+2023;257;Bogota;Mercadeo y Publicidad;2;Universitaria;1;0;0;1;4;0;0;0;0;0;1;4.5 a 5.5 millones;Otro;2;1;Comercializadora
+2023;258;Bucaramanga;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;0;0;1 a 1.5millones;Otro;1;1;Financiero
+2023;259;Cali;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;3;0;0;0;1;0;0;3 a 3.5 millones;Otro;2;1;Consumo masivo
+2023;260;Bucaramanga;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;0;0;1 a 1.5millones;Otro;1;1;Servicios
+2023;261;Bogota;Analista;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;1.5 a 2millones;Otro;1;1;Servicios
+2023;262;Medellin;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;1;1;4 a 4.5 millones;Otro;2;1;Servicios
+2023;263;Medellin;Calidad;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;3 a 3.5 millones;Otro;2;1;Servicios
+2023;264;Medellin;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Financiero
+2023;265;Medellin;Administrativa y financiera;2;Universitaria;0;0;0;0;3;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Servicios
+2023;266;Medellin;Administrativa y financiera;2;Universitaria;0;0;0;0;0;0;0;0;0;0;0;1 a 1.5millones;Otro;1;1;Financiero
+2023;267;Bogota;Consultoría;2;Universitaria;1;0;0;1;8;0;0;0;0;1;1;Salario a convenir;Otro;0;1;Financiero
+2023;268;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;5;0;0;0;0;1;1;5.5 a 6 millones;Otro;2;1;Servicios
+2023;269;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;5;0;0;1;0;0;1;Salario a convenir;Otro;0;1;Publicidad y Mercadeo
+2023;270;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;1;0;Salario a convenir;Otro;0;1;Servicios
+2023;271;Medellin;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;1;0;3 a 3.5 millones;Otro;2;1;Financiero
+2023;272;Bogota;Analista;2;Universitaria;0;0;0;0;5;1;1;0;0;1;0;11 a 15 millones;Otro;3;1;Financiero
+2022;273;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;0;1;0;0;0;1;0;Salario a convenir;Otro;0;1;Asegurador
+2022;274;Bogota;Compras e Inventarios;2;Universitaria;0;0;0;0;4;0;0;0;0;0;1;4.5 a 5.5 millones;B;2;1;Servicios
+2022;275;Bucaramanga;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;1;0;0;0;0;0;0;1.5 a 2millones;Otro;1;1;Salud
+2022;276;Bogota;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;5;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Servicios
+2022;277;Bogota;Analista;2;Universitaria;0;0;0;0;1;0;0;0;0;0;0;1 a 1.5millones;Otro;1;1;Financiero
+2022;278;Cali;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;1;0;Salario a convenir;Otro;0;1;Consultorías
+2022;279;Bogota;Calidad;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;2.5 a 3 millones;Otro;2;1;Financiero
+2022;280;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;1;0;0;0;2 a 2.5millones;Otro;2;1;Vehículos y partes
+2022;281;Bogota;Administrativa y financiera;2;Universitaria;1;0;0;1;10;1;0;0;1;0;0;Salario a convenir;Otro;0;1;Financiero
+2022;282;Bogota;Analista;2;Universitaria;0;0;0;0;0;1;0;0;0;0;0;Salario a convenir;B;0;1;Servicios
+2022;283;Bogota;Analista;2;Universitaria;0;0;0;0;0;0;0;0;0;0;0;Salario a convenir;B;0;1;Aeronautico
+2022;284;Bogota;Analista;2;Universitaria;0;0;0;0;0;1;0;0;0;0;0;Salario a convenir;Otro;0;1;Retail
+2022;285;Medellin;Calidad;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Financiero
+2022;286;Bogota;Calidad;2;Universitaria;0;0;0;0;8;1;0;0;0;1;1;8 a 10 millones;C;3;1;Servicios
+2022;287;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;5;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Servicios
+2022;288;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;3;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Financiero
+2022;289;Cali;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Financiero
+2022;290;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;1;0;0;Salario a convenir;Otro;0;1;Financiero
+2022;291;Bogota;Analista;2;Universitaria;0;0;0;0;2;0;0;0;0;1;1;Salario a convenir;C;0;1;Servicios
+2022;292;Bogota;Analista;2;Universitaria;0;0;0;0;1;0;0;0;0;1;0;Salario a convenir;Otro;0;1;Financiero
+2022;293;Medellin;Analista;2;Universitaria;0;0;0;0;0;1;0;0;1;0;1;Salario a convenir;C;0;1;Tecnología
+2022;294;Bogota;Analista;2;Universitaria;1;0;0;1;6;1;0;0;0;0;1;6 a 8 millones;Otro;3;1;Financiero
+2022;295;Bogota;Analista;2;Universitaria;0;0;0;0;2;0;0;1;0;0;0;Salario a convenir;Otro;0;1;Hidrocarburos
+2022;296;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;4;1;0;0;0;1;1;4.5 a 5.5 millones;Otro;2;1;Financiero
+2022;297;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;1;1;0;0;0;1;0;Salario a convenir;Otro;0;1;Servicios
+2022;298;Medellin;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;2;1;0;0;0;1;0;2.5 a 3 millones;Otro;2;1;Servicios
+2022;299;Bogota;Investigación;2;Universitaria;0;0;0;0;3;1;0;0;1;1;0;5.5 a 6 millones;C;2;1;Financiero
+2022;300;Bucaramanga;Analista;2;Universitaria;0;0;0;0;3;0;0;0;0;0;0;Salario a convenir;Otro;0;1;Alimentos
+2022;301;Medellin;Calidad;2;Universitaria;0;0;0;0;4;1;0;0;1;1;1;11 a 15 millones;Otro;3;1;Financiero
+2022;302;Bogota;Calidad;2;Universitaria;0;0;0;0;2;0;0;0;1;0;1;1.5 a 2millones;B;1;1;Tecnología
+2022;303;Medellin;Analista;2;Universitaria;1;0;0;1;3;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Educativo
+2022;304;Bogota;Docencia;2;Universitaria;0;1;0;1;3;0;0;0;0;0;1;3 a 3.5 millones;Otro;2;1;Educativo
+2022;305;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Financiero
+2022;306;Bogota;Analista;2;Universitaria;0;0;0;0;2;1;0;0;1;1;0;4.5 a 5.5 millones;Otro;2;1;Salud
+2022;307;Bogota;Mercadeo y Publicidad;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;3.5 a 4 millones;Otro;2;1;Servicios
+2022;308;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;8;1;0;0;0;1;1;18 a 21 millones;Otro;3;1;Consultorías
+2022;309;Bogota;Analista;2;Universitaria;0;0;0;0;1;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Retail
+2022;310;Bogota;Mercadeo y Publicidad;2;Universitaria;0;0;0;0;0;0;0;0;0;1;0;1 a 1.5millones;Otro;1;1;Educativo
+2022;311;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;1;1;4 a 4.5 millones;Otro;2;1;Financiero
+2022;312;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;1;1;0;0;1;1;1;4.5 a 5.5 millones;Otro;2;1;Financiero
+2022;313;Bogota;Analista;2;Universitaria;0;0;0;0;4;1;0;0;1;0;1;11 a 15 millones;B;3;1;Industrial
+2022;314;Bogota;Analista;2;Universitaria;0;0;0;0;5;1;0;0;1;0;1;8 a 10 millones;Otro;3;1;Consultorías
+2022;315;Medellin;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;0;0;1 a 1.5millones;Otro;1;1;Servicios
+2022;316;Medellin;Analista;2;Universitaria;0;0;0;0;3;0;0;0;0;1;1;3 a 3.5 millones;Otro;2;1;Tecnología
+2022;317;Medellin;Administrativa y financiera;2;Universitaria;0;0;0;0;1;1;0;0;0;1;1;4.5 a 5.5 millones;Otro;2;1;Servicios
+2022;318;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Financiero
+2022;319;Medellin;Administrativa y financiera;2;Universitaria;0;0;0;0;3;0;0;0;0;1;1;2.5 a 3 millones;Otro;2;1;Consultorías
+2022;320;Medellin;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;0;0;1.5 a 2millones;Otro;1;1;Consultorías
+2022;321;Bogota;Mercadeo y Publicidad;2;Universitaria;1;0;0;1;3;1;0;0;1;0;1;6 a 8 millones;A;3;1;Tecnología
+2022;322;Medellin;Administrativa y financiera;2;Universitaria;0;0;0;0;6;1;0;0;0;1;1;6 a 8 millones;A;3;1;Consultorías
+2022;323;Bogota;Analista;2;Universitaria;0;0;0;0;3;0;1;0;0;1;1;6 a 8 millones;Otro;3;1;Servicios
+2022;324;Bogota;Administrativa y financiera;2;Universitaria;1;0;0;1;6;1;0;0;1;1;1;11 a 15 millones;Otro;3;1;Servicios
+2022;325;Medellin;Administrativa y financiera;2;Universitaria;0;0;0;0;5;0;0;0;0;1;1;4.5 a 5.5 millones;B;2;1;Servicios
+2022;326;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Servicios
+2022;327;Bucaramanga;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;1;1;3 a 3.5 millones;Otro;2;1;Servicios
+2022;328;Medellin;Recursos Humanos y Admin de Personal;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;1 a 1.5millones;Otro;1;1;Servicios
+2022;329;Bogota;Analista;2;Universitaria;0;0;0;0;3;0;0;0;0;1;1;4.5 a 5.5 millones;A;2;1;Financiero
+2022;330;Bogota;Analista;2;Universitaria;0;0;0;0;2;0;0;0;1;1;1;Salario a convenir;Otro;0;1;Financiero
+2022;331;Bogota;Calidad;2;Universitaria;1;1;0;1;10;1;0;0;1;1;1;Salario a convenir;Otro;0;1;Financiero
+2022;332;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;3;0;0;0;0;0;0;Salario a convenir;B;0;1;Financiero
+2022;333;Bogota;DesarrolloEmpresarial;2;Universitaria;1;0;0;1;10;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Tecnología
+2022;334;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;3;0;0;0;0;0;1;Salario a convenir;B;0;1;Financiero
+2022;335;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;6;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Construccion
+2022;336;Bogota;Ingeniería;2;Universitaria;0;0;0;0;1;0;0;0;0;0;1;2 a 2.5millones;Otro;2;1;Tecnología
+2022;337;Bogota;Recursos Humanos y Admin de Personal;2;Universitaria;0;0;0;0;6;0;0;0;0;1;1;Salario a convenir;C;0;1;Tecnología
+2022;338;Bogota;Proyectos;2;Universitaria;0;0;0;0;4;0;0;0;0;1;1;Salario a convenir;Otro;0;1;Inversiones 
+2022;339;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;1;1;0;0;1;1;1;3.5 a 4 millones;Otro;2;1;Financiero
+2022;340;Bogota;Analista;2;Universitaria;0;0;0;0;3;0;0;0;0;1;1;Salario a convenir;Otro;0;1;Industrial
+2022;341;Bogota;Analista;2;Universitaria;1;0;0;1;3;0;0;0;0;1;1;Salario a convenir;Otro;0;1;Industrial
+2022;342;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;1;1;Salario a convenir;Otro;0;1;Financiero
+2022;343;Medellin;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;1;1;Salario a convenir;Otro;0;1;Tecnología
+2022;344;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;2;1;0;0;1;1;1;4.5 a 5.5 millones;Otro;2;1;Financiero
+2022;345;Bogota;Analista;2;Universitaria;0;0;0;0;1;0;0;0;0;1;1;Salario a convenir;B;0;1;Consultorías
+2022;346;Bogota;Analista;2;Universitaria;0;0;0;0;1;1;0;0;1;0;1;4.5 a 5.5 millones;Otro;2;1;Financiero
+2022;347;Bogota;Analista;2;Universitaria;0;0;0;0;3;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Telecomunicaciones
+2022;348;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;3;1;0;0;0;1;1;Salario a convenir;Otro;0;1;Financiero
+2022;349;Bogota;Planeación;2;Universitaria;0;0;0;0;5;1;0;0;1;1;1;4.5 a 5.5 millones;Otro;2;1;Financiero
+2022;350;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;5;1;0;0;0;1;1;4.5 a 5.5 millones;Otro;2;1;Entidad Jurídica
+2022;351;Bogota;Analista;2;Universitaria;0;0;0;0;3;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Servicios
+2022;352;Bogota;Tecnologia;2;Universitaria;0;0;0;0;3;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Retail
+2022;353;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;3;0;0;0;0;1;1;4.5 a 5.5 millones;Otro;2;1;Financiero
+2022;354;Bogota;Tecnologia;2;Universitaria;0;0;0;0;2;0;0;0;0;1;1;3.5 a 4 millones;Otro;2;1;Financiero
+2022;355;Bogota;Tecnologia;2;Universitaria;0;0;0;0;1;0;0;0;0;0;1;3.5 a 4 millones;Otro;2;1;Financiero
+2022;356;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;1;1;3.5 a 4 millones;Otro;2;1;Financiero
+2022;357;Bogota;Tecnologia;2;Universitaria;0;0;0;0;1;0;0;0;0;0;0;Salario a convenir;Otro;0;1;Telecomunicaciones
+2022;358;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;3;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Tecnología
+2022;359;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;4;0;0;0;0;0;0;Salario a convenir;Otro;0;1;Tecnología
+2022;360;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;1.5 a 2millones;Otro;1;1;Consultorías
+2022;361;Bogota;Recursos Humanos y Admin de Personal;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Asegurador
+2022;362;Bogota;Analista;2;Universitaria;0;0;0;0;3;0;0;1;0;1;1;Salario a convenir;Otro;0;1;Industrial
+2022;363;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;0;0;Salario a convenir;C;0;1;Aeronautico
+2022;364;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;0;0;Salario a convenir;Otro;0;1;Comercio al por menor - retail
+2022;365;Bogota;Analista;2;Universitaria;0;0;0;0;2;0;0;0;0;0;0;2.5 a 3 millones;Otro;2;1;Financiero
+2022;366;Bogota;Analista;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;3.5 a 4 millones;Otro;2;1;Financiero
+2022;367;Bogota;Mercadeo y Publicidad;2;Universitaria;0;0;0;0;1;0;0;0;0;1;0;1 a 1.5millones;Otro;1;1;Financiero
+2022;368;Bogota;Mercadeo y Publicidad;2;Universitaria;0;0;0;0;1;1;0;0;0;1;1;1.5 a 2millones;Otro;1;1;Financiero
+2022;369;Bogota;DesarrolloEmpresarial;2;Universitaria;0;0;0;0;3;0;0;0;0;0;0;Salario a convenir;Otro;0;1;Financiero
+2022;370;Medellin;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;10;1;0;0;0;1;1;Salario a convenir;Otro;0;1;Financiero
+2022;371;Bogota;Auditoría, Controlaría e Intervención;2;Universitaria;0;0;0;0;0;0;0;0;0;0;1;1.5 a 2millones;Otro;1;1;Financiero
+2022;372;Bogota;Mercadeo y Publicidad;2;Universitaria;0;0;0;0;3;1;0;0;1;1;1;Salario a convenir;Otro;0;1;Servicios
+2022;373;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;3;0;0;0;0;0;1;Salario a convenir;C;0;1;Financiero
+2022;374;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;8;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Industrial
+2022;375;Bogota;Ambiental;2;Universitaria;0;0;0;0;3;0;0;0;0;1;1;3 a 3.5 millones;B;2;1;Financiero
+2022;376;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;0;1;0;0;1;1;0;Salario a convenir;C;0;1;Financiero
+2022;377;Cali;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Financiero
+2022;378;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;0;1;0;0;1;1;0;Salario a convenir;Otro;0;1;Alimentos
+2022;379;Bogota;Administrativa y financiera;2;Universitaria;1;0;0;1;4;0;0;0;0;1;1;Salario a convenir;Otro;0;1;Comercio Electrónico
+2022;380;Bogota;DesarrolloEmpresarial;2;Universitaria;0;1;0;1;3;0;0;0;1;1;0;Salario a convenir;B;0;1;Comercio al por menor - retail
+2022;381;Bogota;Consultoría;2;Universitaria;0;0;0;0;5;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Servicios
+2022;382;Bucaramanga;Administrativa y financiera;2;Universitaria;0;0;0;0;0;1;0;0;1;1;1;Salario a convenir;Otro;0;1;Financiero
+2022;383;Bogota;Auditoría, Controlaría e Intervención;2;Universitaria;0;0;0;0;2;0;0;0;0;1;1;Salario a convenir;Otro;0;1;Financiero
+2022;384;Bogota;Analista;2;Universitaria;1;0;0;1;5;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Industrial
+2022;385;Bucaramanga;Proyectos;2;Universitaria;0;0;0;0;2;0;0;0;0;1;1;Salario a convenir;Otro;0;1;Educativo
+2022;386;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;3;1;0;0;1;1;1;6 a 8 millones;Otro;3;1;Financiero
+2022;387;Cali;DesarrolloEmpresarial;2;Universitaria;0;0;0;0;3;0;0;0;0;0;1;2 a 2.5millones;Otro;2;1;Servicios
+2022;388;Bogota;Proyectos;2;Universitaria;1;0;0;1;4;0;0;0;0;0;1;8 a 10 millones;Otro;3;1;Educativo
+2022;389;Bogota;Mercadeo y Publicidad;2;Universitaria;0;0;0;0;6;1;0;0;0;1;1;8 a 10 millones;C;3;1;Industrial
+2022;390;Bucaramanga;Administrativa y financiera;2;Universitaria;0;0;0;0;2;1;0;0;0;0;1;4 a 4.5 millones;Otro;2;1;Servicios
+2022;391;Bucaramanga;Docencia;2;Universitaria;0;0;1;1;4;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Educativo
+2022;392;Bogota;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;1;0;0;0;0;0;0;1 a 1.5millones;Otro;1;1;Financiero
+2022;393;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;5;0;0;0;0;1;1;Salario a convenir;Otro;0;1;Consultorías
+2021;394;Bucaramanga;Administrativa y financiera;2;Universitaria;1;0;0;1;3;0;0;0;0;1;1;Salario a convenir;Otro;0;1;Educativo
+2021;395;Medellin;Administrativa y financiera;2;Universitaria;0;0;0;0;4;0;0;1;0;0;1;2.5 a 3 millones;Otro;2;1;Alimentos
+2021;396;Cali;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;3;0;0;0;0;0;1;3.5 a 4 millones;B;2;1;Consultorías
+2021;397;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;0;0;1 a 1.5millones;Otro;1;1;Servicios
+2021;398;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;1;1;2 a 2.5millones;Otro;2;1;Construccion
+2021;399;Bogota;Tecnologia;2;Universitaria;0;0;0;0;5;1;0;0;0;1;1;5.5 a 6 millones;Otro;2;1;Tecnología
+2021;400;Medellin;Administrativa y financiera;2;Universitaria;0;0;0;0;5;0;0;0;1;0;1;5.5 a 6 millones;Otro;2;1;Financiero
+2021;401;Bogota;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;2.5 a 3 millones;Otro;2;1;Financiero
+2021;402;Medellin;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;0;1;3 a 3.5 millones;Otro;2;1;Textiles
+2021;403;Bogota;Calidad;2;Universitaria;0;0;0;0;3;0;0;0;0;0;0;Salario a convenir;Otro;0;1;Telecomunicaciones
+2021;404;Medellin;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;1;1;3 a 3.5 millones;Otro;2;1;Financiero
+2021;405;Bucaramanga;Administrativa y financiera;1;Bachillerato;0;0;0;0;1;0;0;0;0;0;0;1 a 1.5millones;Otro;1;1;Alimentos
+2021;406;Bogota;Analista;2;Universitaria;0;0;0;0;3;0;0;0;0;0;0;1 a 1.5millones;Otro;1;1;Comercializadora
+2021;407;Bogota;Analista;2;Universitaria;0;0;0;0;3;0;0;0;0;0;1;2 a 2.5millones;Otro;2;1;Financiero
+2021;408;Medellin;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;3;0;0;0;0;1;1;4.5 a 5.5 millones;Otro;2;1;Construccion
+2021;409;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Financiero
+2021;410;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;4;0;0;0;0;0;1;3 a 3.5 millones;Otro;2;1;Salud
+2021;411;Bucaramanga;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;1;0;0;0;0;0;1;1 a 1.5millones;Otro;1;1;Financiero
+2021;412;Medellin;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;1;0;0;0;0;0;1;1.5 a 2millones;Otro;1;1;Servicios
+2021;413;Bucaramanga;Analista;1;Técnica;0;0;0;0;2;0;0;0;0;0;0;1 a 1.5millones;Otro;1;1;Financiero
+2021;414;Bucaramanga;Recursos Humanos y Admin de Personal;2;Universitaria;1;0;0;1;3;0;0;0;0;0;0;Salario a convenir;Otro;0;1;Servicios
+2021;415;Bucaramanga;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;1;0;0;0;0;0;0;1 a 1.5millones;Otro;1;1;Servicios
+2021;416;Bogota;Analista;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;2 a 2.5millones;Otro;2;1;Financiero
+2021;417;Bogota;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;0;0;0;0;0;0;1;1 a 1.5millones;Otro;1;1;Financiero
+2021;418;Bogota;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;2;0;0;0;0;1;1;3 a 3.5 millones;Otro;2;1;Vehículos y partes
+2021;419;Bogota;Recursos Humanos y Admin de Personal;2;Universitaria;0;0;0;0;1;0;0;0;0;0;1;2 a 2.5millones;Otro;2;1;Salud
+2021;420;Bogota;Tecnologia;2;Universitaria;0;0;0;0;3;1;0;0;1;1;1;6 a 8 millones;Otro;3;1;Servicios
+2021;421;Medellin;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;0;0;0;0;0;0;0;Salario a convenir;Otro;0;1;Servicios
+2021;422;Bogota;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;5;0;0;0;0;0;1;3 a 3.5 millones;Otro;2;1;Financiero
+2021;423;Bogota;Administrativa y financiera;2;Universitaria;1;0;0;1;6;0;0;0;0;0;1;5.5 a 6 millones;Otro;2;1;Educativo
+2021;424;Medellin;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;2 a 2.5millones;Otro;2;1;Financiero
+2021;425;Bucaramanga;Analista;2;Universitaria;0;0;0;0;2;0;0;0;0;0;0;Salario a convenir;Otro;0;1;Financiero
+2021;426;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;3;0;0;1;0;0;1;2.5 a 3 millones;Otro;2;1;Consultorías
+2021;427;Bucaramanga;Analista;2;Universitaria;0;0;0;0;1;0;0;0;0;0;0;1 a 1.5millones;Otro;1;1;Financiero
+2021;428;Medellin;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;3;0;0;0;0;0;1;3 a 3.5 millones;Otro;2;1;Construccion
+2021;429;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;5;0;0;0;0;0;1;3 a 3.5 millones;Otro;2;1;Comercio al por menor - retail
+2021;430;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;3.5 a 4 millones;B;2;1;Servicios
+2021;431;Bogota;Proyectos;2;Universitaria;0;0;0;0;1;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Financiero
+2021;432;Bogota;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;4 a 4.5 millones;Otro;2;1;Financiero
+2021;433;Medellin;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;1;1;3 a 3.5 millones;Otro;2;1;Financiero
+2021;434;Medellin;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;0;0;0;0;0;1;1;2 a 2.5millones;Otro;2;1;Servicios
+2021;435;Bogota;Analista;2;Universitaria;0;0;0;0;2;0;0;0;0;1;1;1 a 1.5millones;Otro;1;1;Vehículos y partes
+2021;436;Cali;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;3;0;0;0;0;1;1;2.5 a 3 millones;Otro;2;1;Servicios
+2021;437;Medellin;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;1;1;2.5 a 3 millones;Otro;2;1;Vehículos y partes
+2021;438;Bucaramanga;Administrativa y financiera;2;Universitaria;0;0;0;0;0;0;0;0;0;0;1;1 a 1.5millones;Otro;1;1;Financiero
+2021;439;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;0;0;1 a 1.5millones;Otro;1;1;Comercio al por menor - retail
+2021;440;Bogota;Analista;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;2 a 2.5millones;Otro;2;1;Financiero
+2021;441;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;0;1;0;1;0;1;0;1.5 a 2millones;Otro;1;1;Financiero
+2021;442;Medellin;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;5;0;0;0;0;1;1;6 a 8 millones;Otro;3;1;Comercio al por menor - retail
+2021;443;Bogota;Tecnologia;2;Universitaria;0;0;0;0;1;0;0;0;0;0;0;1.5 a 2millones;Otro;1;1;Telecomunicaciones
+2021;444;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;3;0;0;0;0;0;1;1.5 a 2millones;Otro;1;1;Comercio al por menor - retail
+2021;445;Medellin;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;1.5 a 2millones;Otro;1;1;Salud
+2021;446;Bogota;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;0;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Educativo
+2021;447;Cali;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;1;0;0;0;0;0;0;1 a 1.5millones;Otro;1;1;Financiero
+2021;448;Cali;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;2 a 2.5millones;Otro;2;1;Financiero
+2021;449;Bogota;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;0;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Educativo
+2021;450;Medellin;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;1;0;2.5 a 3 millones;Otro;2;1;Comercio al por menor - retail
+2021;451;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;3;0;0;0;0;1;1;1.5 a 2millones;Otro;1;1;Servicios
+2021;452;Bucaramanga;Analista;2;Universitaria;0;0;0;0;1;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Financiero
+2021;453;Medellin;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;1;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Financiero
+2021;454;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;1;1;2 a 2.5millones;Otro;2;1;Financiero
+2021;455;Medellin;Calidad;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;2 a 2.5millones;Otro;2;1;Comercio al por menor - retail
+2021;456;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;1;1;1.5 a 2millones;Otro;1;1;Comercio al por menor - retail
+2021;457;Bucaramanga;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;1;0;0;0;0;1;1;Salario a convenir;Otro;0;1;Financiero
+2021;458;Bucaramanga;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Industrial
+2021;459;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;5;0;0;0;0;1;1;4.5 a 5.5 millones;Otro;2;1;Comercio al por menor - retail
+2021;460;Cali;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;1.5 a 2millones;Otro;1;1;Financiero
+2021;461;Cali;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Educativo
+2021;462;Bogota;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;3;1;0;1;0;1;1;4.5 a 5.5 millones;Otro;2;1;Servicios
+2021;463;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;0;0;1 a 1.5millones;Otro;1;1;Servicios
+2021;464;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;3 a 3.5 millones;Otro;2;1;Consultorías
+2021;465;Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;5;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Educativo
+2021;466;Bogota;Operaciones y procesos;2;Universitaria;0;0;0;0;5;0;0;1;0;0;1;3 a 3.5 millones;Otro;2;1;Consumo masivo
+2021;467;Bogota;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;2;0;0;0;1;1;1;3.5 a 4 millones;Otro;2;1;Servicios
+2021;468;Bogota;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;3;0;0;0;0;0;1;2 a 2.5millones;Otro;2;1;Construccion
