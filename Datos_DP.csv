@@ -1,0 +1,461 @@
+﻿Numeración;Ciudad;Empresa Solicitante;Area;Nestudios;Formación;Especialización;Maestría;Doctorado;Posgrado;Experiencia;Lenguajes;DatosAlma;HerraContables;HerraVisualizacion;HerraOfimaticas;OtrosConocimientos;Sintervalo;Idiomas;Salario;Vacantes;Sector de la vacante
+1;Bogota;Empresa confidencial;Docencia;3;Posgrado;1;1;0;1;3;0;0;0;0;0;1;3.5 a 4 millones;Otro;2;1;Educativo
+2;Bogota;Empresa confidencial;Economía y desarrollo económico;2;Universitaria;1;0;0;1;4;0;0;0;0;0;1;3.5 a 4 millones;Otro;2;1;Servicios
+3;Bogota;Crowe CO SAS;Consultoría;2;Universitaria;0;0;0;0;4;0;0;0;0;1;1;Salario a convenir;B;0;1;Servicios
+4;Bogota;Camacol;Investigación;2;Universitaria;0;0;0;0;2;0;0;0;1;0;1;3 a 3.5 millones;Otro;2;1;Construccion
+5;Bogota;Cámara de Comercio de Bta;;3;Especialización;1;0;0;1;4;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Servicios
+6;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;1;0;3 a 3.5 millones;Otro;2;1;Agropecuario
+7;Bogota;Aseocolba S.A;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;1;0;4 a 4.5 millones;Otro;2;2;Servicios
+8;Bogota;Allianz seguros S.A;Administrativa y financiera;2;Universitaria;0;0;0;0;0;0;1;0;0;1;0;4.5 a 5.5 millones;Otro;2;1;Asegurador
+9;Bogota;Instituto colombiano de aprendizaje;Docencia;3;Especialización;1;0;0;1;1;0;0;0;0;0;1;1 a 1.5millones;Otro;1;1;Educativo
+10;Bogota;Empresa confidencial;Operaciones y procesos;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;2.5 a 3 millones;Otro;1;1;Editorial e impresión
+11;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;0;0;0;0;0;0;0;1 a 1.5millones;Otro;1;1;Servicios
+12;Bogota;Empresa confidencial;Salud;2;Universitaria;0;0;0;0;2;0;0;0;1;0;0;2.5 a 3 millones;Otro;1;1;Otros
+13;Bogota;Empresa confidencial;Salud;2;Universitaria;0;0;0;0;4;0;0;0;1;0;0;3 a 3.5 millones;Otro;2;1;Otros
+14;Bogota;Mazars Colombia SAS;Proyectos;2;Universitaria;0;0;0;0;4;0;0;0;0;1;0;Salario a convenir;Otro;0;1;Consultorías
+15;Bogota;CAFAM;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;1;0;2.5 a 3 millones;Otro;1;1;Servicios
+16;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;1;0;0;1;3.5 a 4 millones;Otro;2;1;Educativo
+17;Bogota;Aseocolba S.A;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;1;1;4 a 4.5 millones;Otro;2;1;Servicios
+18;Bogota;Agencia de empleo y fomento empresarial compensar;Administrativa y financiera;2;Universitaria;0;0;0;0;0;0;0;0;0;0;0;Menos de 1 millon;Otro;1;2;Otros
+19;Bogota;Crowe CO SAS;Administrativa y financiera;3;Especialización;1;0;0;1;7;0;0;0;0;1;0;Salario a convenir;B;0;1;Servicios
+20;Bogota;Coltrans;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;0;0;3 a 3.5 millones;Otro;2;1;Transporte
+21;Bogota;Empresa confidencial;Administrativa y financiera;1;Técnica;0;0;0;0;1;0;1;0;0;1;1;2 a 2.5millones;Otro;1;1;Salud
+22;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;6;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Financiero
+23;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;3;0;0;0;0;1;1;4 a 4.5 millones;Otro;2;1;Salud
+24;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;3;0;0;0;0;1;1;4.5 a 5.5 millones;Otro;2;1;Salud
+25;Bogota;Grupo Energia Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;4;0;0;1;0;1;1;6 a 8 millones;Otro;2;1;Energético
+26;Medellin;PGRX Colombia LTDA;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;1;1;Salario a convenir;C;0;1;Servicios
+28;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;1;0;Salario a convenir;C;0;1;Organizaciones No Gubernamentales
+29;Bogota;Fundación Cardioinfantil y LaCardio;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;0;0;3 a 3.5 millones;Otro;2;1;Salud
+30;Medellin;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;1;0;Salario a convenir;C;0;1;Servicios
+31;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;1;1;2 a 2.5millones;Otro;1;1;Financiero
+32;Bogota;Empresa confidencial;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;3;0;0;0;0;1;1;4 a 4.5 millones;Otro;2;1;Salud
+33;Bogota;Empresa confidencial;Administrativa y financiera;1;Técnica;0;0;0;0;1;0;0;0;0;1;0;1 a 1.5millones;Otro;1;1;Salud
+34;Bogota;Empresa confidencial;Administrativa y financiera;3;Especialización;1;0;0;1;5;1;0;0;1;1;1;4.5 a 5.5 millones;Otro;2;1;Otros
+35;Bogota;Aseocolba S.A;Administrativa y financiera;2;Universitaria;0;0;0;0;3;0;0;0;0;1;0;4 a 4.5 millones;Otro;2;1;Servicios
+36;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;0;0;0;0;0;0;0;1 a 1.5millones;Otro;1;1;Consultorías
+37;Bogota;Empresa confidencial;Administrativa y financiera;3;Especialización;1;0;0;1;4;1;0;0;0;1;1;6 a 8 millones;Otro;2;1;Salud
+38;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;0;0;0;0;0;0;0;1 a 1.5millones;Otro;1;1;Consultorías
+39;Bogota;Empresa confidencial;Administrativa y financiera;1;Técnica;0;0;0;0;1;0;0;0;0;1;0;1 a 1.5millones;Otro;1;1;Salud
+40;Bogota;CAFAM;Administrativa y financiera;2;Universitaria;0;0;0;0;0;0;0;0;0;0;0;1.5 a 2millones;Otro;1;1;Servicios
+41;Bogota;Confipetrol;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;0;0;2.5 a 3 millones;Otro;1;1;Energético
+42;Bogota;Empresa confidencial;Administrativa y financiera;1;Técnica;0;0;0;0;2;0;0;0;0;0;0;Salario a convenir;Otro;0;1;Salud
+43;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;3;0;0;0;0;1;1;4 a 4.5 millones;Otro;2;1;Salud
+44;Bogota;Empresa confidencial;Administrativa y financiera;1;Técnica;0;0;0;0;1;0;0;0;0;0;0;Salario a convenir;Otro;0;1;Salud
+45;Medellin;Laboratorio Clínico Colmedicos IPS SAS;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;1;0;2.5 a 3 millones;Otro;1;1;Estatal y relacionados
+46;Bogota;Empresa confidencial;Administrativa y financiera;3;Especialización;1;0;0;1;10;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Financiero
+48;Bogota;Empresa confidencial;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;3;0;0;0;0;1;1;4 a 4.5 millones;Otro;2;1;Salud
+49;Bogota;Hospital Universitario Clinica San Rafael;Sistemas y tecnología;2;Universitaria;0;0;0;0;2;1;0;0;1;1;1;3 a 3.5 millones;Otro;2;1;Salud
+50;Bogota;Suncolombia;Administrativa y financiera;3;Especialización;1;0;0;1;5;0;0;0;0;0;1;6 a 8 millones;Otro;2;1;Servicios
+52;Bogota;Empresa confidencial;Administrativa y financiera;1;Técnica;0;0;0;0;1;0;0;0;0;0;0;Salario a convenir;Otro;0;1;Salud
+53;Bogota;Empresa confidencial;Administrativa y financiera;3;Especialización;1;0;0;1;5;1;0;0;1;0;1;Salario a convenir;B;0;1;Tecnología
+54;Bogota;Aseocolba S.A;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;0;1;4 a 4.5 millones;Otro;2;1;Servicios
+55;Medellin;WebHelp;Administrativa y financiera;2;Universitaria;0;0;0;0;3;0;0;0;0;1;0;3.5 a 4 millones;B;2;1;Telecomunicaciones
+56;Bogota;Aseocolba S.A;Administrativa y financiera;2;Universitaria;0;0;0;0;3;0;0;0;0;0;1;6 a 8 millones;Otro;2;1;Servicios
+57;Bogota;Agencia de empleo y fomento empresarial compensar;Administrativa y financiera;2;Universitaria;0;0;0;0;0;0;0;0;0;0;0;Menos de 1 millon;Otro;1;1;Otros
+58;Bogota;Universidad Santo Tomás;Administrativa y financiera;2;Universitaria;0;0;0;0;3;0;0;0;0;1;1;2 a 2.5millones;Otro;1;1;Educativo
+59;Bogota;Ingeplan.co SAS Empresa de beneficio e interes colectivo IBC;Auditoría, Controlaría e Intervención;3;Especialización;1;0;0;1;3;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Consultorías
+60;Bogota;Empresa confidencial;Salud;1;Técnica;0;0;0;0;1;0;0;0;0;1;1;2.5 a 3 millones;Otro;1;1;Salud
+61;Bogota;CHEIL Colombia;Mercadeo y Publicidad;2;Universitaria;0;0;0;0;2;0;1;0;0;1;1;Salario a convenir;Otro;0;1;Publicidad y Mercadeo
+62;Bogota;Universidad Santo Tomás;Sistemas y tecnología;2;Universitaria;0;0;0;0;2;0;0;0;0;1;1;2 a 2.5millones;Otro;1;1;Educativo
+63;Bogota;Aseocolba S.A;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;0;0;2.5 a 3 millones;Otro;1;1;Servicios
+64;Bogota;Arquint Colombia SAS;Comercial, Ventas y Telemercadeo;3;Especialización;1;0;0;1;4;0;1;0;1;0;1;4.5 a 5.5 millones;B;2;1;Construccion
+65;Bogota;Serdan SA;Auditoría, Controlaría e Intervención;2;Universitaria;0;0;0;0;3;0;0;0;0;0;1;2.5 a 3 millones;Otro;1;1;Consultorías
+66;Bogota;Pricewaterhousecoopers;Auditoría, Controlaría e Intervención;2;Universitaria;0;0;0;0;3;0;1;1;0;0;0;Salario a convenir;Otro;0;1;Consultorías
+67;Bogota;Empresa confidencial;Administrativa y financiera;3;Especialización;1;0;0;1;4;0;0;0;0;0;1;3 a 3.5 millones;Otro;2;1;Transporte
+68;Bogota;Empresa confidencial;Salud;2;Universitaria;0;0;0;0;1;1;1;0;0;0;0;Salario a convenir;Otro;0;1;Salud
+69;Bogota;CUN;Docencia;2;Universitaria;0;0;0;0;4;0;0;0;0;0;1;3.5 a 4 millones;Otro;2;1;Educativo
+70;Bogota;Colsof SAS;Administrativa y financiera;1;Técnica;0;0;0;0;1;0;0;0;0;0;0;2.5 a 3 millones;Otro;1;1;Tecnología
+71;Bogota;Empresa confidencial;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;3;0;1;0;0;0;0;3 a 3.5 millones;Otro;2;1;Construccion
+72;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;3 a 3.5 millones;Otro;2;1;Servicios
+73;Bogota;Itaú Colombia;Administrativa y financiera;3;Especialización;1;0;0;1;6;1;1;0;0;1;1;8 a 10 millones;B;3;1;Financiero
+74;Bogota;Corprogreso;Proyectos;2;Universitaria;0;0;0;0;2;0;0;0;0;0;0;Salario a convenir;Otro;0;1;Otros
+75;Bogota;Grupo Energia Bogota;Proyectos;3;Especialización;0;1;0;1;11;1;1;1;1;0;1;18 a 21 millones;C;3;1;Energético
+76;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;3;0;0;0;0;1;1;4.5 a 5.5 millones;Otro;2;1;Salud
+77;Bogota;Contactar microfinanciera;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;2.5 a 3 millones;Otro;1;1;Financiero
+78;Bogota;Contactar microfinanciera;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;1;0;0;1;4 a 4.5 millones;Otro;2;1;Financiero
+79;Bogota;Cobiscorp;Calidad;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;3 a 3.5 millones;Otro;2;1;Tecnología
+80;Bogota;Grupo Energia Bogota;Administrativa y financiera;2;Universitaria;0;0;0;0;2;1;0;1;0;1;1;4.5 a 5.5 millones;Otro;2;1;Energético
+81;Bogota;Empresa confidencial;Servicio al cliente;2;Universitaria;0;0;0;0;1;0;0;0;0;0;0;Salario a convenir;Otro;0;1;Financiero
+82;Bogota;Alfa;Mercadeo y Publicidad;3;Especialización;1;0;0;1;5;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Construccion
+83;Bogota;Itaú Colombia;Administrativa y financiera;2;Universitaria;0;0;0;0;3;0;0;0;1;1;0;5.5 a 6 millones;Otro;2;1;Financiero
+84;Bogota;Performia Colombia SAS;Administrativa y financiera;2;Universitaria;1;1;0;1;5;0;0;0;1;1;1;6 a 8 millones;Otro;2;1;Servicios
+85;Bogota;Pricewaterhousecoopers;Auditoría, Controlaría e Intervención;2;Universitaria;0;0;0;0;3;1;0;1;0;1;0;2.5 a 3 millones;B;1;1;Consultorías
+86;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;1;1;0;2.5 a 3 millones;Otro;1;1;Financiero
+87;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;1;0;0;1;1;1;0;0;1;1;0;3 a 3.5 millones;Otro;2;1;Financiero
+88;Bogota;BBVA;Administrativa y financiera;2;Universitaria;0;0;0;0;0;0;0;0;0;0;0;1 a 1.5millones;Otro;1;3;Financiero
+89;Bogota;Skandia;Operaciones y procesos;2;Universitaria;0;0;0;0;1;0;0;0;0;0;1;2 a 2.5millones;Otro;1;1;Financiero
+90;Bogota;Distribuidora NISSAN;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Vehículos y partes
+91;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;0;0;0;0;0;0;0;1 a 1.5millones;Otro;1;1;Consultorías
+92;Bogota;Tecnoquimicas;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;3;0;0;0;0;0;0;3.5 a 4 millones;Otro;2;1;Consumo masivo
+93;Bogota;Compensar;Administrativa y financiera;2;Universitaria;0;0;0;0;0;0;0;0;0;0;0;Menos de 1 millon;Otro;1;1;Servicios
+94;Bogota;Empresa confidencial;Administrativa y financiera;3;Especialización;1;1;0;1;3;1;1;0;0;0;1;8 a 10 millones;Otro;3;1;Otros
+97;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;3;0;0;0;0;0;1;4.5 a 5.5 millones;Otro;2;1;Telecomunicaciones
+99;Bogota;Novasoft SAS;Proyectos;2;Universitaria;0;0;0;0;1;0;0;0;0;0;1;1.5 a 2millones;Otro;1;1;Tecnología
+100;Bogota;Empresa confidencial;Auditoría, Controlaría e Intervención;3;Especialización;1;0;0;1;6;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Telecomunicaciones
+101;Bogota;Falabella;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;5;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Comercio al por menor - retail
+103;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;0;0;0;0;0;1;0;1 a 1.5millones;Otro;1;2;Consultorías
+104;Bogota;Banco de Occidente;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;1;0;0;1;0;Salario a convenir;Otro;0;1;Financiero
+105;Bogota;Tecnoquimicas;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;3;0;0;0;0;0;1;3.5 a 4 millones;Otro;2;1;Consumo masivo
+106;Bogota;BDO Audit SA;Calidad;2;Universitaria;0;0;0;0;5;0;0;0;0;0;1;4 a 4.5 millones;B;2;1;Consultorías
+107;Bogota;Empresa confidencial;Investigación;3;Especialización;0;1;0;1;3;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Educativo
+108;Bogota;Pricewaterhousecoopers;Auditoría, Controlaría e Intervención;2;Universitaria;0;0;0;0;4;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Consultorías
+109;Bogota;Federación Nacional de Cafeteros de Colombia;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;1;0;1;1;Salario a convenir;Otro;0;1;Alimentos
+111;Bogota;HITSS;Sistemas y tecnología;2;Universitaria;0;0;0;0;2;0;1;0;1;1;0;Salario a convenir;Otro;0;1;Tecnología
+112;Bogota;Compañía mundial de seguros SA;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;1;0;1;1;0;3 a 3.5 millones;Otro;2;1;Asegurador
+113;Medellin;Movistar;Sistemas y tecnología;2;Universitaria;1;0;0;1;4;0;0;1;1;1;1;6 a 8 millones;Otro;2;1;Telecomunicaciones
+114;Medellin;Grupo Familia;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;2;1;0;0;1;1;0;Salario a convenir;B;0;1;Consumo masivo
+115;Bogota;Adecco Colombia SA;Sistemas y tecnología;2;Universitaria;0;0;0;0;2;1;0;0;1;1;0;3.5 a 4 millones;C;2;1;Consultorías
+116;Bogota;Agencia de empleo y fomento empresarial compensar;Auditoría, Controlaría e Intervención;2;Universitaria;0;0;0;0;5;0;0;0;0;1;1;4.5 a 5.5 millones;B;2;1;Otros
+117;Bogota;Multiempleos;Comercial, Ventas y Telemercadeo;2;Universitaria;1;0;0;1;3;0;0;0;0;0;1;4 a 4.5 millones;Otro;2;1;Consultorías
+118;Bogota;Adecco Colombia SA;Sistemas y tecnología;2;Universitaria;0;0;0;0;2;1;0;0;0;0;0;2.5 a 3 millones;C;1;1;Consultorías
+119;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;3;0;0;0;0;1;1;4.5 a 5.5 millones;Otro;2;1;Transporte
+120;Bogota;Multiempleos;Comercial, Ventas y Telemercadeo;2;Universitaria;1;0;0;1;1;0;1;0;0;0;1;3 a 3.5 millones;Otro;2;1;Consultorías
+121;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;1;1;4.5 a 5.5 millones;Otro;2;1;Transporte
+122;Bogota;SELIGO SAS;Servicio al cliente;2;Universitaria;0;0;0;0;3;0;0;0;0;0;0;2 a 2.5millones;Otro;1;1;Consultorías
+123;Bogota;SELIGO SAS;Administrativa y financiera;2;Universitaria;0;0;0;0;3;0;0;0;0;0;0;2.5 a 3 millones;Otro;1;1;Consultorías
+124;Bogota;Multiempleos;Administrativa y financiera;3;Especialización;1;0;0;1;3;0;0;0;0;0;1;3 a 3.5 millones;Otro;2;1;Consultorías
+125;Bogota;Nae;Sistemas y tecnología;2;Universitaria;0;0;0;0;1;1;0;0;1;1;0;Salario a convenir;Otro;0;1;Telecomunicaciones
+126;Medellin;Servicio de empleo confama;Administrativa y financiera;2;Universitaria;0;0;0;0;2;1;0;0;0;1;0;3.5 a 4 millones;Otro;2;1;Servicios
+127;Medellin;Servicio de empleo confama;Administrativa y financiera;2;Universitaria;0;0;0;0;3;0;0;0;0;1;0;Salario a convenir;Otro;0;1;Servicios
+128;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;2 a 2.5millones;Otro;1;1;Consultorías
+129;Bogota;HITSS;Sistemas y tecnología;2;Universitaria;0;0;0;0;3;1;0;0;1;0;0;Salario a convenir;Otro;0;1;Tecnología
+130;Bogota;Levapan;Administrativa y financiera;3;Especialización;1;0;0;1;5;1;0;1;1;1;1;6 a 8 millones;Otro;2;1;Alimentos
+131;Bogota;Ernst & Young;Administrativa y financiera;2;Universitaria;0;0;0;0;1;1;1;0;1;1;0;Salario a convenir;Otro;0;1;Consultorías
+132;Medellin;Servicio de empleo confama;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;1;1;3.5 a 4 millones;Otro;2;1;Servicios
+133;Medellin;Servicio de empleo confama;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;2;0;0;0;0;1;0;Salario a convenir;Otro;0;1;Servicios
+134;Bogota;Nae;Sistemas y tecnología;2;Universitaria;0;0;0;0;2;1;1;0;0;1;0;4 a 4.5 millones;Otro;2;1;Telecomunicaciones
+135;Bogota;Empresa confidencial;Recursos Humanos y Admin de Personal;2;Universitaria;0;0;0;0;3;0;0;0;0;0;1;3.5 a 4 millones;Otro;2;1;Servicios
+136;Bogota;Empresa confidencial;Mantenimiento;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;3.5 a 4 millones;Otro;2;1;Energético
+137;Cali;Uniminuto;Calidad;1;Media;0;0;0;0;0;0;0;0;0;0;0;1 a 1.5millones;Otro;1;1;Educativo
+138;Cali;Omnilife Manufactura de Colombia LTDA;Compras e Inventarios;2;Universitaria;0;0;0;0;4;0;1;0;0;0;1;6 a 8 millones;Otro;2;1;Químicos
+139;Cali;Eficacia;Administrativa y financiera;2;Universitaria;0;0;0;0;3;0;0;1;0;0;0;3 a 3.5 millones;Otro;2;1;Consultorías
+140;Cali;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;1;1;0;3 a 3.5 millones;Otro;2;1;Agropecuario
+141;Bogota;Perform SAS;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;1;1;2.5 a 3 millones;Otro;1;1;Servicios
+142;Bogota;Empresa confidencial;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;0;0;0;0;0;0;0;1.5 a 2millones;Otro;1;1;Educativo
+143;Bogota;Empresa confidencial;Salud;2;Universitaria;0;0;0;0;3;0;0;0;0;0;1;3.5 a 4 millones;Otro;2;1;Asegurador
+144;Cali;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;0;0;2.5 a 3 millones;Otro;1;1;Salud
+145;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;4;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Servicios
+146;Cali;Empresa confidencial;Administrativa y financiera;2;Universitaria;1;0;0;1;5;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Transporte
+147;Bucaramanga;Cámara de Comercio de Bga;Administrativa y financiera;2;Universitaria;0;0;0;0;5;0;0;0;0;1;1;11 a 15 millones;B;3;1;Estatal y relacionados
+148;Bogota;Claro;Administrativa y financiera;2;Universitaria;0;0;0;0;3;1;0;0;1;0;0;Salario a convenir;Otro;0;1;Telecomunicaciones
+149;Medellin;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Transporte
+150;Bucaramanga;Empresa confidencial;Consultoría;2;Universitaria;1;0;0;1;2;0;0;0;0;0;1;3 a 3.5 millones;Otro;2;1;Construccion
+151;Bogota;Empresa confidencial;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;2;0;0;0;0;1;0;1 a 1.5millones;Otro;1;1;Transporte
+152;Cali;Empresa confidencial;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;3;0;0;0;0;0;0;3 a 3.5 millones;Otro;2;1;Turismo
+153;Cali;Empresa confidencial;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;1;0;0;0;0;0;0;1 a 1.5millones;Otro;1;1;Salud
+154;Bucaramanga;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;0;0;1.5 a 2millones;Otro;1;1;Consultorías
+155;Bucaramanga;Empresa confidencial;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;1;0;0;0;0;0;0;1 a 1.5millones;Otro;1;1;Financiero
+156;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;1;0;0;0;2 a 2.5millones;Otro;1;1;Financiero
+157;Medellin;Empresa confidencial;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;5;0;1;0;1;1;1;8 a 10 millones;Otro;3;1;Comercio al por menor - retail
+158;Cali;Empresa confidencial;Operaciones y procesos;2;Universitaria;0;0;0;0;1;1;1;0;0;1;0;4 a 4.5 millones;Otro;2;1;Financiero
+159;Medellin;Empresa confidencial;Calidad;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;2 a 2.5millones;Otro;1;1;Salud
+160;Cali;EMA HOLDINGS SAS;Administrativa y financiera;1;Técnica;0;0;0;0;2;0;0;0;0;1;1;2.5 a 3 millones;Otro;1;1;Vehículos y partes
+161;Bucaramanga;Empresa confidencial;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;4;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Comercio al por menor - retail
+162;Cali;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;0;0;1 a 1.5millones;Otro;1;1;Financiero
+163;Cali;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;0;0;2 a 2.5millones;Otro;1;1;Financiero
+164;Medellin;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;1;0;2 a 2.5millones;Otro;1;1;Comercio al por menor - retail
+165;Bucaramanga;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;1;0;0;1;1;Salario a convenir;Otro;0;1;Servicios
+166;Cali;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;0;0;1.5 a 2millones;Otro;1;1;Financiero
+167;Bucaramanga;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;5;1;0;1;0;0;1;4.5 a 5.5 millones;Otro;2;1;Financiero
+168;Bucaramanga;Fundacion de la Mujer;Administrativa y financiera;2;Universitaria;0;0;0;0;2;1;0;0;0;0;0;2 a 2.5millones;Otro;1;1;Financiero
+169;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;1;0;0;1;5;0;0;0;0;1;1;Salario a convenir;Otro;0;1;Organizaciones No Gubernamentales
+170;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;1;0;Salario a convenir;Otro;0;1;Organizaciones No Gubernamentales
+171;Cali;Empresa confidencial;Emprendimiento;2;Universitaria;0;0;0;0;3;0;0;0;1;0;1;Salario a convenir;Otro;0;1;Organizaciones No Gubernamentales
+172;Cali;Empresa confidencial;Emprendimiento;2;Universitaria;0;0;0;0;4;0;0;0;1;0;1;Salario a convenir;Otro;0;1;Organizaciones No Gubernamentales
+173;Cali;Empresa confidencial;Administrativa y financiera;1;Técnica;0;0;0;0;2;0;0;0;0;1;0;Salario a convenir;Otro;0;1;Organizaciones No Gubernamentales
+174;Cali;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;1;0;Salario a convenir;Otro;0;1;Organizaciones No Gubernamentales
+175;Bucaramanga;Empresa confidencial;Compras e Inventarios;2;Universitaria;1;0;0;1;5;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Industrial
+176;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;1;0;0;1;2;0;0;0;0;0;0;2 a 2.5millones;Otro;1;1;Consultorías
+177;Bucaramanga;Fundacion de la Mujer;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;1;1;Salario a convenir;Otro;0;1;Financiero
+178;Bucaramanga;Fundacion de la Mujer;Inversiones, servicio al cliente;2;Universitaria;0;0;0;0;3;0;0;1;0;1;0;2 a 2.5millones;B;1;1;Financiero
+179;Bucaramanga;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;5;1;0;1;1;1;0;4.5 a 5.5 millones;Otro;2;1;Financiero
+180;Medellin;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;1;1;Salario a convenir;Otro;0;1;Financiero
+181;Bucaramanga;Miverva Foods - Red Cárnica SAS;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;1;0;2 a 2.5millones;Otro;1;1;Alimentos
+182;Bucaramanga;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;0;1;1 a 1.5millones;Otro;1;1;Financiero
+183;Bucaramanga;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;5;1;0;0;1;1;0;4.5 a 5.5 millones;Otro;2;1;Financiero
+184;Bogota;Ecopetrol;Administrativa y financiera;2;Universitaria;0;0;0;0;8;1;1;0;1;1;0;15 a 18 millones;B;3;1;Financiero
+185;Bogota;Empresa confidencial;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;5;0;1;0;0;1;0;8 a 10 millones;Otro;3;1;Construccion
+186;Bogota;Empresa confidencial;Consultoría;2;Universitaria;0;0;0;0;2;0;0;0;0;0;0;Salario a convenir;Otro;0;1;Construccion
+187;Bogota;Empresa confidencial;Analista;2;Universitaria;0;0;0;0;0;0;0;0;0;1;1;2 a 2.5millones;Otro;1;1;Financiero
+188;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;1;0;0;1;1;0;0;0;0;1;1;4 a 4.5 millones;Otro;2;1;Estatal y relacionados
+189;Bogota;Federación Nacional de Cultivadores de Palma;Proyectos;2;Universitaria;1;0;0;1;3;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Agropecuario
+190;Medellin;Hospital San Vicente Fundación;Salud;2;Universitaria;0;0;0;0;1;0;0;0;0;1;0;3 a 3.5 millones;Otro;2;1;Salud
+191;Bucaramanga;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;1;1;0;0;0;1;0;Salario a convenir;Otro;0;1;Tecnología
+192;Medellin;Tecnoquimicas;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;2;1;0;0;1;1;1;8 a 10 millones;Otro;3;1;Consumo masivo
+193;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;0;0;1 a 1.5millones;Otro;1;1;Servicios
+194;Medellin;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;3;0;0;0;0;1;1;3.5 a 4 millones;B;2;1;Construccion
+195;Medellin;Empresa confidencial;Contabilidad;2;Universitaria;0;0;0;0;1;0;0;0;1;1;0;2 a 2.5millones;Otro;1;1;Financiero
+196;Cali;Empresa confidencial;Proyectos;2;Universitaria;0;0;0;0;11;0;1;1;0;1;1;18 a 21 millones;B;3;1;Tecnología
+197;Cali;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;3 a 3.5 millones;Otro;2;1;Publicidad y Mercadeo
+198;Bogota;Empresa confidencial;Proyectos;2;Universitaria;1;1;0;1;10;0;0;0;1;1;1;Salario a convenir;Otro;0;1;Financiero
+199;Medellin;Empresa confidencial;Calidad;2;Universitaria;1;0;0;1;7;0;0;0;0;1;1;4 a 4.5 millones;Otro;2;1;Tecnología
+200;Bogota;Empresa confidencial;Analista;2;Universitaria;0;0;0;0;1;0;0;1;0;1;0;2.5 a 3 millones;Otro;2;1;Industrial
+201;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;0;0;2.5 a 3 millones;Otro;2;1;Alimentos
+202;Medellin;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;0;0;2 a 2.5millones;Otro;1;1;Consultorías
+203;Medellin;Coroporacion Universitaria Uniminuto;Docencia;3;Especialización;0;1;0;1;3;0;0;0;0;0;0;2.5 a 3 millones;Otro;2;1;Educativo
+204;Medellin;Empresa confidencial;Proyectos;2;Universitaria;0;0;0;0;4;0;0;0;0;1;1;4.5 a 5.5 millones;B;2;1;Financiero
+205;Bucaramanga;Empresa confidencial;Administrativa y financiera;2;Universitaria;1;1;0;1;2;0;0;0;0;1;1;4.5 a 5.5 millones;Otro;2;1;Estatal y relacionados
+206;Bucaramanga;Empresa confidencial;Administrativa y financiera;2;Universitaria;1;0;0;1;1;0;0;0;0;1;1;4 a 4.5 millones;Otro;2;1;Estatal y relacionados
+207;Bogota;Empresa confidencial;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;3;1;0;0;0;0;1;8 a 10 millones;Otro;3;1;Asegurador
+208;Bucaramanga;Empresa confidencial;Administrativa y financiera;2;Universitaria;1;0;0;1;2;0;0;0;1;0;1;4.5 a 5.5 millones;Otro;2;1;Estatal y relacionados
+209;Medellin;DIAN;Administrativa y financiera;2;Universitaria;0;0;0;0;1;1;1;0;0;0;1;4.5 a 5.5 millones;Otro;2;1;Estatal y relacionados
+210;Bogota;Empresa confidencial;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;1;1;0;1;0;0;1;6 a 8 millones;Otro;2;1;Asegurador
+211;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;1;1;1;0;0;0;1;5.5 a 6 millones;Otro;2;1;Estatal y relacionados
+212;Cali;DIAN;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;1;0;0;0;1;3.5 a 4 millones;Otro;2;1;Estatal y relacionados
+213;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;1;1;Salario a convenir;B;0;1;Financiero
+214;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;1;0;2 a 2.5millones;Otro;1;1;Alimentos
+215;Bogota;Empresa confidencial;Proyectos;1;Técnica;0;0;0;0;3;0;0;0;0;0;0;2 a 2.5millones;Otro;1;1;Tecnología
+216;Bucaramanga;Fundacion de la Mujer;Administrativa y financiera;2;Universitaria;0;0;0;0;1;1;0;0;0;1;0;2 a 2.5millones;Otro;1;1;Financiero
+217;Cali;Empresa confidencial;Analista;2;Universitaria;0;0;0;0;1;0;0;0;0;1;0;1 a 1.5millones;Otro;1;1;Financiero
+218;Bogota;Empresa confidencial;Auditoría, Controlaría e Intervención;2;Universitaria;0;0;0;0;1;1;1;0;0;0;0;Salario a convenir;Otro;0;1;Telecomunicaciones
+219;Bogota;Empresa confidencial;Comercial, Ventas y Telemercadeo;2;Universitaria;1;0;0;1;8;0;0;0;0;0;1;15 a 18 millones;Otro;3;1;Servicios
+220;Cali;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;5;0;0;0;0;0;1;3 a 3.5 millones;Otro;2;1;Construccion
+221;Bucaramanga;Banco Mundo Mujer;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;0;1;1.5 a 2millones;Otro;1;1;Financiero
+222;Medellin;Konecta;Analista;2;Universitaria;0;0;0;0;2;1;1;0;0;0;0;4 a 4.5 millones;Otro;2;1;Tecnología
+223;Medellin;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;10;1;0;0;0;0;1;8 a 10 millones;Otro;3;1;Tecnología
+224;Bogota;Empresa confidencial;Comercial, Ventas y Telemercadeo;2;Universitaria;0;1;0;1;10;1;0;0;0;1;1;18 a 21 millones;C;3;1;Asegurador
+225;Medellin;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;3;0;0;0;0;1;0;Salario a convenir;B;0;1;Financiero
+226;Cali;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;3;0;0;0;0;1;0;2.5 a 3 millones;Otro;2;1;Estatal y relacionados
+227;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;7;1;0;1;0;0;1;15 a 18 millones;Otro;3;1;Servicios
+228;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;5;0;0;0;0;1;1;4.5 a 5.5 millones;C;2;1;Organizaciones No Gubernamentales
+229;Cali;Empresa confidencial;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;1;0;0;0;0;0;0;Salario a convenir;Otro;0;1;Financiero
+230;Cali;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;1;0;1;0;4.5 a 5.5 millones;Otro;2;1;Estatal y relacionados
+231;Bucaramanga;Tuya;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;3;0;0;0;0;0;0;2 a 2.5millones;Otro;1;1;Financiero
+232;Medellin;Empresa confidencial;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;5;0;0;1;0;1;0;4.5 a 5.5 millones;Otro;2;1;Estatal y relacionados
+233;Bucaramanga;Fundación de la mujer;Administrativa y financiera;2;Universitaria;0;0;0;0;1;1;0;0;0;1;0;2 a 2.5millones;Otro;1;1;Servicios
+234;Medellin;Empresa confidencial;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;0;0;0;0;0;0;1;1 a 1.5millones;Otro;1;1;Financiero
+235;Medellin;Empresa confidencial;Operaciones y procesos;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;1.5 a 2millones;Otro;1;1;Financiero
+236;Bucaramanga;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;0;1;2 a 2.5millones;Otro;1;1;Financiero
+237;Medellin;Empresa confidencial;Compras e Inventarios;2;Universitaria;0;0;0;0;3;0;0;0;0;0;1;2 a 2.5millones;Otro;1;1;Alimentos
+238;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;1;0;0;1;6;1;0;0;1;1;1;11 a 15 millones;Otro;3;1;Financiero
+239;Bogota;Empresa confidencial;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;2;1;0;0;0;1;1;6 a 8 millones;Otro;2;1;Asegurador
+240;Cali;Empresa confidencial;Sistemas y tecnología;2;Universitaria;0;0;0;0;2;0;0;0;0;1;1;3.5 a 4 millones;Otro;2;1;Servicios
+241;Bogota;Empresa confidencial;Contratos y Pagos;2;Universitaria;0;0;0;0;4;0;0;0;0;1;0;Salario a convenir;C;0;1;Servicios
+242;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;1;0;0;3 a 3.5 millones;Otro;2;1;Comercio al por menor - retail
+243;Medellin;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;0;1;3 a 3.5 millones;Otro;2;1;Financiero
+244;Cali;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;1;1;0;0;0;1;1;4.5 a 5.5 millones;Otro;2;1;Servicios
+245;Medellin;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;0;0;2 a 2.5millones;Otro;1;1;Financiero
+246;Medellin;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;4;1;0;0;1;0;1;6 a 8 millones;Otro;2;1;Asegurador
+247;Medellin;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;2;1;0;0;0;1;0;3.5 a 4 millones;Otro;2;1;Consultorías
+248;Bogota;Empresa confidencial;Estadistica;2;Universitaria;0;0;0;0;1;1;1;0;0;0;0;3 a 3.5 millones;Otro;2;1;Financiero
+249;Bogota;Ozeol;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;1;0;0;0;0;0;1;4 a 4.5 millones;C;2;1;Financiero
+250;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;0;0;1.5 a 2millones;Otro;1;1;Servicios
+251;Cali;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;1;0;1.5 a 2millones;C;1;1;Financiero
+252;Cali;Empresa confidencial;Compras e Inventarios;2;Universitaria;0;0;0;0;5;0;0;0;0;1;1;3.5 a 4 millones;Otro;2;1;Industrial
+253;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;1;0;0;1;10;1;0;0;1;1;1;15 a 18 millones;Otro;3;1;Otros
+254;Bucaramanga;Empresa confidencial;Mercadeo y Publicidad;2;Universitaria;0;1;0;1;1;1;0;0;1;1;1;6 a 8 millones;Otro;2;1;Consultorías
+255;Bucaramanga;Empresa confidencial;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;1;0;0;0;0;0;0;1.5 a 2millones;Otro;1;1;Servicios
+256;Bogota;Empresa confidencial;Mercadeo y Publicidad;2;Universitaria;0;0;0;0;1;0;0;0;0;0;1;3 a 3.5 millones;Otro;2;1;Agropecuario
+257;Bogota;Empresa confidencial;Mercadeo y Publicidad;2;Universitaria;1;0;0;1;4;0;0;0;0;0;1;4.5 a 5.5 millones;Otro;2;1;Comercializadora
+258;Bucaramanga;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;0;0;1 a 1.5millones;Otro;1;1;Financiero
+259;Cali;Empresa confidencial;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;3;0;0;0;1;0;0;3 a 3.5 millones;Otro;2;1;Consumo masivo
+260;Bucaramanga;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;0;0;1 a 1.5millones;Otro;1;1;Servicios
+261;Bogota;Empresa confidencial;Analista;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;1.5 a 2millones;Otro;1;1;Servicios
+262;Medellin;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;1;1;4 a 4.5 millones;Otro;2;1;Servicios
+263;Medellin;Empresa confidencial;Calidad;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;3 a 3.5 millones;Otro;2;1;Servicios
+264;Medellin;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Financiero
+265;Medellin;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;3;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Servicios
+266;Medellin;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;0;0;0;0;0;0;0;1 a 1.5millones;Otro;1;1;Financiero
+267;Bogota;Empresa confidencial;Consultoría;2;Universitaria;1;0;0;1;8;0;0;0;0;1;1;Salario a convenir;Otro;0;1;Financiero
+268;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;5;0;0;0;0;1;1;5.5 a 6 millones;Otro;2;1;Servicios
+269;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;5;0;0;1;0;0;1;Salario a convenir;Otro;0;1;Publicidad y Mercadeo
+270;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;1;0;Salario a convenir;Otro;0;1;Servicios
+271;Medellin;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;1;0;3 a 3.5 millones;Otro;2;1;Financiero
+272;Bogota;Empresa confidencial;Analista;2;Universitaria;0;0;0;0;5;1;1;0;0;1;0;11 a 15 millones;Otro;3;1;Financiero
+273;Bogota;Proyecto T;Administrativa y financiera;2;Universitaria;0;0;0;0;0;1;0;0;0;1;0;Salario a convenir;Otro;0;1;Asegurador
+274;Bogota;Empresa confidencial;Compras e Inventarios;2;Universitaria;0;0;0;0;4;0;0;0;0;0;1;4.5 a 5.5 millones;B;2;1;Servicios
+275;Bucaramanga;Empresa confidencial;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;1;0;0;0;0;0;0;1.5 a 2millones;Otro;1;1;Salud
+276;Bogota;Empresa confidencial;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;5;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Servicios
+277;Bogota;Empresa confidencial;Analista;2;Universitaria;0;0;0;0;1;0;0;0;0;0;0;1 a 1.5millones;Otro;1;1;Financiero
+278;Cali;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;1;0;Salario a convenir;Otro;0;1;Consultorías
+279;Bogota;Empresa confidencial;Calidad;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;2.5 a 3 millones;Otro;2;1;Financiero
+280;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;1;0;0;0;2 a 2.5millones;Otro;2;1;Vehículos y partes
+281;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;1;0;0;1;10;1;0;0;1;0;0;Salario a convenir;Otro;0;1;Financiero
+282;Bogota;Empresa confidencial;Analista;2;Universitaria;0;0;0;0;0;1;0;0;0;0;0;Salario a convenir;B;0;1;Servicios
+283;Bogota;Empresa confidencial;Analista;2;Universitaria;0;0;0;0;0;0;0;0;0;0;0;Salario a convenir;B;0;1;Aeronautico
+284;Bogota;Empresa confidencial;Analista;2;Universitaria;0;0;0;0;0;1;0;0;0;0;0;Salario a convenir;Otro;0;1;Retail
+285;Medellin;Empresa confidencial;Calidad;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Financiero
+286;Bogota;Empresa confidencial;Calidad;2;Universitaria;0;0;0;0;8;1;0;0;0;1;1;8 a 10 millones;C;3;1;Servicios
+287;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;5;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Servicios
+288;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;3;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Financiero
+289;Cali;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Financiero
+290;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;1;0;0;Salario a convenir;Otro;0;1;Financiero
+291;Bogota;Empresa confidencial;Analista;2;Universitaria;0;0;0;0;2;0;0;0;0;1;1;Salario a convenir;C;0;1;Servicios
+292;Bogota;Empresa confidencial;Analista;2;Universitaria;0;0;0;0;1;0;0;0;0;1;0;Salario a convenir;Otro;0;1;Financiero
+293;Medellin;Empresa confidencial;Analista;2;Universitaria;0;0;0;0;0;1;0;0;1;0;1;Salario a convenir;C;0;1;Tecnología
+294;Bogota;Empresa confidencial;Analista;2;Universitaria;1;0;0;1;6;1;0;0;0;0;1;6 a 8 millones;Otro;3;1;Financiero
+295;Bogota;Empresa confidencial;Analista;2;Universitaria;0;0;0;0;2;0;0;1;0;0;0;Salario a convenir;Otro;0;1;Hidrocarburos
+296;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;4;1;0;0;0;1;1;4.5 a 5.5 millones;Otro;2;1;Financiero
+297;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;1;1;0;0;0;1;0;Salario a convenir;Otro;0;1;Servicios
+298;Medellin;Empresa confidencial;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;2;1;0;0;0;1;0;2.5 a 3 millones;Otro;2;1;Servicios
+299;Bogota;Empresa confidencial;Investigación;2;Universitaria;0;0;0;0;3;1;0;0;1;1;0;5.5 a 6 millones;C;2;1;Financiero
+300;Bucaramanga;Empresa confidencial;Analista;2;Universitaria;0;0;0;0;3;0;0;0;0;0;0;Salario a convenir;Otro;0;1;Alimentos
+301;Medellin;Empresa confidencial;Calidad;2;Universitaria;0;0;0;0;4;1;0;0;1;1;1;11 a 15 millones;Otro;3;1;Financiero
+302;Bogota;Empresa confidencial;Calidad;2;Universitaria;0;0;0;0;2;0;0;0;1;0;1;1.5 a 2millones;B;1;1;Tecnología
+303;Medellin;Empresa confidencial;Analista;2;Universitaria;1;0;0;1;3;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Educativo
+304;Bogota;Uniminuto;Docencia;2;Universitaria;0;1;0;1;3;0;0;0;0;0;1;3 a 3.5 millones;Otro;2;1;Educativo
+305;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Financiero
+306;Bogota;La Cardio;Analista;2;Universitaria;0;0;0;0;2;1;0;0;1;1;0;4.5 a 5.5 millones;Otro;2;1;Salud
+307;Bogota;CAFAM;Mercadeo y Publicidad;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;3.5 a 4 millones;Otro;2;1;Servicios
+308;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;8;1;0;0;0;1;1;18 a 21 millones;Otro;3;1;Consultorías
+309;Bogota;Empresa confidencial;Analista;2;Universitaria;0;0;0;0;1;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Retail
+310;Bogota;Empresa confidencial;Mercadeo y Publicidad;2;Universitaria;0;0;0;0;0;0;0;0;0;1;0;1 a 1.5millones;Otro;1;1;Educativo
+311;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;1;1;4 a 4.5 millones;Otro;2;1;Financiero
+312;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;1;1;0;0;1;1;1;4.5 a 5.5 millones;Otro;2;1;Financiero
+313;Bogota;Empresa confidencial;Analista;2;Universitaria;0;0;0;0;4;1;0;0;1;0;1;11 a 15 millones;B;3;1;Industrial
+314;Bogota;Empresa confidencial;Analista;2;Universitaria;0;0;0;0;5;1;0;0;1;0;1;8 a 10 millones;Otro;3;1;Consultorías
+315;Medellin;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;0;0;1 a 1.5millones;Otro;1;1;Servicios
+316;Medellin;Empresa confidencial;Analista;2;Universitaria;0;0;0;0;3;0;0;0;0;1;1;3 a 3.5 millones;Otro;2;1;Tecnología
+317;Medellin;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;1;1;0;0;0;1;1;4.5 a 5.5 millones;Otro;2;1;Servicios
+318;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Financiero
+319;Medellin;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;3;0;0;0;0;1;1;2.5 a 3 millones;Otro;2;1;Consultorías
+320;Medellin;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;0;0;1.5 a 2millones;Otro;1;1;Consultorías
+321;Bogota;Empresa confidencial;Mercadeo y Publicidad;2;Universitaria;1;0;0;1;3;1;0;0;1;0;1;6 a 8 millones;A;3;1;Tecnología
+322;Medellin;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;6;1;0;0;0;1;1;6 a 8 millones;A;3;1;Consultorías
+323;Bogota;Empresa confidencial;Analista;2;Universitaria;0;0;0;0;3;0;1;0;0;1;1;6 a 8 millones;Otro;3;1;Servicios
+324;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;1;0;0;1;6;1;0;0;1;1;1;11 a 15 millones;Otro;3;1;Servicios
+325;Medellin;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;5;0;0;0;0;1;1;4.5 a 5.5 millones;B;2;1;Servicios
+326;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Servicios
+327;Bucaramanga;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;1;1;3 a 3.5 millones;Otro;2;1;Servicios
+328;Medellin;Empresa confidencial;Recursos Humanos y Admin de Personal;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;1 a 1.5millones;Otro;1;1;Servicios
+329;Bogota;Empresa confidencial;Analista;2;Universitaria;0;0;0;0;3;0;0;0;0;1;1;4.5 a 5.5 millones;A;2;1;Financiero
+330;Bogota;Empresa confidencial;Analista;2;Universitaria;0;0;0;0;2;0;0;0;1;1;1;Salario a convenir;Otro;0;1;Financiero
+331;Bogota;Ecopetrol;Calidad;2;Universitaria;1;1;0;1;10;1;0;0;1;1;1;Salario a convenir;Otro;0;1;Financiero
+332;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;3;0;0;0;0;0;0;Salario a convenir;B;0;1;Financiero
+333;Bogota;SONDA;DesarrolloEmpresarial;2;Universitaria;1;0;0;1;10;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Tecnología
+334;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;3;0;0;0;0;0;1;Salario a convenir;B;0;1;Financiero
+335;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;6;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Construccion
+336;Bogota;Empresa confidencial;Ingeniería;2;Universitaria;0;0;0;0;1;0;0;0;0;0;1;2 a 2.5millones;Otro;2;1;Tecnología
+337;Bogota;Empresa confidencial;Recursos Humanos y Admin de Personal;2;Universitaria;0;0;0;0;6;0;0;0;0;1;1;Salario a convenir;C;0;1;Tecnología
+338;Bogota;Empresa confidencial;Proyectos;2;Universitaria;0;0;0;0;4;0;0;0;0;1;1;Salario a convenir;Otro;0;1;Inversiones 
+339;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;1;1;0;0;1;1;1;3.5 a 4 millones;Otro;2;1;Financiero
+340;Bogota;Campetrol;Analista;2;Universitaria;0;0;0;0;3;0;0;0;0;1;1;Salario a convenir;Otro;0;1;Industrial
+341;Bogota;Empresa confidencial;Analista;2;Universitaria;1;0;0;1;3;0;0;0;0;1;1;Salario a convenir;Otro;0;1;Industrial
+342;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;1;1;Salario a convenir;Otro;0;1;Financiero
+343;Medellin;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;1;1;Salario a convenir;Otro;0;1;Tecnología
+344;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;2;1;0;0;1;1;1;4.5 a 5.5 millones;Otro;2;1;Financiero
+345;Bogota;Empresa confidencial;Analista;2;Universitaria;0;0;0;0;1;0;0;0;0;1;1;Salario a convenir;B;0;1;Consultorías
+346;Bogota;Empresa confidencial;Analista;2;Universitaria;0;0;0;0;1;1;0;0;1;0;1;4.5 a 5.5 millones;Otro;2;1;Financiero
+347;Bogota;Empresa confidencial;Analista;2;Universitaria;0;0;0;0;3;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Telecomunicaciones
+348;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;3;1;0;0;0;1;1;Salario a convenir;Otro;0;1;Financiero
+349;Bogota;Empresa confidencial;Planeación;2;Universitaria;0;0;0;0;5;1;0;0;1;1;1;4.5 a 5.5 millones;Otro;2;1;Financiero
+350;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;5;1;0;0;0;1;1;4.5 a 5.5 millones;Otro;2;1;Entidad Jurídica
+351;Bogota;Empresa confidencial;Analista;2;Universitaria;0;0;0;0;3;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Servicios
+352;Bogota;Empresa confidencial;Tecnologia;2;Universitaria;0;0;0;0;3;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Retail
+353;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;3;0;0;0;0;1;1;4.5 a 5.5 millones;Otro;2;1;Financiero
+354;Bogota;Empresa confidencial;Tecnologia;2;Universitaria;0;0;0;0;2;0;0;0;0;1;1;3.5 a 4 millones;Otro;2;1;Financiero
+355;Bogota;Empresa confidencial;Tecnologia;2;Universitaria;0;0;0;0;1;0;0;0;0;0;1;3.5 a 4 millones;Otro;2;1;Financiero
+356;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;1;1;3.5 a 4 millones;Otro;2;1;Financiero
+357;Bogota;Empresa confidencial;Tecnologia;2;Universitaria;0;0;0;0;1;0;0;0;0;0;0;Salario a convenir;Otro;0;1;Telecomunicaciones
+358;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;3;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Tecnología
+359;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;4;0;0;0;0;0;0;Salario a convenir;Otro;0;1;Tecnología
+360;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;1.5 a 2millones;Otro;1;1;Consultorías
+361;Bogota;Empresa confidencial;Recursos Humanos y Admin de Personal;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Asegurador
+362;Bogota;Empresa confidencial;Analista;2;Universitaria;0;0;0;0;3;0;0;1;0;1;1;Salario a convenir;Otro;0;1;Industrial
+363;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;0;0;Salario a convenir;C;0;1;Aeronautico
+364;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;0;0;Salario a convenir;Otro;0;1;Comercio al por menor - retail
+365;Bogota;Empresa confidencial;Analista;2;Universitaria;0;0;0;0;2;0;0;0;0;0;0;2.5 a 3 millones;Otro;2;1;Financiero
+366;Bogota;Empresa confidencial;Analista;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;3.5 a 4 millones;Otro;2;1;Financiero
+367;Bogota;Empresa confidencial;Mercadeo y Publicidad;2;Universitaria;0;0;0;0;1;0;0;0;0;1;0;1 a 1.5millones;Otro;1;1;Financiero
+368;Bogota;Empresa confidencial;Mercadeo y Publicidad;2;Universitaria;0;0;0;0;1;1;0;0;0;1;1;1.5 a 2millones;Otro;1;1;Financiero
+369;Bogota;Empresa confidencial;DesarrolloEmpresarial;2;Universitaria;0;0;0;0;3;0;0;0;0;0;0;Salario a convenir;Otro;0;1;Financiero
+370;Medellin;Empresa confidencial;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;10;1;0;0;0;1;1;Salario a convenir;Otro;0;1;Financiero
+371;Bogota;Empresa confidencial;Auditoría, Controlaría e Intervención;2;Universitaria;0;0;0;0;0;0;0;0;0;0;1;1.5 a 2millones;Otro;1;1;Financiero
+372;Bogota;Empresa confidencial;Mercadeo y Publicidad;2;Universitaria;0;0;0;0;3;1;0;0;1;1;1;Salario a convenir;Otro;0;1;Servicios
+373;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;3;0;0;0;0;0;1;Salario a convenir;C;0;1;Financiero
+374;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;8;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Industrial
+375;Bogota;Empresa confidencial;Ambiental;2;Universitaria;0;0;0;0;3;0;0;0;0;1;1;3 a 3.5 millones;B;2;1;Financiero
+376;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;0;1;0;0;1;1;0;Salario a convenir;C;0;1;Financiero
+377;Cali;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Financiero
+378;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;0;1;0;0;1;1;0;Salario a convenir;Otro;0;1;Alimentos
+379;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;1;0;0;1;4;0;0;0;0;1;1;Salario a convenir;Otro;0;1;Comercio Electrónico
+380;Bogota;Empresa confidencial;DesarrolloEmpresarial;2;Universitaria;0;1;0;1;3;0;0;0;1;1;0;Salario a convenir;B;0;1;Comercio al por menor - retail
+381;Bogota;Empresa confidencial;Consultoría;2;Universitaria;0;0;0;0;5;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Servicios
+382;Bucaramanga;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;0;1;0;0;1;1;1;Salario a convenir;Otro;0;1;Financiero
+383;Bogota;Empresa confidencial;Auditoría, Controlaría e Intervención;2;Universitaria;0;0;0;0;2;0;0;0;0;1;1;Salario a convenir;Otro;0;1;Financiero
+384;Bogota;Empresa confidencial;Analista;2;Universitaria;1;0;0;1;5;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Industrial
+385;Bucaramanga;Empresa confidencial;Proyectos;2;Universitaria;0;0;0;0;2;0;0;0;0;1;1;Salario a convenir;Otro;0;1;Educativo
+386;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;3;1;0;0;1;1;1;6 a 8 millones;Otro;3;1;Financiero
+387;Cali;Empresa confidencial;DesarrolloEmpresarial;2;Universitaria;0;0;0;0;3;0;0;0;0;0;1;2 a 2.5millones;Otro;2;1;Servicios
+388;Bogota;Empresa confidencial;Proyectos;2;Universitaria;1;0;0;1;4;0;0;0;0;0;1;8 a 10 millones;Otro;3;1;Educativo
+389;Bogota;Ecopetrol;Mercadeo y Publicidad;2;Universitaria;0;0;0;0;6;1;0;0;0;1;1;8 a 10 millones;C;3;1;Industrial
+390;Bucaramanga;Dirección Territorial Centro Oriente Sistemas;Administrativa y financiera;2;Universitaria;0;0;0;0;2;1;0;0;0;0;1;4 a 4.5 millones;Otro;2;1;Servicios
+391;Bucaramanga;Empresa confidencial;Docencia;2;Universitaria;0;0;1;1;4;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Educativo
+392;Bogota;Empresa confidencial;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;1;0;0;0;0;0;0;1 a 1.5millones;Otro;1;1;Financiero
+393;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;5;0;0;0;0;1;1;Salario a convenir;Otro;0;1;Consultorías
+394;Bucaramanga;Empresa confidencial;Administrativa y financiera;2;Universitaria;1;0;0;1;3;0;0;0;0;1;1;Salario a convenir;Otro;0;1;Educativo
+395;Medellin;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;4;0;0;1;0;0;1;2.5 a 3 millones;Otro;2;1;Alimentos
+396;Cali;Empresa confidencial;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;3;0;0;0;0;0;1;3.5 a 4 millones;B;2;1;Consultorías
+397;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;0;0;1 a 1.5millones;Otro;1;1;Servicios
+398;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;1;1;2 a 2.5millones;Otro;2;1;Construccion
+399;Bogota;Empresa confidencial;Tecnologia;2;Universitaria;0;0;0;0;5;1;0;0;0;1;1;5.5 a 6 millones;Otro;2;1;Tecnología
+400;Medellin;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;5;0;0;0;1;0;1;5.5 a 6 millones;Otro;2;1;Financiero
+401;Bogota;Empresa confidencial;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;2.5 a 3 millones;Otro;2;1;Financiero
+402;Medellin;Lilipink;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;0;1;3 a 3.5 millones;Otro;2;1;Textiles
+403;Bogota;Unisono;Calidad;2;Universitaria;0;0;0;0;3;0;0;0;0;0;0;Salario a convenir;Otro;0;1;Telecomunicaciones
+404;Medellin;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;1;1;3 a 3.5 millones;Otro;2;1;Financiero
+405;Bucaramanga;Empresa confidencial;Administrativa y financiera;1;Bachillerato;0;0;0;0;1;0;0;0;0;0;0;1 a 1.5millones;Otro;1;1;Alimentos
+406;Bogota;Empresa confidencial;Analista;2;Universitaria;0;0;0;0;3;0;0;0;0;0;0;1 a 1.5millones;Otro;1;1;Comercializadora
+407;Bogota;Empresa confidencial;Analista;2;Universitaria;0;0;0;0;3;0;0;0;0;0;1;2 a 2.5millones;Otro;2;1;Financiero
+408;Medellin;Empresa confidencial;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;3;0;0;0;0;1;1;4.5 a 5.5 millones;Otro;2;1;Construccion
+409;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Financiero
+410;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;4;0;0;0;0;0;1;3 a 3.5 millones;Otro;2;1;Salud
+411;Bucaramanga;Empresa confidencial;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;1;0;0;0;0;0;1;1 a 1.5millones;Otro;1;1;Financiero
+412;Medellin;Empresa confidencial;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;1;0;0;0;0;0;1;1.5 a 2millones;Otro;1;1;Servicios
+413;Bucaramanga;Empresa confidencial;Analista;1;Técnica;0;0;0;0;2;0;0;0;0;0;0;1 a 1.5millones;Otro;1;1;Financiero
+414;Bucaramanga;Empresa confidencial;Recursos Humanos y Admin de Personal;2;Universitaria;1;0;0;1;3;0;0;0;0;0;0;Salario a convenir;Otro;0;1;Servicios
+415;Bucaramanga;Empresa confidencial;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;1;0;0;0;0;0;0;1 a 1.5millones;Otro;1;1;Servicios
+416;Bogota;Empresa confidencial;Analista;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;2 a 2.5millones;Otro;2;1;Financiero
+417;Bogota;Empresa confidencial;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;0;0;0;0;0;0;1;1 a 1.5millones;Otro;1;1;Financiero
+418;Bogota;Empresa confidencial;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;2;0;0;0;0;1;1;3 a 3.5 millones;Otro;2;1;Vehículos y partes
+419;Bogota;Empresa confidencial;Recursos Humanos y Admin de Personal;2;Universitaria;0;0;0;0;1;0;0;0;0;0;1;2 a 2.5millones;Otro;2;1;Salud
+420;Bogota;Empresa confidencial;Tecnologia;2;Universitaria;0;0;0;0;3;1;0;0;1;1;1;6 a 8 millones;Otro;3;1;Servicios
+421;Medellin;OneLink;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;0;0;0;0;0;0;0;Salario a convenir;Otro;0;1;Servicios
+422;Bogota;Empresa confidencial;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;5;0;0;0;0;0;1;3 a 3.5 millones;Otro;2;1;Financiero
+423;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;1;0;0;1;6;0;0;0;0;0;1;5.5 a 6 millones;Otro;2;1;Educativo
+424;Medellin;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;2 a 2.5millones;Otro;2;1;Financiero
+425;Bucaramanga;Empresa confidencial;Analista;2;Universitaria;0;0;0;0;2;0;0;0;0;0;0;Salario a convenir;Otro;0;1;Financiero
+426;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;3;0;0;1;0;0;1;2.5 a 3 millones;Otro;2;1;Consultorías
+427;Bucaramanga;Crezcamos;Analista;2;Universitaria;0;0;0;0;1;0;0;0;0;0;0;1 a 1.5millones;Otro;1;1;Financiero
+428;Medellin;Empresa confidencial;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;3;0;0;0;0;0;1;3 a 3.5 millones;Otro;2;1;Construccion
+429;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;5;0;0;0;0;0;1;3 a 3.5 millones;Otro;2;1;Comercio al por menor - retail
+430;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;3.5 a 4 millones;B;2;1;Servicios
+431;Bogota;Empresa confidencial;Proyectos;2;Universitaria;0;0;0;0;1;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Financiero
+432;Bogota;Empresa confidencial;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;4 a 4.5 millones;Otro;2;1;Financiero
+433;Medellin;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;1;1;3 a 3.5 millones;Otro;2;1;Financiero
+434;Medellin;Empresa confidencial;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;0;0;0;0;0;1;1;2 a 2.5millones;Otro;2;1;Servicios
+435;Bogota;Empresa confidencial;Analista;2;Universitaria;0;0;0;0;2;0;0;0;0;1;1;1 a 1.5millones;Otro;1;1;Vehículos y partes
+436;Cali;Empresa confidencial;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;3;0;0;0;0;1;1;2.5 a 3 millones;Otro;2;1;Servicios
+437;Medellin;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;1;1;2.5 a 3 millones;Otro;2;1;Vehículos y partes
+438;Bucaramanga;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;0;0;0;0;0;0;1;1 a 1.5millones;Otro;1;1;Financiero
+439;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;0;0;1 a 1.5millones;Otro;1;1;Comercio al por menor - retail
+440;Bogota;Empresa confidencial;Analista;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;2 a 2.5millones;Otro;2;1;Financiero
+441;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;0;1;0;1;0;1;0;1.5 a 2millones;Otro;1;1;Financiero
+442;Medellin;Empresa confidencial;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;5;0;0;0;0;1;1;6 a 8 millones;Otro;3;1;Comercio al por menor - retail
+443;Bogota;Empresa confidencial;Tecnologia;2;Universitaria;0;0;0;0;1;0;0;0;0;0;0;1.5 a 2millones;Otro;1;1;Telecomunicaciones
+444;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;3;0;0;0;0;0;1;1.5 a 2millones;Otro;1;1;Comercio al por menor - retail
+445;Medellin;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;1.5 a 2millones;Otro;1;1;Salud
+446;Bogota;Empresa confidencial;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;0;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Educativo
+447;Cali;Empresa confidencial;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;1;0;0;0;0;0;0;1 a 1.5millones;Otro;1;1;Financiero
+448;Cali;Empresa confidencial;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;2 a 2.5millones;Otro;2;1;Financiero
+449;Bogota;Empresa confidencial;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;0;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Educativo
+450;Medellin;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;1;0;2.5 a 3 millones;Otro;2;1;Comercio al por menor - retail
+451;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;3;0;0;0;0;1;1;1.5 a 2millones;Otro;1;1;Servicios
+452;Bucaramanga;Empresa confidencial;Analista;2;Universitaria;0;0;0;0;1;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Financiero
+453;Medellin;Empresa confidencial;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;1;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Financiero
+454;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;1;1;2 a 2.5millones;Otro;2;1;Financiero
+455;Medellin;Empresa confidencial;Calidad;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;2 a 2.5millones;Otro;2;1;Comercio al por menor - retail
+456;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;1;1;1.5 a 2millones;Otro;1;1;Comercio al por menor - retail
+457;Bucaramanga;Empresa confidencial;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;1;0;0;0;0;1;1;Salario a convenir;Otro;0;1;Financiero
+458;Bucaramanga;Empresa confidencial;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Industrial
+459;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;5;0;0;0;0;1;1;4.5 a 5.5 millones;Otro;2;1;Comercio al por menor - retail
+460;Cali;Empresa confidencial;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;1.5 a 2millones;Otro;1;1;Financiero
+461;Cali;Empresa confidencial;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Educativo
+462;Bogota;Empresa confidencial;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;3;1;0;1;0;1;1;4.5 a 5.5 millones;Otro;2;1;Servicios
+463;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;1;0;0;0;0;0;0;1 a 1.5millones;Otro;1;1;Servicios
+464;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;2;0;0;0;0;0;1;3 a 3.5 millones;Otro;2;1;Consultorías
+465;Bogota;Empresa confidencial;Administrativa y financiera;2;Universitaria;0;0;0;0;5;0;0;0;0;0;1;Salario a convenir;Otro;0;1;Educativo
+466;Bogota;Empresa confidencial;Operaciones y procesos;2;Universitaria;0;0;0;0;5;0;0;1;0;0;1;3 a 3.5 millones;Otro;2;1;Consumo masivo
+467;Bogota;Empresa confidencial;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;2;0;0;0;1;1;1;3.5 a 4 millones;Otro;2;1;Servicios
+468;Bogota;Empresa confidencial;Comercial, Ventas y Telemercadeo;2;Universitaria;0;0;0;0;3;0;0;0;0;0;1;2 a 2.5millones;Otro;2;1;Construccion
